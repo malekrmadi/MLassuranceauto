@@ -1,0 +1,1001 @@
+age_conducteur,annees_experience,accidents,age_vehicule,prix_vehicule_categorie,parking,profil_conducteur,valeur_vehicule,assurance_recommandee
+31,8,1,10,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+35,12,0,2,cher,False,expérimenté,cher,Tous Risques
+36,18,0,0,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+53,16,0,13,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+39,19,0,6,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+33,11,0,17,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+45,6,0,10,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+27,5,0,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+28,10,0,15,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+38,19,1,2,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+45,20,1,16,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+25,5,1,15,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+43,21,1,8,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+52,11,1,4,cher,True,expérimenté,cher,Tous Risques
+48,9,1,6,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+38,7,1,17,peu coûteux,True,modéré,peu coûteux,Tiers
+39,14,0,10,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+28,10,0,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+31,7,0,16,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+52,32,0,14,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+49,11,1,16,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+32,13,0,13,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+46,28,1,20,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+31,6,1,3,cher,False,modéré,cher,Tous Risques
+26,8,0,4,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+45,16,0,7,cher,True,expérimenté,cher,Tous Risques
+41,10,0,9,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+40,5,0,19,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+51,8,0,22,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+33,5,0,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+49,22,1,6,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+40,21,0,3,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+47,13,0,19,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+48,5,0,3,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+54,7,0,21,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+46,7,0,4,cher,True,expérimenté,cher,Tous Risques
+40,12,1,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+46,27,0,9,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+51,31,1,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+53,20,0,0,cher,False,expérimenté,cher,Tous Risques
+54,33,0,12,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+38,9,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+49,14,1,11,cher,True,expérimenté,intermédiaire,Tous Risques
+39,6,0,20,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+46,20,0,6,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+52,30,0,4,cher,True,expérimenté,cher,Tous Risques
+38,16,1,1,cher,True,expérimenté,cher,Tous Risques
+46,23,0,20,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+46,15,0,15,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+30,9,0,6,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+37,6,0,20,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+50,27,0,1,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+45,5,0,1,cher,True,expérimenté,cher,Tous Risques
+49,12,1,10,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+53,27,0,22,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+38,16,0,1,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+40,20,1,8,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+29,8,0,22,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+29,9,0,2,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+51,24,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+29,8,0,13,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+36,18,0,2,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+53,30,0,22,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+45,22,0,7,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+28,6,0,6,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+42,21,1,8,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+47,29,0,20,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+46,17,1,15,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+33,11,1,22,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+29,7,0,7,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+31,9,0,2,cher,False,expérimenté,cher,Tous Risques
+53,15,1,12,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+53,10,0,13,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+26,5,0,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+44,21,1,7,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+43,16,0,22,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+37,6,0,3,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+31,5,0,20,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+45,10,1,16,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+46,25,1,2,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+39,13,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+40,15,0,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+45,12,0,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+52,9,1,20,intermédiaire,True,modéré,peu coûteux,Tiers
+37,16,0,2,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+29,11,1,1,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+47,28,0,18,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+55,29,1,16,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+55,5,0,3,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+30,7,0,8,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+45,18,0,16,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+41,12,0,11,cher,True,expérimenté,intermédiaire,Tous Risques
+46,26,1,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+54,31,0,2,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+38,6,1,5,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+54,19,0,9,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+54,27,0,7,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+41,9,1,16,intermédiaire,True,modéré,peu coûteux,Tiers
+35,7,0,19,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+32,8,0,6,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+42,23,0,3,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+30,5,0,17,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+37,15,0,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+40,21,0,20,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+39,18,0,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+48,23,1,17,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+42,10,0,8,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+41,11,0,20,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+34,7,0,7,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+32,12,0,0,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+26,7,0,8,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+45,10,0,14,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+48,27,1,2,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+55,10,0,7,cher,False,expérimenté,cher,Tous Risques
+54,28,1,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+43,17,1,1,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+44,21,0,17,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+35,8,0,9,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+47,14,1,5,cher,True,expérimenté,cher,Tous Risques
+33,5,0,9,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+41,9,1,17,peu coûteux,False,modéré,peu coûteux,Tiers
+26,8,0,11,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+52,34,1,2,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+28,5,1,11,intermédiaire,False,modéré,intermédiaire,Tiers Plus
+43,10,0,4,cher,False,expérimenté,cher,Tous Risques
+47,6,0,22,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+27,7,0,2,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+54,11,0,4,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+25,6,0,8,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+30,9,0,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+39,8,1,22,peu coûteux,True,modéré,peu coûteux,Tiers
+35,15,0,1,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+47,19,0,16,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+25,7,1,15,peu coûteux,False,modéré,peu coûteux,Tiers
+48,9,1,3,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+43,18,1,4,cher,False,expérimenté,cher,Tous Risques
+38,8,0,22,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+33,9,0,12,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+50,15,1,5,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+51,16,1,10,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+25,5,1,21,peu coûteux,True,modéré,peu coûteux,Tiers
+44,13,0,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+37,18,1,22,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+41,17,0,22,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+39,6,0,9,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+32,11,1,13,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+25,7,1,10,peu coûteux,True,modéré,peu coûteux,Tiers
+47,7,0,11,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+27,7,0,5,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+48,18,1,8,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+47,20,0,4,cher,True,expérimenté,cher,Tous Risques
+53,23,0,5,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+35,14,1,15,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+54,13,0,15,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+48,18,0,1,cher,True,expérimenté,cher,Tous Risques
+32,6,0,14,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+53,17,0,9,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+28,5,0,9,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+34,10,0,9,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+37,13,0,20,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+50,18,0,2,cher,True,expérimenté,cher,Tous Risques
+43,25,1,7,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+27,6,0,8,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+39,7,1,16,intermédiaire,False,modéré,peu coûteux,Tiers
+26,5,0,4,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+34,13,0,8,cher,False,expérimenté,cher,Tous Risques
+30,6,0,20,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+47,21,0,22,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+47,9,0,21,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+50,13,1,1,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+50,25,0,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+40,12,1,21,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+27,6,0,17,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+52,17,0,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+31,12,0,16,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+34,16,0,1,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+37,17,0,10,cher,True,expérimenté,cher,Tous Risques
+41,16,0,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+55,24,1,6,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+42,8,1,19,intermédiaire,False,modéré,peu coûteux,Tiers
+33,5,0,2,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+35,16,0,17,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+26,5,1,3,peu coûteux,False,modéré,peu coûteux,Tiers
+45,23,0,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+50,7,1,18,intermédiaire,True,modéré,peu coûteux,Tiers
+44,21,0,21,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+27,7,0,18,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+29,6,0,12,cher,False,expérimenté,intermédiaire,Tous Risques
+34,13,0,14,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+39,10,0,21,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+37,16,0,11,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+43,7,0,16,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+43,20,0,19,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+49,25,0,9,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+37,14,0,13,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+54,11,0,17,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+26,8,0,12,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+52,28,1,2,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+26,7,0,0,cher,False,expérimenté,cher,Tous Risques
+28,6,1,3,cher,True,modéré,cher,Tous Risques
+25,6,0,1,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+36,8,0,15,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+30,11,0,5,cher,False,expérimenté,cher,Tous Risques
+41,7,0,2,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+26,7,0,6,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+52,33,1,9,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+51,5,0,5,cher,True,expérimenté,cher,Tous Risques
+49,28,0,19,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+49,21,0,2,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+27,9,0,3,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+39,18,0,7,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+52,26,0,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+32,9,0,17,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+35,17,1,12,cher,True,expérimenté,intermédiaire,Tous Risques
+48,13,0,18,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+44,5,0,3,cher,True,expérimenté,cher,Tous Risques
+33,5,1,10,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+38,14,1,15,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+27,7,0,10,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+36,12,1,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+44,20,0,6,cher,True,expérimenté,cher,Tous Risques
+38,15,1,15,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+50,23,1,11,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+43,16,0,8,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+27,8,0,18,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+54,25,1,8,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+44,22,1,7,cher,True,expérimenté,cher,Tous Risques
+28,6,0,10,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+46,16,0,18,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+28,10,0,17,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+30,9,0,0,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+49,24,0,2,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+27,9,0,15,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+39,15,1,19,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+54,13,0,14,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+46,24,0,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+41,16,0,9,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+42,18,0,4,cher,True,expérimenté,cher,Tous Risques
+45,9,0,15,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+48,15,0,10,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+42,16,0,1,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+34,16,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+30,9,1,4,peu coûteux,False,modéré,peu coûteux,Tiers
+34,6,0,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+32,13,0,22,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+40,9,0,5,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+33,5,0,12,cher,True,expérimenté,intermédiaire,Tous Risques
+35,8,0,7,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+42,17,1,14,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+31,13,0,10,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+53,29,0,6,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+27,6,1,11,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+45,16,0,18,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+40,10,1,14,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+47,20,0,7,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+45,17,0,0,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+38,15,1,11,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+42,6,0,14,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+31,11,0,13,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+46,11,1,16,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+47,26,1,12,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+48,30,0,19,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+28,6,1,10,peu coûteux,True,modéré,peu coûteux,Tiers
+28,6,0,18,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+25,7,0,0,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+35,14,0,5,cher,True,expérimenté,cher,Tous Risques
+42,7,0,12,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+52,18,0,13,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+28,9,1,3,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+31,8,0,8,cher,False,expérimenté,cher,Tous Risques
+32,10,0,15,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+30,6,1,20,peu coûteux,True,modéré,peu coûteux,Tiers
+44,12,0,0,cher,False,expérimenté,cher,Tous Risques
+49,27,0,0,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+40,16,1,16,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+46,9,1,4,peu coûteux,True,modéré,peu coûteux,Tiers
+30,10,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+44,6,0,2,cher,True,expérimenté,cher,Tous Risques
+45,6,1,14,peu coûteux,True,modéré,peu coûteux,Tiers
+50,8,1,1,intermédiaire,False,modéré,intermédiaire,Tiers Plus
+29,8,0,13,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+54,28,0,6,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+33,9,0,2,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+34,13,0,4,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+38,20,1,2,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+37,9,0,7,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+52,16,1,16,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+53,32,1,2,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+43,23,0,0,cher,False,expérimenté,cher,Tous Risques
+53,35,0,22,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+52,34,0,3,cher,True,expérimenté,cher,Tous Risques
+31,12,1,7,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+55,11,0,10,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+54,27,0,9,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+50,28,0,21,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+29,9,0,20,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+44,25,0,3,cher,False,expérimenté,cher,Tous Risques
+27,5,0,13,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+33,5,0,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+34,6,0,14,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+46,12,0,16,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+25,7,0,0,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+43,7,0,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+35,8,1,22,intermédiaire,True,modéré,peu coûteux,Tiers
+54,26,1,9,cher,True,expérimenté,cher,Tous Risques
+41,12,1,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+28,10,0,0,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+42,14,1,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+55,20,1,14,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+42,13,0,21,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+45,16,0,6,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+31,5,0,16,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+38,12,0,3,cher,True,expérimenté,cher,Tous Risques
+35,13,1,1,cher,False,expérimenté,cher,Tous Risques
+44,22,0,15,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+53,5,0,22,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+36,13,1,1,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+36,9,1,6,intermédiaire,False,modéré,intermédiaire,Tiers Plus
+35,13,0,10,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+40,17,0,13,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+41,18,0,14,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+30,12,0,2,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+48,26,0,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+38,8,0,20,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+38,7,0,7,cher,True,expérimenté,cher,Tous Risques
+54,22,0,2,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+46,28,0,9,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+43,20,0,0,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+44,21,0,14,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+25,5,0,18,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+38,16,0,19,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+34,6,0,16,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+43,25,0,22,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+44,21,0,7,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+31,11,0,7,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+52,16,0,7,cher,True,expérimenté,cher,Tous Risques
+34,10,0,17,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+46,14,1,12,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+44,22,1,3,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+30,11,0,14,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+31,9,0,17,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+42,9,0,3,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+45,16,0,1,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+49,11,0,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+31,10,0,17,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+45,9,1,5,cher,False,modéré,cher,Tous Risques
+43,11,0,3,cher,True,expérimenté,cher,Tous Risques
+27,7,1,10,peu coûteux,True,modéré,peu coûteux,Tiers
+28,10,1,3,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+52,18,0,20,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+54,7,1,6,intermédiaire,False,modéré,intermédiaire,Tiers Plus
+49,31,0,22,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+32,12,0,8,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+39,19,1,13,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+26,7,0,21,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+52,5,0,19,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+30,10,0,15,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+25,7,0,1,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+30,6,0,2,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+28,5,1,8,peu coûteux,True,modéré,peu coûteux,Tiers
+33,8,1,3,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+39,16,0,5,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+54,30,0,1,cher,True,expérimenté,cher,Tous Risques
+44,6,0,14,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+46,21,1,18,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+53,20,0,18,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+52,5,1,6,peu coûteux,True,modéré,peu coûteux,Tiers
+30,11,0,0,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+28,8,0,16,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+30,7,0,1,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+28,9,0,17,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+32,12,0,19,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+27,6,0,16,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+51,32,1,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+45,8,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+35,9,0,12,cher,False,expérimenté,intermédiaire,Tous Risques
+32,6,0,12,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+40,21,0,14,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+55,25,0,6,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+33,13,0,4,cher,False,expérimenté,cher,Tous Risques
+32,10,0,12,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+46,12,1,22,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+52,8,0,15,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+47,13,0,9,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+53,16,0,22,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+53,17,0,2,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+41,17,0,20,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+52,5,0,20,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+46,13,0,0,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+51,11,0,3,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+37,19,0,15,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+53,25,0,4,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+50,9,0,16,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+44,22,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+43,19,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+33,11,0,13,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+34,6,0,2,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+51,25,1,3,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+33,7,0,2,cher,True,expérimenté,cher,Tous Risques
+41,10,1,21,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+26,4,3,15,peu coûteux,False,risque élevé,peu coûteux,Tiers
+29,0,1,19,intermédiaire,True,risque élevé,peu coûteux,Tiers
+21,3,2,8,peu coûteux,True,risque élevé,peu coûteux,Tiers
+18,0,1,0,intermédiaire,True,risque élevé,intermédiaire,Tiers
+20,2,1,14,peu coûteux,False,risque élevé,peu coûteux,Tiers
+22,1,3,9,intermédiaire,False,risque élevé,intermédiaire,Tiers
+30,1,1,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+31,5,3,22,intermédiaire,False,risque élevé,peu coûteux,Tiers
+32,4,1,8,peu coûteux,True,modéré,peu coûteux,Tiers
+23,3,3,16,peu coûteux,True,risque élevé,peu coûteux,Tiers
+34,4,3,8,intermédiaire,True,risque élevé,intermédiaire,Tiers
+19,0,2,22,peu coûteux,False,risque élevé,peu coûteux,Tiers
+30,2,1,15,intermédiaire,False,risque élevé,intermédiaire,Tiers
+21,2,1,6,intermédiaire,False,risque élevé,intermédiaire,Tiers
+21,2,2,21,peu coûteux,True,risque élevé,peu coûteux,Tiers
+22,4,1,8,intermédiaire,True,risque élevé,intermédiaire,Tiers
+19,0,1,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+26,5,1,22,peu coûteux,False,modéré,peu coûteux,Tiers
+29,3,3,7,intermédiaire,True,risque élevé,intermédiaire,Tiers
+32,2,2,21,peu coûteux,False,risque élevé,peu coûteux,Tiers
+35,3,3,7,peu coûteux,True,risque élevé,peu coûteux,Tiers
+26,3,1,4,peu coûteux,True,risque élevé,peu coûteux,Tiers
+23,2,1,17,intermédiaire,False,risque élevé,peu coûteux,Tiers
+35,5,2,13,intermédiaire,True,risque élevé,intermédiaire,Tiers
+33,3,3,18,peu coûteux,True,risque élevé,peu coûteux,Tiers
+34,5,1,8,peu coûteux,True,modéré,peu coûteux,Tiers
+25,4,3,4,peu coûteux,False,risque élevé,peu coûteux,Tiers
+25,0,2,7,intermédiaire,True,risque élevé,intermédiaire,Tiers
+20,2,2,5,cher,True,risque élevé,cher,Tiers Plus
+23,1,1,13,intermédiaire,True,risque élevé,intermédiaire,Tiers
+19,1,2,5,cher,False,risque élevé,cher,Tiers Plus
+31,5,1,2,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+26,5,3,22,peu coûteux,True,risque élevé,peu coûteux,Tiers
+34,5,1,21,intermédiaire,False,modéré,peu coûteux,Tiers
+32,5,2,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+31,1,1,14,intermédiaire,True,risque élevé,intermédiaire,Tiers
+34,1,2,9,peu coûteux,True,risque élevé,peu coûteux,Tiers
+25,0,1,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+26,2,3,21,peu coûteux,True,risque élevé,peu coûteux,Tiers
+34,5,1,8,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+18,0,3,13,intermédiaire,True,risque élevé,intermédiaire,Tiers
+28,4,1,14,peu coûteux,False,modéré,peu coûteux,Tiers
+26,4,1,8,cher,True,modéré,cher,Tous Risques
+33,3,3,19,intermédiaire,True,risque élevé,peu coûteux,Tiers
+29,0,1,21,peu coûteux,True,risque élevé,peu coûteux,Tiers
+19,1,1,4,intermédiaire,False,risque élevé,intermédiaire,Tiers
+30,1,1,7,peu coûteux,True,risque élevé,peu coûteux,Tiers
+29,3,1,4,peu coûteux,True,risque élevé,peu coûteux,Tiers
+20,0,1,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+27,5,1,5,cher,True,modéré,cher,Tous Risques
+27,2,1,20,peu coûteux,True,risque élevé,peu coûteux,Tiers
+28,0,3,9,peu coûteux,True,risque élevé,peu coûteux,Tiers
+33,0,2,13,peu coûteux,False,risque élevé,peu coûteux,Tiers
+19,0,1,0,intermédiaire,False,risque élevé,intermédiaire,Tiers
+24,3,2,19,intermédiaire,False,risque élevé,peu coûteux,Tiers
+24,3,3,2,peu coûteux,False,risque élevé,peu coûteux,Tiers
+25,4,1,6,peu coûteux,False,modéré,peu coûteux,Tiers
+19,1,1,3,cher,False,risque élevé,cher,Tiers Plus
+26,4,2,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+26,0,1,1,peu coûteux,False,risque élevé,peu coûteux,Tiers
+30,2,1,11,peu coûteux,True,risque élevé,peu coûteux,Tiers
+28,2,3,9,intermédiaire,True,risque élevé,intermédiaire,Tiers
+32,0,2,21,intermédiaire,False,risque élevé,peu coûteux,Tiers
+28,5,1,5,cher,True,modéré,cher,Tous Risques
+31,4,2,21,peu coûteux,True,risque élevé,peu coûteux,Tiers
+20,1,3,16,intermédiaire,False,risque élevé,peu coûteux,Tiers
+33,2,2,15,peu coûteux,True,risque élevé,peu coûteux,Tiers
+20,2,3,14,peu coûteux,False,risque élevé,peu coûteux,Tiers
+23,5,1,3,intermédiaire,False,risque élevé,intermédiaire,Tiers
+19,0,3,5,peu coûteux,True,risque élevé,peu coûteux,Tiers
+27,5,2,4,intermédiaire,False,risque élevé,intermédiaire,Tiers
+35,5,3,8,cher,True,risque élevé,cher,Tiers Plus
+27,2,1,11,peu coûteux,False,risque élevé,peu coûteux,Tiers
+22,2,1,16,intermédiaire,False,risque élevé,peu coûteux,Tiers
+19,0,1,10,intermédiaire,True,risque élevé,intermédiaire,Tiers
+20,2,3,17,peu coûteux,False,risque élevé,peu coûteux,Tiers
+35,3,3,16,peu coûteux,True,risque élevé,peu coûteux,Tiers
+28,0,1,0,cher,False,risque élevé,cher,Tiers Plus
+26,4,1,22,peu coûteux,True,modéré,peu coûteux,Tiers
+30,3,1,11,intermédiaire,False,risque élevé,intermédiaire,Tiers
+27,3,1,11,intermédiaire,True,risque élevé,intermédiaire,Tiers
+24,5,1,3,cher,False,risque élevé,cher,Tiers Plus
+18,0,1,11,cher,False,risque élevé,intermédiaire,Tiers
+27,3,1,16,intermédiaire,True,risque élevé,peu coûteux,Tiers
+26,0,2,1,cher,False,risque élevé,cher,Tiers Plus
+24,5,1,22,intermédiaire,True,risque élevé,peu coûteux,Tiers
+29,5,2,12,peu coûteux,True,risque élevé,peu coûteux,Tiers
+35,5,1,22,intermédiaire,True,modéré,peu coûteux,Tiers
+32,5,1,11,peu coûteux,True,modéré,peu coûteux,Tiers
+27,1,1,12,intermédiaire,False,risque élevé,intermédiaire,Tiers
+34,3,3,8,intermédiaire,True,risque élevé,intermédiaire,Tiers
+21,0,3,11,intermédiaire,True,risque élevé,intermédiaire,Tiers
+23,0,1,0,peu coûteux,True,risque élevé,peu coûteux,Tiers
+26,4,1,6,intermédiaire,False,modéré,intermédiaire,Tiers Plus
+33,4,3,6,intermédiaire,True,risque élevé,intermédiaire,Tiers
+21,1,1,6,cher,False,risque élevé,cher,Tiers Plus
+31,1,1,22,peu coûteux,True,risque élevé,peu coûteux,Tiers
+25,2,1,19,peu coûteux,True,risque élevé,peu coûteux,Tiers
+20,2,1,1,peu coûteux,False,risque élevé,peu coûteux,Tiers
+29,1,3,8,cher,True,risque élevé,cher,Tiers Plus
+20,1,3,21,intermédiaire,True,risque élevé,peu coûteux,Tiers
+18,0,2,14,intermédiaire,True,risque élevé,intermédiaire,Tiers
+23,0,1,8,cher,False,risque élevé,cher,Tiers Plus
+35,0,2,5,cher,True,risque élevé,cher,Tiers Plus
+18,0,2,18,intermédiaire,False,risque élevé,peu coûteux,Tiers
+35,1,3,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+23,1,1,8,intermédiaire,True,risque élevé,intermédiaire,Tiers
+34,2,2,2,cher,True,risque élevé,cher,Tiers Plus
+33,1,1,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+32,5,1,15,peu coûteux,True,modéré,peu coûteux,Tiers
+19,1,2,9,intermédiaire,False,risque élevé,intermédiaire,Tiers
+18,0,2,7,intermédiaire,True,risque élevé,intermédiaire,Tiers
+21,0,1,18,intermédiaire,False,risque élevé,peu coûteux,Tiers
+21,1,1,0,cher,True,risque élevé,cher,Tiers Plus
+34,0,1,7,peu coûteux,False,risque élevé,peu coûteux,Tiers
+23,5,1,1,intermédiaire,False,risque élevé,intermédiaire,Tiers
+32,3,1,22,peu coûteux,False,risque élevé,peu coûteux,Tiers
+26,1,2,10,intermédiaire,False,risque élevé,intermédiaire,Tiers
+32,0,1,19,peu coûteux,True,risque élevé,peu coûteux,Tiers
+35,2,1,19,intermédiaire,False,risque élevé,peu coûteux,Tiers
+27,1,3,16,peu coûteux,True,risque élevé,peu coûteux,Tiers
+23,0,1,11,cher,True,risque élevé,intermédiaire,Tiers
+26,4,2,20,peu coûteux,False,risque élevé,peu coûteux,Tiers
+22,0,1,5,intermédiaire,True,risque élevé,intermédiaire,Tiers
+23,1,1,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+19,0,1,16,peu coûteux,True,risque élevé,peu coûteux,Tiers
+28,5,1,4,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+35,0,1,3,intermédiaire,False,risque élevé,intermédiaire,Tiers
+35,2,3,6,peu coûteux,True,risque élevé,peu coûteux,Tiers
+29,3,1,16,peu coûteux,False,risque élevé,peu coûteux,Tiers
+22,3,2,10,intermédiaire,True,risque élevé,intermédiaire,Tiers
+26,5,2,12,peu coûteux,False,risque élevé,peu coûteux,Tiers
+34,3,3,12,intermédiaire,False,risque élevé,intermédiaire,Tiers
+30,5,1,16,intermédiaire,True,modéré,peu coûteux,Tiers
+19,0,2,4,intermédiaire,True,risque élevé,intermédiaire,Tiers
+27,2,1,22,intermédiaire,True,risque élevé,peu coûteux,Tiers
+28,5,1,22,peu coûteux,False,modéré,peu coûteux,Tiers
+25,2,2,4,intermédiaire,False,risque élevé,intermédiaire,Tiers
+32,1,1,22,peu coûteux,True,risque élevé,peu coûteux,Tiers
+33,4,2,10,intermédiaire,False,risque élevé,intermédiaire,Tiers
+24,4,1,10,peu coûteux,False,risque élevé,peu coûteux,Tiers
+18,0,1,6,intermédiaire,False,risque élevé,intermédiaire,Tiers
+33,0,2,4,intermédiaire,False,risque élevé,intermédiaire,Tiers
+26,2,1,10,intermédiaire,True,risque élevé,intermédiaire,Tiers
+19,0,3,17,peu coûteux,False,risque élevé,peu coûteux,Tiers
+33,1,1,15,intermédiaire,False,risque élevé,intermédiaire,Tiers
+32,3,2,21,peu coûteux,False,risque élevé,peu coûteux,Tiers
+32,3,3,6,intermédiaire,True,risque élevé,intermédiaire,Tiers
+25,2,2,14,peu coûteux,False,risque élevé,peu coûteux,Tiers
+28,1,2,5,intermédiaire,True,risque élevé,intermédiaire,Tiers
+21,3,1,19,peu coûteux,False,risque élevé,peu coûteux,Tiers
+34,2,2,10,peu coûteux,True,risque élevé,peu coûteux,Tiers
+23,4,1,6,intermédiaire,False,risque élevé,intermédiaire,Tiers
+27,4,2,15,peu coûteux,False,risque élevé,peu coûteux,Tiers
+33,2,1,5,intermédiaire,False,risque élevé,intermédiaire,Tiers
+29,2,1,1,cher,True,risque élevé,cher,Tiers Plus
+35,5,2,9,intermédiaire,False,risque élevé,intermédiaire,Tiers
+20,1,1,17,intermédiaire,True,risque élevé,peu coûteux,Tiers
+27,4,3,9,peu coûteux,False,risque élevé,peu coûteux,Tiers
+29,0,1,2,cher,True,risque élevé,cher,Tiers Plus
+20,2,2,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+31,2,2,10,peu coûteux,False,risque élevé,peu coûteux,Tiers
+19,1,1,9,cher,False,risque élevé,cher,Tiers Plus
+28,4,2,13,intermédiaire,True,risque élevé,intermédiaire,Tiers
+32,4,1,14,peu coûteux,False,modéré,peu coûteux,Tiers
+28,5,1,6,cher,True,modéré,cher,Tous Risques
+35,0,2,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+20,0,3,7,peu coûteux,False,risque élevé,peu coûteux,Tiers
+28,1,2,19,peu coûteux,False,risque élevé,peu coûteux,Tiers
+31,1,1,8,peu coûteux,False,risque élevé,peu coûteux,Tiers
+21,1,3,17,intermédiaire,True,risque élevé,peu coûteux,Tiers
+35,2,2,14,intermédiaire,True,risque élevé,intermédiaire,Tiers
+26,2,2,13,peu coûteux,False,risque élevé,peu coûteux,Tiers
+24,3,1,21,peu coûteux,False,risque élevé,peu coûteux,Tiers
+31,1,1,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+23,2,2,16,intermédiaire,True,risque élevé,peu coûteux,Tiers
+23,1,3,11,cher,True,risque élevé,intermédiaire,Tiers
+25,4,1,3,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+31,5,2,18,peu coûteux,True,risque élevé,peu coûteux,Tiers
+26,2,1,20,peu coûteux,False,risque élevé,peu coûteux,Tiers
+25,4,1,10,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+34,1,3,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+19,0,1,13,intermédiaire,True,risque élevé,intermédiaire,Tiers
+20,0,2,11,cher,True,risque élevé,intermédiaire,Tiers
+28,5,2,13,intermédiaire,True,risque élevé,intermédiaire,Tiers
+30,3,1,21,peu coûteux,False,risque élevé,peu coûteux,Tiers
+19,0,1,8,intermédiaire,False,risque élevé,intermédiaire,Tiers
+31,2,1,2,cher,True,risque élevé,cher,Tiers Plus
+27,0,2,5,intermédiaire,False,risque élevé,intermédiaire,Tiers
+33,1,2,18,intermédiaire,True,risque élevé,peu coûteux,Tiers
+24,4,3,21,peu coûteux,False,risque élevé,peu coûteux,Tiers
+29,3,2,6,peu coûteux,True,risque élevé,peu coûteux,Tiers
+24,3,1,11,intermédiaire,False,risque élevé,intermédiaire,Tiers
+22,2,2,17,peu coûteux,True,risque élevé,peu coûteux,Tiers
+24,0,2,9,peu coûteux,True,risque élevé,peu coûteux,Tiers
+20,2,1,9,peu coûteux,True,risque élevé,peu coûteux,Tiers
+23,5,1,15,peu coûteux,False,risque élevé,peu coûteux,Tiers
+22,3,2,10,intermédiaire,False,risque élevé,intermédiaire,Tiers
+30,1,2,16,intermédiaire,True,risque élevé,peu coûteux,Tiers
+18,0,1,1,cher,False,risque élevé,cher,Tiers Plus
+31,2,1,10,cher,False,risque élevé,cher,Tiers Plus
+33,1,2,10,peu coûteux,True,risque élevé,peu coûteux,Tiers
+31,5,1,19,peu coûteux,True,modéré,peu coûteux,Tiers
+32,0,1,4,peu coûteux,False,risque élevé,peu coûteux,Tiers
+32,0,2,19,intermédiaire,True,risque élevé,peu coûteux,Tiers
+18,0,2,11,intermédiaire,True,risque élevé,intermédiaire,Tiers
+18,0,2,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+34,0,1,11,peu coûteux,True,risque élevé,peu coûteux,Tiers
+35,5,1,11,peu coûteux,True,modéré,peu coûteux,Tiers
+28,0,1,11,peu coûteux,True,risque élevé,peu coûteux,Tiers
+34,5,2,5,intermédiaire,True,risque élevé,intermédiaire,Tiers
+21,1,1,16,intermédiaire,False,risque élevé,peu coûteux,Tiers
+26,3,2,6,intermédiaire,True,risque élevé,intermédiaire,Tiers
+18,0,1,4,peu coûteux,True,risque élevé,peu coûteux,Tiers
+33,1,3,0,cher,False,risque élevé,cher,Tiers Plus
+31,4,1,13,peu coûteux,False,modéré,peu coûteux,Tiers
+25,1,1,6,peu coûteux,True,risque élevé,peu coûteux,Tiers
+32,2,1,18,peu coûteux,False,risque élevé,peu coûteux,Tiers
+29,3,1,4,intermédiaire,False,risque élevé,intermédiaire,Tiers
+20,1,2,4,cher,False,risque élevé,cher,Tiers Plus
+31,3,2,8,intermédiaire,True,risque élevé,intermédiaire,Tiers
+29,3,2,2,intermédiaire,False,risque élevé,intermédiaire,Tiers
+20,1,2,11,peu coûteux,False,risque élevé,peu coûteux,Tiers
+22,1,2,16,peu coûteux,True,risque élevé,peu coûteux,Tiers
+33,1,2,1,peu coûteux,True,risque élevé,peu coûteux,Tiers
+24,1,2,12,cher,False,risque élevé,intermédiaire,Tiers
+32,1,1,3,intermédiaire,True,risque élevé,intermédiaire,Tiers
+22,0,1,13,peu coûteux,False,risque élevé,peu coûteux,Tiers
+23,2,1,18,intermédiaire,True,risque élevé,peu coûteux,Tiers
+30,0,3,16,peu coûteux,True,risque élevé,peu coûteux,Tiers
+32,4,2,16,peu coûteux,True,risque élevé,peu coûteux,Tiers
+20,1,2,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+22,1,1,3,intermédiaire,True,risque élevé,intermédiaire,Tiers
+31,5,1,18,peu coûteux,False,modéré,peu coûteux,Tiers
+29,2,1,7,peu coûteux,False,risque élevé,peu coûteux,Tiers
+29,4,1,21,intermédiaire,True,modéré,peu coûteux,Tiers
+30,5,2,19,intermédiaire,True,risque élevé,peu coûteux,Tiers
+25,2,1,7,intermédiaire,True,risque élevé,intermédiaire,Tiers
+30,1,2,18,peu coûteux,False,risque élevé,peu coûteux,Tiers
+30,1,3,22,peu coûteux,True,risque élevé,peu coûteux,Tiers
+33,2,1,21,peu coûteux,True,risque élevé,peu coûteux,Tiers
+19,0,3,9,peu coûteux,True,risque élevé,peu coûteux,Tiers
+29,3,2,13,peu coûteux,True,risque élevé,peu coûteux,Tiers
+26,4,3,6,peu coûteux,False,risque élevé,peu coûteux,Tiers
+21,2,1,8,peu coûteux,False,risque élevé,peu coûteux,Tiers
+20,1,1,14,peu coûteux,False,risque élevé,peu coûteux,Tiers
+26,3,1,21,intermédiaire,False,risque élevé,peu coûteux,Tiers
+27,2,3,5,cher,True,risque élevé,cher,Tiers Plus
+27,5,2,12,cher,True,risque élevé,intermédiaire,Tiers
+33,1,1,16,peu coûteux,True,risque élevé,peu coûteux,Tiers
+19,1,1,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+20,0,2,15,peu coûteux,True,risque élevé,peu coûteux,Tiers
+27,3,1,5,cher,True,risque élevé,cher,Tiers Plus
+32,5,1,0,peu coûteux,False,modéré,peu coûteux,Tiers
+34,3,3,19,intermédiaire,True,risque élevé,peu coûteux,Tiers
+32,3,1,17,peu coûteux,True,risque élevé,peu coûteux,Tiers
+22,4,1,17,peu coûteux,True,risque élevé,peu coûteux,Tiers
+22,2,3,9,intermédiaire,True,risque élevé,intermédiaire,Tiers
+33,1,1,0,intermédiaire,False,risque élevé,intermédiaire,Tiers
+28,5,3,18,intermédiaire,True,risque élevé,peu coûteux,Tiers
+23,5,3,12,intermédiaire,True,risque élevé,intermédiaire,Tiers
+22,3,2,7,intermédiaire,True,risque élevé,intermédiaire,Tiers
+27,0,1,22,intermédiaire,True,risque élevé,peu coûteux,Tiers
+20,0,2,5,intermédiaire,True,risque élevé,intermédiaire,Tiers
+19,1,2,19,intermédiaire,False,risque élevé,peu coûteux,Tiers
+28,0,1,2,cher,False,risque élevé,cher,Tiers Plus
+34,0,1,2,cher,False,risque élevé,cher,Tiers Plus
+19,1,3,1,cher,True,risque élevé,cher,Tiers Plus
+28,4,1,2,intermédiaire,False,modéré,intermédiaire,Tiers Plus
+33,1,2,9,intermédiaire,True,risque élevé,intermédiaire,Tiers
+27,3,3,12,peu coûteux,True,risque élevé,peu coûteux,Tiers
+33,4,2,14,intermédiaire,False,risque élevé,intermédiaire,Tiers
+19,1,1,12,peu coûteux,False,risque élevé,peu coûteux,Tiers
+33,3,1,22,peu coûteux,True,risque élevé,peu coûteux,Tiers
+19,0,3,18,peu coûteux,True,risque élevé,peu coûteux,Tiers
+24,4,1,1,cher,False,risque élevé,cher,Tiers Plus
+29,5,1,7,peu coûteux,False,modéré,peu coûteux,Tiers
+21,3,2,7,peu coûteux,True,risque élevé,peu coûteux,Tiers
+30,2,1,11,intermédiaire,True,risque élevé,intermédiaire,Tiers
+31,5,2,17,intermédiaire,True,risque élevé,peu coûteux,Tiers
+32,3,3,15,peu coûteux,True,risque élevé,peu coûteux,Tiers
+25,2,1,6,intermédiaire,True,risque élevé,intermédiaire,Tiers
+25,4,3,12,intermédiaire,False,risque élevé,intermédiaire,Tiers
+19,0,3,11,cher,True,risque élevé,intermédiaire,Tiers
+28,5,1,19,peu coûteux,True,modéré,peu coûteux,Tiers
+18,0,1,4,intermédiaire,False,risque élevé,intermédiaire,Tiers
+23,4,2,6,peu coûteux,True,risque élevé,peu coûteux,Tiers
+30,3,2,22,peu coûteux,False,risque élevé,peu coûteux,Tiers
+30,4,1,18,peu coûteux,False,modéré,peu coûteux,Tiers
+25,3,2,22,peu coûteux,True,risque élevé,peu coûteux,Tiers
+26,3,2,22,peu coûteux,True,risque élevé,peu coûteux,Tiers
+31,2,2,9,intermédiaire,True,risque élevé,intermédiaire,Tiers
+23,5,2,4,peu coûteux,True,risque élevé,peu coûteux,Tiers
+32,2,3,15,peu coûteux,True,risque élevé,peu coûteux,Tiers
+28,2,3,3,peu coûteux,False,risque élevé,peu coûteux,Tiers
+21,2,3,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+30,1,2,22,intermédiaire,True,risque élevé,peu coûteux,Tiers
+20,1,1,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+32,5,3,13,peu coûteux,False,risque élevé,peu coûteux,Tiers
+23,0,3,21,intermédiaire,True,risque élevé,peu coûteux,Tiers
+24,4,1,4,cher,True,risque élevé,cher,Tiers Plus
+19,1,2,7,intermédiaire,True,risque élevé,intermédiaire,Tiers
+26,4,2,22,intermédiaire,True,risque élevé,peu coûteux,Tiers
+28,2,2,3,cher,True,risque élevé,cher,Tiers Plus
+32,2,1,20,peu coûteux,True,risque élevé,peu coûteux,Tiers
+33,0,3,2,intermédiaire,False,risque élevé,intermédiaire,Tiers
+21,1,1,0,cher,False,risque élevé,cher,Tiers Plus
+30,5,2,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+22,0,3,3,peu coûteux,True,risque élevé,peu coûteux,Tiers
+26,5,1,4,intermédiaire,True,modéré,intermédiaire,Tiers Plus
+19,1,1,1,intermédiaire,False,risque élevé,intermédiaire,Tiers
+29,5,1,14,peu coûteux,True,modéré,peu coûteux,Tiers
+34,1,2,15,peu coûteux,True,risque élevé,peu coûteux,Tiers
+33,5,1,22,peu coûteux,True,modéré,peu coûteux,Tiers
+30,5,1,13,intermédiaire,False,modéré,intermédiaire,Tiers Plus
+24,1,1,18,intermédiaire,False,risque élevé,peu coûteux,Tiers
+32,2,1,16,peu coûteux,False,risque élevé,peu coûteux,Tiers
+25,1,1,6,cher,True,risque élevé,cher,Tiers Plus
+30,2,3,16,intermédiaire,False,risque élevé,peu coûteux,Tiers
+24,5,3,20,peu coûteux,True,risque élevé,peu coûteux,Tiers
+28,5,1,21,intermédiaire,True,modéré,peu coûteux,Tiers
+31,5,1,14,peu coûteux,False,modéré,peu coûteux,Tiers
+35,5,1,21,peu coûteux,True,modéré,peu coûteux,Tiers
+32,0,1,0,cher,False,risque élevé,cher,Tiers Plus
+33,2,3,19,intermédiaire,True,risque élevé,peu coûteux,Tiers
+22,0,1,21,peu coûteux,True,risque élevé,peu coûteux,Tiers
+35,3,1,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+31,5,3,12,peu coûteux,False,risque élevé,peu coûteux,Tiers
+35,3,2,4,peu coûteux,False,risque élevé,peu coûteux,Tiers
+34,4,2,2,intermédiaire,False,risque élevé,intermédiaire,Tiers
+33,3,2,17,intermédiaire,False,risque élevé,peu coûteux,Tiers
+25,4,3,22,peu coûteux,True,risque élevé,peu coûteux,Tiers
+30,2,1,10,intermédiaire,True,risque élevé,intermédiaire,Tiers
+35,2,3,10,peu coûteux,True,risque élevé,peu coûteux,Tiers
+23,2,2,11,peu coûteux,True,risque élevé,peu coûteux,Tiers
+22,4,1,5,cher,True,risque élevé,cher,Tiers Plus
+23,2,1,16,peu coûteux,True,risque élevé,peu coûteux,Tiers
+20,2,2,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+30,2,3,0,intermédiaire,True,risque élevé,intermédiaire,Tiers
+19,0,1,22,peu coûteux,True,risque élevé,peu coûteux,Tiers
+26,0,1,3,cher,True,risque élevé,cher,Tiers Plus
+19,0,2,9,peu coûteux,True,risque élevé,peu coûteux,Tiers
+24,1,2,21,intermédiaire,True,risque élevé,peu coûteux,Tiers
+26,3,2,12,intermédiaire,True,risque élevé,intermédiaire,Tiers
+32,2,2,8,intermédiaire,False,risque élevé,intermédiaire,Tiers
+19,0,3,13,intermédiaire,True,risque élevé,intermédiaire,Tiers
+20,2,1,14,intermédiaire,True,risque élevé,intermédiaire,Tiers
+30,3,2,13,peu coûteux,True,risque élevé,peu coûteux,Tiers
+24,1,2,10,peu coûteux,False,risque élevé,peu coûteux,Tiers
+31,1,2,21,peu coûteux,True,risque élevé,peu coûteux,Tiers
+41,23,0,13,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+74,32,0,8,intermédiaire,True,risque élevé,intermédiaire,Tiers
+58,29,1,12,intermédiaire,False,risque élevé,intermédiaire,Tiers
+74,28,0,10,cher,False,risque élevé,cher,Tiers Plus
+55,29,0,21,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+56,27,1,5,cher,False,risque élevé,cher,Tiers Plus
+57,37,1,20,peu coûteux,True,risque élevé,peu coûteux,Tiers
+73,42,0,17,peu coûteux,True,risque élevé,peu coûteux,Tiers
+69,22,1,10,intermédiaire,False,risque élevé,intermédiaire,Tiers
+47,22,0,6,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+66,15,0,15,intermédiaire,False,risque élevé,intermédiaire,Tiers
+72,50,0,20,peu coûteux,False,risque élevé,peu coûteux,Tiers
+71,17,0,3,intermédiaire,False,risque élevé,intermédiaire,Tiers
+70,45,1,21,peu coûteux,False,risque élevé,peu coûteux,Tiers
+54,29,1,7,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+52,23,0,20,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+54,26,0,1,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+70,39,0,5,cher,False,risque élevé,cher,Tiers Plus
+69,43,0,6,peu coûteux,False,risque élevé,peu coûteux,Tiers
+56,30,0,10,intermédiaire,True,risque élevé,intermédiaire,Tiers
+64,19,0,2,cher,True,risque élevé,cher,Tiers Plus
+44,24,0,3,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+73,43,0,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+40,22,0,14,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+75,20,0,21,intermédiaire,True,risque élevé,peu coûteux,Tiers
+52,32,0,14,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+54,32,1,1,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+46,22,0,9,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+68,35,0,18,peu coûteux,True,risque élevé,peu coûteux,Tiers
+45,18,0,0,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+46,17,0,3,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+61,25,1,12,intermédiaire,False,risque élevé,intermédiaire,Tiers
+69,32,0,17,peu coûteux,False,risque élevé,peu coûteux,Tiers
+61,17,0,3,cher,False,risque élevé,cher,Tiers Plus
+40,18,1,0,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+55,26,0,19,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+56,37,1,15,intermédiaire,True,risque élevé,intermédiaire,Tiers
+43,21,0,21,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+45,20,0,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+57,20,0,1,cher,True,risque élevé,cher,Tiers Plus
+66,40,0,8,intermédiaire,False,risque élevé,intermédiaire,Tiers
+72,30,1,17,peu coûteux,False,risque élevé,peu coûteux,Tiers
+42,21,0,12,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+71,45,0,0,intermédiaire,False,risque élevé,intermédiaire,Tiers
+45,21,0,7,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+72,24,1,22,peu coûteux,False,risque élevé,peu coûteux,Tiers
+71,29,0,17,peu coûteux,True,risque élevé,peu coûteux,Tiers
+75,21,0,3,cher,False,risque élevé,cher,Tiers Plus
+72,25,0,14,intermédiaire,True,risque élevé,intermédiaire,Tiers
+63,22,0,8,peu coûteux,True,risque élevé,peu coûteux,Tiers
+63,23,0,1,peu coûteux,True,risque élevé,peu coûteux,Tiers
+50,32,1,16,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+59,19,0,17,peu coûteux,True,risque élevé,peu coûteux,Tiers
+57,34,0,15,intermédiaire,True,risque élevé,intermédiaire,Tiers
+54,19,1,1,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+67,32,0,0,peu coûteux,True,risque élevé,peu coûteux,Tiers
+72,26,0,14,peu coûteux,False,risque élevé,peu coûteux,Tiers
+47,18,0,17,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+40,15,0,3,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+67,20,0,0,cher,True,risque élevé,cher,Tiers Plus
+53,21,0,3,cher,False,expérimenté,cher,Tous Risques
+65,25,0,20,peu coûteux,True,risque élevé,peu coûteux,Tiers
+52,28,0,19,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+48,21,0,19,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+42,21,0,7,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+45,27,1,3,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+46,17,0,14,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+44,25,0,8,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+54,17,0,11,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+47,24,0,17,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+73,55,0,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+51,21,0,1,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+57,19,0,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+50,26,0,14,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+60,34,0,13,peu coûteux,False,risque élevé,peu coûteux,Tiers
+60,36,0,10,peu coûteux,True,risque élevé,peu coûteux,Tiers
+48,15,0,15,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+45,15,0,2,cher,False,expérimenté,cher,Tous Risques
+45,19,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+71,26,0,1,peu coûteux,True,risque élevé,peu coûteux,Tiers
+65,39,0,3,intermédiaire,True,risque élevé,intermédiaire,Tiers
+70,21,0,21,intermédiaire,True,risque élevé,peu coûteux,Tiers
+59,17,1,21,peu coûteux,True,risque élevé,peu coûteux,Tiers
+69,24,0,5,peu coûteux,False,risque élevé,peu coûteux,Tiers
+52,22,0,21,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+62,41,0,5,cher,True,risque élevé,cher,Tiers Plus
+44,24,0,6,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+51,16,0,16,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+46,24,1,11,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+54,19,0,3,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+54,24,0,6,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+60,20,0,8,peu coûteux,True,risque élevé,peu coûteux,Tiers
+66,27,0,7,peu coûteux,False,risque élevé,peu coûteux,Tiers
+64,26,0,19,intermédiaire,True,risque élevé,peu coûteux,Tiers
+44,20,0,6,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+52,21,1,17,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+72,21,0,22,intermédiaire,False,risque élevé,peu coûteux,Tiers
+54,19,0,13,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+57,30,0,15,intermédiaire,False,risque élevé,intermédiaire,Tiers
+48,27,1,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+54,24,1,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+65,31,0,2,intermédiaire,False,risque élevé,intermédiaire,Tiers
+65,37,0,12,intermédiaire,True,risque élevé,intermédiaire,Tiers
+63,22,0,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+73,38,0,18,peu coûteux,True,risque élevé,peu coûteux,Tiers
+55,26,0,20,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+51,18,1,18,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+60,29,0,22,peu coûteux,True,risque élevé,peu coûteux,Tiers
+75,50,0,15,intermédiaire,True,risque élevé,intermédiaire,Tiers
+43,25,1,13,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+44,24,0,22,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+53,35,0,0,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+70,52,0,21,intermédiaire,False,risque élevé,peu coûteux,Tiers
+72,43,0,15,peu coûteux,False,risque élevé,peu coûteux,Tiers
+40,21,0,19,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+59,20,0,21,peu coûteux,False,risque élevé,peu coûteux,Tiers
+58,15,1,0,intermédiaire,True,risque élevé,intermédiaire,Tiers
+64,45,0,3,intermédiaire,True,risque élevé,intermédiaire,Tiers
+60,38,1,22,intermédiaire,True,risque élevé,peu coûteux,Tiers
+48,15,0,10,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+59,23,0,7,peu coûteux,True,risque élevé,peu coûteux,Tiers
+57,35,1,10,intermédiaire,True,risque élevé,intermédiaire,Tiers
+64,19,0,12,intermédiaire,True,risque élevé,intermédiaire,Tiers
+44,16,0,21,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+74,37,0,12,peu coûteux,True,risque élevé,peu coûteux,Tiers
+74,36,0,4,cher,False,risque élevé,cher,Tiers Plus
+49,29,0,2,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+71,41,0,20,peu coûteux,False,risque élevé,peu coûteux,Tiers
+70,48,0,1,cher,True,risque élevé,cher,Tiers Plus
+48,28,0,21,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+43,21,1,15,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+70,37,0,7,peu coûteux,True,risque élevé,peu coûteux,Tiers
+46,23,0,15,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+51,21,0,15,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+70,48,0,22,intermédiaire,False,risque élevé,peu coûteux,Tiers
+53,20,0,6,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+42,15,0,7,cher,False,expérimenté,cher,Tous Risques
+45,17,0,16,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+43,22,1,8,cher,True,expérimenté,cher,Tous Risques
+70,39,0,17,intermédiaire,False,risque élevé,peu coûteux,Tiers
+75,54,0,5,cher,True,risque élevé,cher,Tiers Plus
+67,40,0,2,cher,True,risque élevé,cher,Tiers Plus
+63,19,0,12,intermédiaire,True,risque élevé,intermédiaire,Tiers
+52,24,0,19,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+44,24,0,13,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+47,29,0,5,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+59,39,0,15,intermédiaire,False,risque élevé,intermédiaire,Tiers
+50,20,0,1,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+59,39,0,3,intermédiaire,False,risque élevé,intermédiaire,Tiers
+61,32,0,1,cher,False,risque élevé,cher,Tiers Plus
+70,24,0,15,peu coûteux,True,risque élevé,peu coûteux,Tiers
+74,48,1,12,intermédiaire,False,risque élevé,intermédiaire,Tiers
+67,34,0,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+46,24,1,0,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+54,30,0,22,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+68,25,0,4,peu coûteux,False,risque élevé,peu coûteux,Tiers
+41,18,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+67,15,1,6,intermédiaire,True,risque élevé,intermédiaire,Tiers
+49,19,1,9,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+51,18,0,1,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+44,24,0,9,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+44,25,0,2,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+55,37,0,9,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+64,25,0,10,intermédiaire,True,risque élevé,intermédiaire,Tiers
+60,38,0,21,peu coûteux,True,risque élevé,peu coûteux,Tiers
+54,24,0,3,cher,True,expérimenté,cher,Tous Risques
+46,21,0,1,cher,True,expérimenté,cher,Tous Risques
+53,35,0,16,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+67,42,0,13,intermédiaire,True,risque élevé,intermédiaire,Tiers
+66,16,0,4,cher,True,risque élevé,cher,Tiers Plus
+64,36,0,9,peu coûteux,True,risque élevé,peu coûteux,Tiers
+57,37,0,10,peu coûteux,True,risque élevé,peu coûteux,Tiers
+40,15,0,0,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+50,26,0,13,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+55,22,0,18,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+50,15,0,14,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+50,32,1,21,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+42,21,1,3,intermédiaire,False,expérimenté,intermédiaire,Tous Risques
+46,18,0,16,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+69,50,0,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+61,38,0,0,intermédiaire,True,risque élevé,intermédiaire,Tiers
+57,32,0,5,intermédiaire,False,risque élevé,intermédiaire,Tiers
+68,40,0,22,peu coûteux,False,risque élevé,peu coûteux,Tiers
+41,18,0,4,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+59,16,0,8,peu coûteux,True,risque élevé,peu coûteux,Tiers
+68,21,0,0,intermédiaire,False,risque élevé,intermédiaire,Tiers
+49,25,0,12,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+57,23,0,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+68,29,0,20,peu coûteux,True,risque élevé,peu coûteux,Tiers
+53,17,0,9,cher,False,expérimenté,cher,Tous Risques
+59,40,0,16,intermédiaire,False,risque élevé,peu coûteux,Tiers
+67,22,0,8,peu coûteux,False,risque élevé,peu coûteux,Tiers
+71,47,0,3,intermédiaire,True,risque élevé,intermédiaire,Tiers
+69,23,0,17,peu coûteux,False,risque élevé,peu coûteux,Tiers
+74,37,0,0,intermédiaire,False,risque élevé,intermédiaire,Tiers
+41,16,0,13,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+64,16,0,1,intermédiaire,True,risque élevé,intermédiaire,Tiers
+42,24,0,9,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+51,31,0,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+61,35,0,11,peu coûteux,False,risque élevé,peu coûteux,Tiers
+59,22,1,18,intermédiaire,False,risque élevé,peu coûteux,Tiers
+66,46,0,21,intermédiaire,True,risque élevé,peu coûteux,Tiers
+72,33,1,19,peu coûteux,True,risque élevé,peu coûteux,Tiers
+51,22,0,8,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+54,27,0,4,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+69,40,0,19,peu coûteux,True,risque élevé,peu coûteux,Tiers
+45,16,0,12,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+68,20,0,10,peu coûteux,False,risque élevé,peu coûteux,Tiers
+62,30,0,0,intermédiaire,True,risque élevé,intermédiaire,Tiers
+48,29,0,5,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+42,24,1,19,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+57,21,0,6,intermédiaire,False,risque élevé,intermédiaire,Tiers
+44,15,0,21,intermédiaire,True,expérimenté,peu coûteux,Tiers Plus
+55,30,0,14,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+74,29,0,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+71,16,0,22,peu coûteux,False,risque élevé,peu coûteux,Tiers
+53,30,0,21,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+40,19,0,2,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+56,22,0,10,peu coûteux,True,risque élevé,peu coûteux,Tiers
+61,37,1,14,intermédiaire,True,risque élevé,intermédiaire,Tiers
+41,22,1,17,intermédiaire,False,expérimenté,peu coûteux,Tiers Plus
+70,25,0,0,cher,True,risque élevé,cher,Tiers Plus
+60,40,0,9,peu coûteux,True,risque élevé,peu coûteux,Tiers
+71,40,0,0,intermédiaire,False,risque élevé,intermédiaire,Tiers
+58,26,0,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+61,21,0,6,peu coûteux,False,risque élevé,peu coûteux,Tiers
+44,22,0,21,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+51,27,1,17,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+48,22,0,0,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+54,18,0,19,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+57,21,0,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+57,37,1,4,peu coûteux,False,risque élevé,peu coûteux,Tiers
+56,28,0,10,intermédiaire,False,risque élevé,intermédiaire,Tiers
+72,53,0,20,peu coûteux,False,risque élevé,peu coûteux,Tiers
+73,34,0,14,peu coûteux,True,risque élevé,peu coûteux,Tiers
+69,30,0,19,peu coûteux,True,risque élevé,peu coûteux,Tiers
+60,32,0,12,intermédiaire,True,risque élevé,intermédiaire,Tiers
+64,16,0,9,intermédiaire,False,risque élevé,intermédiaire,Tiers
+72,15,1,18,intermédiaire,False,risque élevé,peu coûteux,Tiers
+53,21,0,13,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+75,38,1,21,intermédiaire,False,risque élevé,peu coûteux,Tiers
+48,26,0,1,intermédiaire,True,expérimenté,intermédiaire,Tous Risques
+67,49,0,20,peu coûteux,True,risque élevé,peu coûteux,Tiers
+62,33,0,8,intermédiaire,False,risque élevé,intermédiaire,Tiers
+65,16,0,21,intermédiaire,False,risque élevé,peu coûteux,Tiers
+50,16,0,8,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+53,24,0,15,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
+53,25,0,14,peu coûteux,False,expérimenté,peu coûteux,Tiers Plus
+60,42,1,2,intermédiaire,True,risque élevé,intermédiaire,Tiers
+53,22,0,8,peu coûteux,True,expérimenté,peu coûteux,Tiers Plus
