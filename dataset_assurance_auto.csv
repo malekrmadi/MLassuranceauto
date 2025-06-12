@@ -1,0 +1,1001 @@
+ID,Marque,Type_Vehicule,Age_Vehicule,Valeur_Vehicule_DT,Kilometrage,Chevaux_Fiscaux,Place_Parking,Voiture_Entreprise,Age_Conducteur,Annees_Experience,Nombre_Accidents,Ratio_Accidents_Experience,Score_Vehicule,Score_Conducteur,Type_Vehicule_Classe,Type_Conducteur_Classe,Assurance_Recommandee
+1,Jaguar,Voiture populaire,6,123564,77597,19,True,False,56,18,0,0.0,3.5,3.8,High Cost,Expert,Tout Risque
+2,Peugeot,Break familial,10,7328,243941,8,True,True,20,1,0,0.0,2.0,3.2,Low Cost,Expert,Tiers Plus
+3,Land Rover,Voiture populaire,7,30895,167925,17,False,True,38,0,0,0.0,2.5,3.6,Medium Cost,Expert,Tout Risque
+4,Dacia,Voiture populaire,5,6662,70423,3,True,True,59,27,3,0.111,1.9,1.8,Low Cost,À risque,Tiers
+5,Volvo,Citadine,14,18531,205938,10,True,False,69,2,1,0.5,2.0,1.2,Low Cost,À risque,Tiers
+6,Peugeot,Sportive,6,46158,96277,8,False,True,67,8,0,0.0,2.25,3.2,Medium Cost,Expert,Tout Risque
+7,Ferrari,Berline compact,1,284830,14309,18,False,False,25,6,0,0.0,3.8,4.0,High Cost,Expert,Tout Risque
+8,Citroën,Berline compact,0,37132,0,6,True,False,71,41,1,0.024,2.9,2.8,Medium Cost,Modéré,Tiers Plus
+9,Kia,Voiture populaire,12,4230,307620,4,False,True,27,3,0,0.0,1.0,3.6,Low Cost,Expert,Tiers Plus
+10,Toyota,Berline executive,14,22459,210866,10,False,True,38,15,1,0.067,1.6,2.8,Low Cost,Modéré,Tiers
+11,Bentley,Sportive,14,60984,208425,25,True,False,32,12,0,0.0,3.15,4.0,High Cost,Expert,Tout Risque
+12,Hyundai,SUV,6,17169,114484,7,False,True,34,7,1,0.143,1.55,2.0,Low Cost,À risque,Tiers
+13,Maserati,Voiture populaire,0,170370,0,21,True,True,58,27,2,0.074,4.0,2.6,High Cost,Modéré,Tout Risque
+14,Ferrari,SUV,7,108606,135753,16,True,True,41,4,1,0.25,3.35,2.0,High Cost,À risque,Tiers Plus
+15,Kia,Voiture de luxe,7,19583,77994,7,False,False,20,0,0,0.0,1.75,3.6,Low Cost,Expert,Tiers Plus
+16,Jaguar,Berline executive,6,155021,93907,24,True,False,59,12,0,0.0,3.6,3.8,High Cost,Expert,Tout Risque
+17,Toyota,Break familial,6,21260,118226,9,False,True,47,4,0,0.0,1.8,3.6,Low Cost,Expert,Tiers Plus
+18,Porsche,Berline compact,12,51710,245737,24,True,True,49,6,0,0.0,2.7,3.6,Medium Cost,Expert,Tout Risque
+19,BMW,Voiture de luxe,5,62059,122828,11,False,True,70,5,0,0.0,3.0,3.2,Medium Cost,Expert,Tout Risque
+20,Land Rover,Berline executive,11,49115,178627,25,True,True,42,6,2,0.333,2.8,1.2,Medium Cost,À risque,Tiers
+21,Fiat,Berline executive,0,34363,0,8,False,False,56,5,0,0.0,2.45,3.8,Medium Cost,Expert,Tout Risque
+22,Hyundai,Break familial,8,3640,158543,3,False,True,61,23,2,0.087,1.3,2.6,Low Cost,Modéré,Tiers
+23,Jaguar,Sportive,5,98246,52713,17,False,False,69,11,0,0.0,3.45,3.6,High Cost,Expert,Tout Risque
+24,Chevrolet,SUV,1,35358,22547,9,True,True,66,1,0,0.0,2.75,3.2,Medium Cost,Expert,Tout Risque
+25,Bentley,SUV,5,245706,37780,16,False,False,70,43,0,0.0,3.6,3.6,High Cost,Expert,Tout Risque
+26,Toyota,Break familial,5,20780,57484,7,True,False,34,5,0,0.0,2.35,4.0,Medium Cost,Expert,Tout Risque
+27,Hyundai,Citadine,3,15983,77403,5,True,True,33,0,0,0.0,1.95,3.6,Low Cost,Expert,Tiers Plus
+28,Jaguar,Berline compact,10,119702,162382,24,False,True,53,18,1,0.056,2.85,2.6,Medium Cost,Modéré,Tiers Plus
+29,Nissan,Voiture de luxe,14,21273,156227,10,False,False,56,17,2,0.118,1.7,2.2,Low Cost,À risque,Tiers
+30,Lexus,Citadine,10,21870,87643,14,True,False,59,34,0,0.0,2.35,3.8,Medium Cost,Expert,Tout Risque
+31,Ferrari,Berline executive,9,164505,161996,15,True,False,29,4,2,0.5,3.5,1.6,High Cost,À risque,Tiers Plus
+32,Audi,Berline compact,10,22928,162644,8,False,True,65,15,2,0.133,2.0,1.8,Low Cost,À risque,Tiers
+33,Bentley,SUV,7,229538,131978,16,True,True,53,19,1,0.053,3.6,2.6,High Cost,Modéré,Tout Risque
+34,Jaguar,SUV,13,70477,328660,22,True,True,63,17,0,0.0,3.05,3.4,High Cost,Expert,Tout Risque
+35,Toyota,Berline compact,2,15803,24235,5,True,False,31,4,0,0.0,2.65,4.0,Medium Cost,Expert,Tout Risque
+36,Mercedes,Citadine,7,24888,122736,8,True,False,65,11,1,0.091,2.3,3.0,Medium Cost,Modéré,Tiers Plus
+37,Lamborghini,SUV,5,169777,85912,20,True,True,71,7,1,0.143,3.8,1.6,High Cost,À risque,Tiers Plus
+38,Peugeot,Voiture populaire,1,19166,12502,5,True,False,65,18,1,0.056,2.55,3.0,Medium Cost,Modéré,Tiers Plus
+39,Hyundai,Berline compact,0,13993,0,7,True,False,23,2,0,0.0,2.35,4.0,Medium Cost,Expert,Tout Risque
+40,Lexus,Berline compact,4,65624,66153,12,False,False,50,20,0,0.0,2.9,4.0,Medium Cost,Expert,Tout Risque
+41,Renault,Break familial,0,35761,0,5,False,False,71,2,0,0.0,2.6,3.6,Medium Cost,Expert,Tout Risque
+42,Land Rover,Berline executive,7,97606,77876,21,False,False,59,1,0,0.0,3.15,3.8,High Cost,Expert,Tout Risque
+43,Kia,Break familial,7,10747,156549,5,True,True,56,28,0,0.0,1.65,3.4,Low Cost,Expert,Tiers Plus
+44,Ford,Citadine,9,10620,213492,5,True,True,24,0,0,0.0,1.85,3.6,Low Cost,Expert,Tiers Plus
+45,Dacia,Voiture populaire,3,16991,65398,6,True,True,32,11,1,0.091,1.95,2.8,Low Cost,Modéré,Tiers
+46,Hyundai,Citadine,6,7487,132385,5,False,True,39,21,0,0.0,1.35,3.6,Low Cost,Expert,Tiers Plus
+47,Volvo,Break familial,9,22319,133783,11,False,False,25,4,0,0.0,2.1,4.0,Medium Cost,Expert,Tout Risque
+48,Renault,Berline compact,11,16767,236221,8,False,True,49,19,0,0.0,1.5,3.6,Low Cost,Expert,Tiers Plus
+49,Lamborghini,Sportive,2,532693,43298,17,False,True,59,29,0,0.0,3.9,3.4,High Cost,Expert,Tout Risque
+50,Kia,Voiture populaire,7,2674,72213,4,False,False,70,22,0,0.0,1.4,3.6,Low Cost,Expert,Tiers Plus
+51,Audi,Voiture de luxe,11,25601,207981,12,False,True,51,31,1,0.032,2.25,2.6,Medium Cost,Modéré,Tiers Plus
+52,Land Rover,Voiture populaire,8,99580,101391,24,True,False,22,4,0,0.0,3.15,4.0,High Cost,Expert,Tout Risque
+53,Bentley,Berline executive,11,48861,228716,16,True,True,46,13,0,0.0,2.8,3.6,Medium Cost,Expert,Tout Risque
+54,Renault,Break familial,14,7766,202842,8,False,True,33,9,1,0.111,1.5,2.0,Low Cost,À risque,Tiers
+55,Audi,Berline compact,4,70366,40950,13,False,False,27,5,1,0.2,2.95,2.4,Medium Cost,Modéré,Tiers Plus
+56,Peugeot,Voiture populaire,1,33032,17130,6,False,True,49,0,0,0.0,2.5,3.6,Medium Cost,Expert,Tout Risque
+57,Fiat,Citadine,12,1830,191462,4,True,True,49,26,2,0.077,1.3,2.8,Low Cost,Modéré,Tiers
+58,Chery,Voiture de luxe,11,8865,141935,5,False,False,54,11,0,0.0,1.45,3.8,Low Cost,Expert,Tiers Plus
+59,Renault,Voiture de luxe,0,30508,0,9,True,True,48,13,0,0.0,3.15,3.6,High Cost,Expert,Tout Risque
+60,Nissan,Citadine,2,21137,25583,6,False,False,43,9,0,0.0,2.25,4.0,Medium Cost,Expert,Tout Risque
+61,Lamborghini,Sportive,1,286244,10581,23,False,False,28,7,1,0.143,4.0,2.4,High Cost,Modéré,Tout Risque
+62,Maserati,Sportive,4,238139,102443,18,True,True,41,2,1,0.5,3.9,1.2,High Cost,À risque,Tiers Plus
+63,Volkswagen,Break familial,3,21840,55392,9,True,True,72,12,1,0.083,2.4,2.4,Medium Cost,Modéré,Tiers Plus
+64,Bentley,Berline executive,2,279141,30474,14,True,True,65,24,0,0.0,4.1,3.4,High Cost,Expert,Tout Risque
+65,Infiniti,Sportive,10,54809,151998,13,True,True,29,8,0,0.0,2.8,3.6,Medium Cost,Expert,Tout Risque
+66,Volvo,Voiture populaire,13,22542,287576,11,True,True,64,15,0,0.0,2.0,3.4,Low Cost,Expert,Tiers Plus
+67,Porsche,Voiture populaire,2,235758,28952,16,True,False,40,15,1,0.067,4.0,3.2,High Cost,Expert,Tout Risque
+68,Kia,Break familial,12,2579,302053,4,True,True,48,25,0,0.0,1.4,3.6,Low Cost,Expert,Tiers Plus
+69,Audi,Berline executive,6,84006,123305,13,False,True,26,0,0,0.0,2.75,3.6,Medium Cost,Expert,Tout Risque
+70,Land Rover,Berline executive,6,261266,61320,23,True,False,19,0,0,0.0,3.7,3.6,High Cost,Expert,Tout Risque
+71,Nissan,Berline compact,5,34569,82592,5,False,False,34,6,2,0.333,2.2,1.6,Medium Cost,À risque,Tiers
+72,Ford,Voiture populaire,3,31312,38816,7,True,False,71,38,0,0.0,2.5,3.6,Medium Cost,Expert,Tout Risque
+73,Porsche,Voiture populaire,9,42309,161667,14,True,True,67,27,1,0.037,2.8,2.4,Medium Cost,Modéré,Tiers Plus
+74,Volvo,SUV,3,104169,21238,12,True,False,30,11,3,0.273,3.4,2.4,High Cost,Modéré,Tout Risque
+75,Hyundai,Break familial,14,3790,134112,3,False,False,23,1,0,0.0,1.2,4.0,Low Cost,Expert,Tiers Plus
+76,Chery,Sportive,12,12856,174215,10,False,True,54,35,1,0.029,1.4,2.6,Low Cost,Modéré,Tiers
+77,Land Rover,SUV,3,316258,44715,22,True,True,48,0,0,0.0,3.9,3.6,High Cost,Expert,Tout Risque
+78,Citroën,Voiture populaire,5,27620,93052,5,True,True,27,7,0,0.0,2.4,3.6,Medium Cost,Expert,Tout Risque
+79,Citroën,SUV,7,19076,86131,11,True,False,67,27,0,0.0,2.2,3.6,Medium Cost,Expert,Tout Risque
+80,Renault,SUV,8,14048,82416,7,False,False,37,12,1,0.083,1.85,3.2,Low Cost,Expert,Tiers Plus
+81,Fiat,Voiture populaire,12,4042,83507,4,False,False,22,0,0,0.0,1.1,4.0,Low Cost,Expert,Tiers Plus
+82,Fiat,Citadine,7,2840,171639,5,False,True,72,32,1,0.031,1.25,2.4,Low Cost,Modéré,Tiers
+83,Jaguar,SUV,1,255384,14123,19,True,False,39,16,2,0.125,4.2,2.4,High Cost,Modéré,Tout Risque
+84,Lexus,Voiture de luxe,1,61435,14441,16,True,True,72,5,1,0.2,3.75,1.6,High Cost,À risque,Tiers Plus
+85,Hyundai,Berline compact,4,14565,93440,7,True,False,70,36,1,0.028,1.95,2.8,Low Cost,Modéré,Tiers
+86,Infiniti,Berline compact,2,53301,33936,13,False,True,18,0,1,1.0,2.9,0.8,Medium Cost,À risque,Tiers
+87,Fiat,SUV,12,9384,197840,5,False,True,51,27,0,0.0,1.25,3.4,Low Cost,Expert,Tiers Plus
+88,Toyota,Break familial,6,20503,132353,6,True,True,20,2,0,0.0,2.05,3.2,Medium Cost,Expert,Tout Risque
+89,Toyota,Voiture de luxe,0,82982,0,12,True,True,74,16,0,0.0,3.4,3.2,High Cost,Expert,Tout Risque
+90,Chery,Berline compact,14,6682,266650,7,False,True,19,0,0,0.0,1.15,3.2,Low Cost,Expert,Tiers Plus
+91,Chery,Berline executive,5,16116,107035,7,False,True,35,14,0,0.0,1.75,3.6,Low Cost,Expert,Tiers Plus
+92,Citroën,Berline compact,14,15979,219779,5,True,False,47,22,1,0.045,1.75,3.2,Low Cost,Expert,Tiers Plus
+93,Fiat,Sportive,0,42923,0,9,True,True,27,0,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+94,BMW,Berline executive,7,41014,101852,15,False,True,60,42,0,0.0,2.5,3.4,Medium Cost,Expert,Tout Risque
+95,Peugeot,Citadine,2,15841,26105,7,True,False,25,3,0,0.0,2.55,4.0,Medium Cost,Expert,Tout Risque
+96,Ford,SUV,7,33229,103865,9,True,False,68,18,2,0.111,2.45,2.0,Medium Cost,À risque,Tiers
+97,Toyota,Voiture de luxe,1,29224,17343,12,False,True,18,0,0,0.0,2.85,3.2,Medium Cost,Expert,Tout Risque
+98,Kia,SUV,11,5505,101681,6,True,False,43,24,0,0.0,1.65,4.0,Low Cost,Expert,Tiers Plus
+99,Fiat,Voiture populaire,5,3389,53970,7,False,False,53,0,0,0.0,1.65,3.8,Low Cost,Expert,Tiers Plus
+100,Bentley,Berline executive,2,179668,32428,22,False,True,45,22,1,0.045,3.8,2.8,High Cost,Modéré,Tout Risque
+101,Nissan,Break familial,1,27010,22969,7,False,True,24,2,1,0.5,2.6,1.2,Medium Cost,À risque,Tiers
+102,Maserati,Voiture de luxe,13,174285,298940,25,True,True,55,34,0,0.0,3.4,3.4,High Cost,Expert,Tout Risque
+103,Toyota,Voiture de luxe,8,14307,99546,7,True,False,43,11,0,0.0,2.25,4.0,Medium Cost,Expert,Tout Risque
+104,Porsche,Berline executive,12,98794,185201,16,True,False,64,35,1,0.029,3.05,3.0,High Cost,Modéré,Tout Risque
+105,Volvo,SUV,1,88931,14282,15,False,False,54,5,1,0.2,3.35,2.2,High Cost,À risque,Tiers Plus
+106,Nissan,SUV,1,36955,16932,9,True,True,74,32,0,0.0,3.05,3.2,High Cost,Expert,Tout Risque
+107,Audi,Voiture de luxe,4,60692,32304,14,True,False,47,23,2,0.087,3.45,3.2,High Cost,Expert,Tout Risque
+108,Nissan,Citadine,6,25159,36327,9,False,False,48,5,0,0.0,2.05,4.0,Medium Cost,Expert,Tout Risque
+109,Renault,Voiture de luxe,11,11132,132840,8,False,False,68,1,0,0.0,1.8,3.6,Low Cost,Expert,Tiers Plus
+110,BMW,Sportive,7,83969,107517,15,True,False,21,2,0,0.0,3.15,3.6,High Cost,Expert,Tout Risque
+111,Lamborghini,Berline compact,3,278464,24045,21,True,False,55,36,1,0.028,3.9,3.0,High Cost,Modéré,Tout Risque
+112,Volvo,Berline executive,14,18210,276831,14,True,True,67,9,0,0.0,2.25,3.2,Medium Cost,Expert,Tout Risque
+113,Land Rover,SUV,9,44598,232915,27,True,True,54,8,1,0.125,3.0,1.8,Medium Cost,À risque,Tiers
+114,Chevrolet,Citadine,10,3658,196779,5,True,True,66,4,1,0.25,1.55,1.6,Low Cost,À risque,Tiers
+115,Mercedes,Voiture populaire,11,30205,167469,10,False,False,29,2,0,0.0,1.95,4.0,Low Cost,Expert,Tiers Plus
+116,Jaguar,Break familial,7,61739,77631,24,False,False,58,36,0,0.0,3.05,3.8,High Cost,Expert,Tout Risque
+117,Nissan,Break familial,13,16396,310720,9,True,True,31,9,2,0.222,1.8,2.0,Low Cost,À risque,Tiers
+118,Ferrari,Voiture populaire,8,94044,196211,20,False,True,25,6,1,0.167,2.75,2.0,Medium Cost,À risque,Tiers
+119,Chery,Sportive,2,21671,42978,7,True,True,50,24,0,0.0,2.45,3.6,Medium Cost,Expert,Tout Risque
+120,Kia,Sportive,14,4350,170075,9,True,False,23,2,0,0.0,1.7,4.0,Low Cost,Expert,Tiers Plus
+121,Land Rover,Berline executive,7,151678,83652,26,False,False,56,26,1,0.038,3.3,3.0,High Cost,Modéré,Tout Risque
+122,Lexus,Sportive,5,50163,87259,14,True,False,21,1,0,0.0,3.1,3.6,High Cost,Expert,Tout Risque
+123,BMW,SUV,4,45675,60715,15,True,False,53,23,1,0.043,3.1,3.0,High Cost,Modéré,Tout Risque
+124,Ferrari,Sportive,14,151325,176649,17,True,False,48,18,1,0.056,3.4,3.2,High Cost,Expert,Tout Risque
+125,BMW,Voiture populaire,3,44991,67782,10,False,True,28,9,0,0.0,2.55,3.6,Medium Cost,Expert,Tout Risque
+126,Citroën,Berline executive,5,33493,94051,9,False,True,43,12,0,0.0,2.35,3.6,Medium Cost,Expert,Tout Risque
+127,Chevrolet,Berline compact,1,19880,10033,6,True,False,61,35,2,0.057,2.35,3.0,Medium Cost,Modéré,Tiers Plus
+128,Maserati,Berline compact,4,220654,100279,19,True,True,66,27,0,0.0,3.7,3.2,High Cost,Expert,Tout Risque
+129,Audi,Voiture de luxe,8,66020,111823,11,False,False,18,0,0,0.0,2.8,3.6,Medium Cost,Expert,Tout Risque
+130,Audi,Citadine,4,67632,31352,14,True,False,71,50,1,0.02,3.15,2.8,High Cost,Modéré,Tout Risque
+131,Nissan,Citadine,4,28627,54085,6,False,False,70,25,0,0.0,2.2,3.6,Medium Cost,Expert,Tout Risque
+132,Dacia,Berline executive,14,5731,207116,8,False,False,51,26,0,0.0,1.3,3.8,Low Cost,Expert,Tiers Plus
+133,Audi,Break familial,10,17303,143941,10,False,True,41,6,0,0.0,2.1,3.6,Medium Cost,Expert,Tout Risque
+134,Citroën,Voiture de luxe,4,43342,99912,7,False,True,39,17,1,0.059,2.4,2.8,Medium Cost,Modéré,Tiers Plus
+135,Nissan,Berline executive,6,27378,154238,7,False,True,39,7,0,0.0,2.0,3.6,Low Cost,Expert,Tiers Plus
+136,BMW,Berline compact,0,63891,0,10,True,False,36,16,0,0.0,3.5,4.0,High Cost,Expert,Tout Risque
+137,Infiniti,Citadine,13,26786,223917,8,True,False,64,1,0,0.0,2.25,3.8,Medium Cost,Expert,Tout Risque
+138,Chevrolet,Sportive,0,14014,0,9,True,True,25,4,0,0.0,2.6,3.6,Medium Cost,Expert,Tout Risque
+139,Citroën,Voiture de luxe,2,57002,36959,10,False,True,50,22,3,0.136,2.75,2.0,Medium Cost,À risque,Tiers
+140,BMW,Berline executive,1,76293,15749,12,False,False,40,7,0,0.0,3.3,4.0,High Cost,Expert,Tout Risque
+141,Citroën,Voiture de luxe,14,18656,291666,9,False,True,25,1,1,1.0,1.7,1.2,Low Cost,À risque,Tiers
+142,Mercedes,Citadine,7,45049,129300,10,True,False,69,36,0,0.0,2.55,3.6,Medium Cost,Expert,Tout Risque
+143,Peugeot,Voiture populaire,13,4336,227731,6,True,True,24,0,0,0.0,1.65,3.6,Low Cost,Expert,Tiers Plus
+144,Peugeot,Break familial,2,37158,30946,7,True,True,35,1,1,1.0,2.8,1.2,Medium Cost,À risque,Tiers
+145,Peugeot,Berline compact,4,37488,72407,6,False,True,20,2,0,0.0,2.3,3.2,Medium Cost,Expert,Tout Risque
+146,Infiniti,Break familial,3,59012,40402,13,False,False,70,43,0,0.0,2.7,3.6,Medium Cost,Expert,Tout Risque
+147,Ferrari,Berline executive,9,147637,208469,21,True,True,73,45,0,0.0,3.5,3.2,High Cost,Expert,Tout Risque
+148,Ferrari,Berline compact,0,186723,0,12,False,True,57,1,0,0.0,3.75,3.4,High Cost,Expert,Tout Risque
+149,Infiniti,Citadine,6,54032,66397,13,False,False,46,12,1,0.083,2.4,3.2,Medium Cost,Expert,Tout Risque
+150,Nissan,Break familial,4,28447,56882,6,True,True,59,35,0,0.0,2.6,3.4,Medium Cost,Expert,Tout Risque
+151,Kia,SUV,1,30767,20650,6,True,True,40,20,0,0.0,2.7,3.6,Medium Cost,Expert,Tout Risque
+152,Toyota,Voiture de luxe,4,44222,68656,10,False,True,74,52,0,0.0,2.55,3.2,Medium Cost,Expert,Tout Risque
+153,Volvo,Berline executive,12,30427,185295,16,True,False,19,1,1,1.0,2.5,1.2,Medium Cost,À risque,Tiers
+154,Mercedes,Voiture populaire,0,39777,0,9,False,False,28,7,0,0.0,2.85,4.0,Medium Cost,Expert,Tout Risque
+155,Jaguar,Sportive,3,286935,40024,17,True,False,64,23,2,0.087,4.0,3.0,High Cost,Modéré,Tout Risque
+156,Chery,SUV,4,18002,44261,10,False,False,60,16,0,0.0,1.9,3.8,Low Cost,Expert,Tiers Plus
+157,Audi,SUV,12,32149,190272,11,False,True,26,8,0,0.0,2.15,3.6,Medium Cost,Expert,Tout Risque
+158,Hyundai,SUV,0,22452,0,8,False,True,52,2,0,0.0,2.2,3.4,Medium Cost,Expert,Tout Risque
+159,Ferrari,Sportive,11,88077,141938,17,False,False,66,16,3,0.188,2.95,2.0,Medium Cost,À risque,Tiers
+160,Dacia,Sportive,6,22896,121533,9,False,True,36,7,1,0.143,1.7,2.0,Low Cost,À risque,Tiers
+161,Mercedes,Break familial,0,133251,0,13,False,False,35,11,0,0.0,3.5,4.0,High Cost,Expert,Tout Risque
+162,Ford,SUV,9,7328,131572,10,False,True,33,6,2,0.333,1.9,1.2,Low Cost,À risque,Tiers
+163,Volvo,Break familial,9,21947,187338,9,True,True,32,4,1,0.25,2.3,2.0,Medium Cost,À risque,Tiers
+164,Bentley,Voiture de luxe,2,521655,50185,17,False,True,35,6,0,0.0,3.9,3.6,High Cost,Expert,Tout Risque
+165,Maserati,Sportive,10,126465,117641,23,False,False,62,33,2,0.061,3.4,3.0,High Cost,Modéré,Tout Risque
+166,Lamborghini,Citadine,10,69083,129359,23,True,False,73,48,1,0.021,3.15,2.8,High Cost,Modéré,Tout Risque
+167,Peugeot,Voiture de luxe,5,49789,60162,12,True,False,19,0,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+168,Land Rover,Berline executive,1,481334,10059,27,False,False,52,28,1,0.036,3.9,3.0,High Cost,Modéré,Tout Risque
+169,Audi,Berline executive,12,29643,99292,15,False,False,47,24,0,0.0,2.3,4.0,Medium Cost,Expert,Tout Risque
+170,Citroën,SUV,3,36253,68552,9,False,True,73,29,2,0.069,2.45,2.4,Medium Cost,Modéré,Tiers Plus
+171,Kia,Break familial,1,12822,16803,3,False,True,70,45,0,0.0,2.0,3.2,Low Cost,Expert,Tiers Plus
+172,Bentley,Berline compact,14,40439,260566,19,True,True,54,36,0,0.0,2.7,3.4,Medium Cost,Expert,Tout Risque
+173,Bentley,Sportive,5,359961,109659,23,False,False,51,24,1,0.042,3.6,3.0,High Cost,Modéré,Tout Risque
+174,Kia,Break familial,3,20944,50340,6,False,True,71,52,2,0.038,1.75,2.4,Low Cost,Modéré,Tiers
+175,Toyota,Berline compact,13,10585,217984,6,False,True,58,2,1,0.5,1.45,1.0,Low Cost,À risque,Tiers
+176,Maserati,Berline compact,4,277550,58776,18,False,True,52,19,3,0.158,3.5,1.8,High Cost,À risque,Tiers Plus
+177,Fiat,SUV,12,11517,128391,7,True,False,20,2,0,0.0,1.65,3.6,Low Cost,Expert,Tiers Plus
+178,Kia,Citadine,7,7287,78112,6,False,False,51,10,1,0.1,1.45,3.0,Low Cost,Modéré,Tiers
+179,Mercedes,Sportive,2,59445,34551,14,False,True,51,11,0,0.0,3.1,3.4,High Cost,Expert,Tout Risque
+180,Fiat,SUV,14,3415,306080,11,False,True,41,14,0,0.0,1.3,3.6,Low Cost,Expert,Tiers Plus
+181,Hyundai,Voiture de luxe,10,3973,226810,7,False,True,65,12,2,0.167,1.55,1.8,Low Cost,À risque,Tiers
+182,Infiniti,Citadine,12,20592,290573,12,True,True,46,18,2,0.111,2.0,2.0,Low Cost,À risque,Tiers
+183,Lamborghini,SUV,7,215765,153617,23,True,True,50,5,0,0.0,3.5,3.6,High Cost,Expert,Tout Risque
+184,Kia,Voiture de luxe,7,17502,58126,5,True,False,42,20,1,0.05,2.05,3.2,Medium Cost,Expert,Tout Risque
+185,BMW,Sportive,14,56991,170726,16,False,False,74,50,2,0.04,2.3,2.8,Medium Cost,Modéré,Tiers Plus
+186,Volkswagen,Citadine,9,6600,139917,7,True,True,56,30,0,0.0,1.95,3.4,Low Cost,Expert,Tiers Plus
+187,Jaguar,Break familial,1,168477,23985,24,False,True,19,1,0,0.0,3.8,3.2,High Cost,Expert,Tout Risque
+188,Chery,Break familial,10,3004,257742,3,True,True,51,23,2,0.087,1.6,2.6,Low Cost,Modéré,Tiers
+189,Chery,Citadine,5,14280,38515,3,False,False,45,27,0,0.0,1.6,4.0,Low Cost,Expert,Tiers Plus
+190,Maserati,Sportive,4,423364,60920,18,False,True,34,11,0,0.0,3.7,3.6,High Cost,Expert,Tout Risque
+191,Peugeot,SUV,9,20980,84218,10,False,False,64,28,0,0.0,1.9,3.8,Low Cost,Expert,Tiers Plus
+192,Hyundai,Break familial,10,4956,155610,7,False,True,46,10,1,0.1,1.35,2.8,Low Cost,Modéré,Tiers
+193,Audi,Voiture populaire,14,15802,278092,10,True,True,40,1,0,0.0,2.0,3.6,Low Cost,Expert,Tiers Plus
+194,Citroën,Berline compact,12,11493,303979,7,True,True,56,14,1,0.071,1.75,2.6,Low Cost,Modéré,Tiers
+195,Chery,SUV,12,3810,158688,9,False,False,20,0,1,1.0,1.3,1.2,Low Cost,À risque,Tiers
+196,Kia,Sportive,7,19472,109224,11,False,False,36,4,2,0.5,1.7,1.6,Low Cost,À risque,Tiers
+197,Citroën,Sportive,0,39023,0,8,False,True,66,24,1,0.042,2.85,2.4,Medium Cost,Modéré,Tiers Plus
+198,Porsche,Citadine,1,105421,16376,19,False,False,42,16,0,0.0,3.45,4.0,High Cost,Expert,Tout Risque
+199,Porsche,SUV,7,169636,162757,17,True,True,61,23,2,0.087,3.5,2.6,High Cost,Modéré,Tout Risque
+200,Peugeot,Citadine,2,11796,32451,5,False,True,24,0,0,0.0,2.15,3.6,Medium Cost,Expert,Tout Risque
+201,Ferrari,Berline compact,3,112401,30277,20,False,False,39,21,0,0.0,3.25,4.0,High Cost,Expert,Tout Risque
+202,Citroën,Berline compact,1,22752,14157,9,False,False,38,17,1,0.059,2.4,3.2,Medium Cost,Expert,Tout Risque
+203,Hyundai,Sportive,1,34014,13567,7,False,False,55,7,1,0.143,2.5,2.2,Medium Cost,À risque,Tiers
+204,Ford,Berline executive,2,44855,30518,7,True,True,32,5,1,0.2,2.9,2.0,Medium Cost,À risque,Tiers
+205,Ford,Voiture de luxe,3,45334,40069,8,False,False,50,12,0,0.0,2.55,4.0,Medium Cost,Expert,Tout Risque
+206,Land Rover,Voiture de luxe,12,127536,98909,16,True,False,63,14,0,0.0,3.5,3.8,High Cost,Expert,Tout Risque
+207,Hyundai,Berline executive,6,18417,112125,11,False,False,26,5,1,0.2,1.6,2.4,Low Cost,Modéré,Tiers
+208,Kia,Voiture de luxe,14,11369,211336,7,True,False,64,6,1,0.167,1.65,2.2,Low Cost,À risque,Tiers
+209,Audi,Citadine,3,60838,49063,14,True,False,58,13,0,0.0,3.15,3.8,High Cost,Expert,Tout Risque
+210,Porsche,Sportive,5,227535,105596,25,False,True,68,18,3,0.167,3.6,1.6,High Cost,À risque,Tiers Plus
+211,Renault,SUV,3,18545,56664,13,True,False,61,17,0,0.0,2.55,3.8,Medium Cost,Expert,Tout Risque
+212,BMW,Sportive,2,125615,33482,12,True,True,27,2,0,0.0,3.85,3.6,High Cost,Expert,Tout Risque
+213,Jaguar,Break familial,12,76963,120204,18,True,False,47,20,1,0.05,3.05,3.2,High Cost,Expert,Tout Risque
+214,Lexus,Citadine,12,17764,289859,12,False,True,61,19,1,0.053,1.7,2.6,Low Cost,Modéré,Tiers
+215,Peugeot,Voiture populaire,1,27003,24404,5,False,True,70,33,0,0.0,2.5,3.2,Medium Cost,Expert,Tout Risque
+216,Jaguar,Berline compact,1,174485,16434,18,False,False,68,11,0,0.0,3.8,3.6,High Cost,Expert,Tout Risque
+217,Volvo,SUV,1,123041,16317,13,False,False,65,29,0,0.0,3.6,3.8,High Cost,Expert,Tout Risque
+218,Mercedes,Break familial,11,18386,203216,9,False,True,22,4,0,0.0,1.8,3.6,Low Cost,Expert,Tiers Plus
+219,Nissan,Break familial,5,28690,122244,5,True,True,56,5,1,0.2,2.5,1.8,Medium Cost,À risque,Tiers
+220,Citroën,Voiture de luxe,8,16969,121010,11,False,False,57,11,0,0.0,2.0,3.8,Low Cost,Expert,Tiers Plus
+221,Dacia,SUV,12,6578,104632,8,False,False,33,9,0,0.0,1.4,4.0,Low Cost,Expert,Tiers Plus
+222,Chevrolet,Sportive,11,13108,171747,10,False,False,74,53,0,0.0,1.4,3.6,Low Cost,Expert,Tiers Plus
+223,Ford,Voiture de luxe,8,27653,102777,10,False,False,73,43,0,0.0,2.25,3.6,Medium Cost,Expert,Tout Risque
+224,Renault,Break familial,14,12688,341869,8,False,True,37,17,3,0.176,1.5,2.0,Low Cost,À risque,Tiers
+225,Ferrari,Voiture de luxe,8,69658,134390,26,True,False,23,4,2,0.5,3.45,1.6,High Cost,À risque,Tiers Plus
+226,Bentley,Sportive,4,228913,37967,26,False,False,67,23,1,0.043,3.7,2.8,High Cost,Modéré,Tout Risque
+227,Land Rover,Berline compact,13,132094,330482,13,False,True,56,30,0,0.0,2.9,3.4,Medium Cost,Expert,Tout Risque
+228,Chevrolet,Berline executive,10,2907,141788,10,True,False,62,15,2,0.133,1.9,2.2,Low Cost,À risque,Tiers
+229,Kia,Sportive,11,4108,242893,6,True,True,25,4,0,0.0,1.65,3.6,Low Cost,Expert,Tiers Plus
+230,Audi,Berline compact,4,81892,60178,8,True,False,43,10,1,0.1,3.2,3.2,High Cost,Expert,Tout Risque
+231,Lamborghini,SUV,1,113500,12514,21,False,False,25,0,0,0.0,3.65,4.0,High Cost,Expert,Tout Risque
+232,Jaguar,Voiture populaire,0,256752,0,16,False,False,58,25,0,0.0,3.7,3.8,High Cost,Expert,Tout Risque
+233,Ford,Sportive,1,48253,25992,7,True,True,65,12,1,0.083,3.1,2.6,High Cost,Modéré,Tout Risque
+234,Peugeot,SUV,12,13268,209570,10,True,True,63,3,1,0.333,1.9,1.0,Low Cost,À risque,Tiers
+235,Audi,Voiture populaire,5,39294,104356,14,True,False,28,0,0,0.0,2.8,4.0,Medium Cost,Expert,Tout Risque
+236,Chery,SUV,5,16510,108944,11,True,True,24,6,1,0.167,2.1,2.0,Medium Cost,À risque,Tiers
+237,Ford,Citadine,11,8866,156922,5,False,False,55,25,1,0.04,1.35,3.0,Low Cost,Modéré,Tiers
+238,Toyota,Voiture de luxe,7,24695,154129,9,True,True,20,0,1,1.0,2.2,0.8,Medium Cost,À risque,Tiers
+239,Volvo,Voiture de luxe,1,100613,19750,14,True,True,29,4,0,0.0,3.75,3.6,High Cost,Expert,Tout Risque
+240,Chery,Voiture populaire,4,11620,67811,6,False,True,65,22,2,0.091,1.65,2.6,Low Cost,Modéré,Tiers
+241,Mercedes,Berline compact,1,57610,15347,12,True,False,72,15,1,0.067,3.25,2.8,High Cost,Modéré,Tout Risque
+242,Jaguar,SUV,11,59024,210927,18,False,False,30,5,0,0.0,2.5,4.0,Medium Cost,Expert,Tout Risque
+243,Land Rover,Citadine,13,77288,142768,15,False,False,46,14,1,0.071,2.65,3.2,Medium Cost,Expert,Tout Risque
+244,Land Rover,Berline compact,7,102944,82941,13,True,False,30,3,1,0.333,3.25,1.6,High Cost,À risque,Tiers Plus
+245,Toyota,SUV,13,15265,141410,10,False,False,24,6,0,0.0,1.7,4.0,Low Cost,Expert,Tiers Plus
+246,BMW,SUV,9,43097,110895,14,True,False,18,0,0,0.0,2.8,3.6,Medium Cost,Expert,Tout Risque
+247,Mercedes,Voiture populaire,12,23897,218557,14,True,False,38,8,1,0.125,2.05,2.4,Medium Cost,Modéré,Tiers Plus
+248,Infiniti,Berline executive,14,46200,186992,15,False,False,33,0,0,0.0,2.2,4.0,Medium Cost,Expert,Tout Risque
+249,Dacia,Voiture de luxe,4,23005,70498,9,False,True,35,3,0,0.0,2.0,3.6,Low Cost,Expert,Tiers Plus
+250,Infiniti,Citadine,6,49841,66624,10,False,False,50,20,0,0.0,2.35,4.0,Medium Cost,Expert,Tout Risque
+251,Ferrari,Break familial,4,111674,86814,23,False,True,28,9,0,0.0,3.15,3.6,High Cost,Expert,Tout Risque
+252,Jaguar,Break familial,12,133680,253604,20,False,True,52,6,1,0.167,2.9,1.8,Medium Cost,À risque,Tiers
+253,Jaguar,Voiture populaire,2,221660,24045,20,True,False,56,23,0,0.0,4.0,3.8,High Cost,Expert,Tout Risque
+254,Lamborghini,Sportive,2,143890,25323,20,True,False,57,36,2,0.056,4.3,3.0,High Cost,Modéré,Tout Risque
+255,Bentley,Berline compact,2,182950,22106,17,True,False,21,0,0,0.0,4.1,3.6,High Cost,Expert,Tout Risque
+256,Ford,Voiture de luxe,1,62202,22035,12,True,True,25,5,0,0.0,3.4,3.6,High Cost,Expert,Tout Risque
+257,Chevrolet,Berline executive,2,15699,40790,10,False,True,23,1,1,1.0,2.1,1.2,Medium Cost,À risque,Tiers
+258,Citroën,Sportive,1,57545,15086,11,False,False,53,4,0,0.0,2.85,3.8,Medium Cost,Expert,Tout Risque
+259,Lamborghini,Voiture populaire,14,66009,322812,18,False,True,47,24,2,0.083,2.55,2.8,Medium Cost,Modéré,Tiers Plus
+260,Chevrolet,Break familial,11,5621,138723,6,False,False,47,12,0,0.0,1.25,4.0,Low Cost,Expert,Tiers Plus
+261,Hyundai,Voiture de luxe,2,33562,24676,8,True,False,38,19,1,0.053,2.85,3.2,Medium Cost,Expert,Tout Risque
+262,Lexus,Voiture populaire,1,85398,19353,12,False,False,55,33,0,0.0,3.1,3.8,High Cost,Expert,Tout Risque
+263,Land Rover,SUV,3,112907,28390,15,False,False,44,24,1,0.042,3.45,3.2,High Cost,Expert,Tout Risque
+264,Kia,Break familial,10,6538,239034,4,False,True,72,5,2,0.4,1.3,0.8,Low Cost,À risque,Tiers
+265,Porsche,Berline executive,10,84617,208950,25,True,True,29,0,0,0.0,3.25,3.6,High Cost,Expert,Tout Risque
+266,Jaguar,Sportive,1,464728,15772,24,False,False,20,2,0,0.0,4.0,3.6,High Cost,Expert,Tout Risque
+267,Kia,Berline compact,8,4109,142962,5,True,True,19,0,0,0.0,1.75,3.2,Low Cost,Expert,Tiers Plus
+268,Volkswagen,Sportive,3,48173,62629,8,True,True,71,32,2,0.062,2.85,2.4,Medium Cost,Modéré,Tiers Plus
+269,Peugeot,Berline compact,13,9686,151271,9,False,False,52,5,0,0.0,1.5,3.8,Low Cost,Expert,Tiers Plus
+270,Toyota,Voiture de luxe,4,27958,36388,10,True,False,62,11,3,0.273,2.85,2.2,Medium Cost,À risque,Tiers
+271,Jaguar,Voiture populaire,11,44331,122750,13,False,False,23,4,0,0.0,2.4,4.0,Medium Cost,Expert,Tout Risque
+272,Citroën,Citadine,1,25324,21802,7,False,True,22,2,0,0.0,2.5,3.6,Medium Cost,Expert,Tout Risque
+273,BMW,Sportive,8,55927,89037,16,True,False,26,6,0,0.0,2.9,4.0,Medium Cost,Expert,Tout Risque
+274,Kia,Berline executive,2,14012,29791,9,False,True,24,3,1,0.333,2.2,1.2,Medium Cost,À risque,Tiers
+275,Nissan,SUV,3,42436,77881,7,True,True,69,28,1,0.036,2.7,2.4,Medium Cost,Modéré,Tiers Plus
+276,BMW,Voiture populaire,11,13244,265938,9,True,True,69,34,0,0.0,2.0,3.2,Low Cost,Expert,Tiers Plus
+277,Fiat,Berline executive,11,9494,217575,9,True,True,72,1,0,0.0,1.6,3.2,Low Cost,Expert,Tiers Plus
+278,Lamborghini,Break familial,4,247318,56921,16,True,True,73,38,1,0.026,3.8,2.4,High Cost,Modéré,Tout Risque
+279,Infiniti,Break familial,12,18869,82321,12,True,False,54,31,0,0.0,2.2,3.8,Medium Cost,Expert,Tout Risque
+280,Ferrari,Berline compact,2,330933,23185,16,True,False,72,52,0,0.0,4.1,3.6,High Cost,Expert,Tout Risque
+281,Chevrolet,Berline compact,3,17507,73127,6,False,True,52,28,0,0.0,1.75,3.4,Low Cost,Expert,Tiers Plus
+282,Kia,Citadine,5,13476,93543,4,True,True,58,16,1,0.062,1.8,2.6,Low Cost,Modéré,Tiers
+283,Toyota,Break familial,8,7717,178060,8,False,True,50,9,2,0.222,1.7,2.0,Low Cost,À risque,Tiers
+284,Chery,SUV,11,7054,257114,10,True,True,25,2,0,0.0,1.6,3.6,Low Cost,Expert,Tiers Plus
+285,Bentley,Voiture de luxe,0,399572,0,27,True,True,36,4,1,0.25,4.3,2.0,High Cost,À risque,Tiers Plus
+286,Mercedes,Sportive,0,162006,0,14,False,True,18,0,0,0.0,3.7,3.2,High Cost,Expert,Tout Risque
+287,BMW,Break familial,7,49005,45715,11,True,False,48,13,3,0.231,2.75,2.4,Medium Cost,Modéré,Tiers Plus
+288,BMW,Citadine,3,45477,51813,11,True,False,22,4,1,0.25,2.85,2.4,Medium Cost,Modéré,Tiers Plus
+289,Nissan,Voiture de luxe,7,19889,53124,10,True,False,57,24,3,0.125,2.4,2.2,Medium Cost,À risque,Tiers
+290,Maserati,Sportive,14,79671,230555,15,True,True,58,40,3,0.075,3.15,2.6,High Cost,Modéré,Tout Risque
+291,Ford,Berline compact,6,16899,87020,6,True,True,53,11,0,0.0,2.05,3.4,Medium Cost,Expert,Tout Risque
+292,Citroën,Berline executive,1,26721,14712,11,False,False,32,0,1,1.0,2.75,1.6,Medium Cost,À risque,Tiers
+293,BMW,Voiture de luxe,6,63503,90840,13,True,True,42,17,2,0.118,3.15,2.0,High Cost,À risque,Tiers Plus
+294,Jaguar,Break familial,13,122787,248405,14,False,False,73,20,0,0.0,2.9,3.6,Medium Cost,Expert,Tout Risque
+295,Peugeot,Voiture de luxe,13,12718,260881,9,False,False,30,4,2,0.5,1.7,1.6,Low Cost,À risque,Tiers
+296,Nissan,Voiture de luxe,13,14041,231662,12,True,False,39,10,0,0.0,2.0,4.0,Low Cost,Expert,Tiers Plus
+297,Audi,Berline executive,11,40457,74096,14,False,False,44,17,0,0.0,2.4,4.0,Medium Cost,Expert,Tout Risque
+298,Chevrolet,Sportive,2,20925,31616,8,True,True,54,32,1,0.031,2.5,2.6,Medium Cost,Modéré,Tiers Plus
+299,Hyundai,Voiture populaire,14,2211,213796,7,False,True,61,24,1,0.042,1.05,2.6,Low Cost,Modéré,Tiers
+300,Bentley,Berline executive,14,130905,223022,23,True,True,20,0,0,0.0,3.3,3.2,High Cost,Expert,Tout Risque
+301,Infiniti,Berline executive,2,97489,28356,12,True,False,63,38,1,0.026,3.6,3.0,High Cost,Modéré,Tout Risque
+302,Toyota,Voiture de luxe,1,74633,13521,11,True,False,71,11,1,0.091,3.4,2.8,High Cost,Modéré,Tout Risque
+303,Porsche,SUV,13,122546,298929,18,False,True,33,2,1,0.5,3.0,1.2,High Cost,À risque,Tiers Plus
+304,Infiniti,Break familial,5,47810,108797,11,True,False,21,3,1,0.333,2.85,1.2,Medium Cost,À risque,Tiers
+305,Peugeot,Voiture populaire,5,8439,65118,9,False,False,56,20,0,0.0,2.0,3.8,Medium Cost,Expert,Tout Risque
+306,Kia,SUV,13,7880,176729,8,True,False,21,0,0,0.0,1.6,3.6,Low Cost,Expert,Tiers Plus
+307,Lexus,Citadine,7,32693,106747,9,False,True,21,3,1,0.333,2.25,0.8,Medium Cost,À risque,Tiers
+308,Chery,SUV,1,21710,14851,10,False,False,63,18,0,0.0,2.2,3.8,Medium Cost,Expert,Tout Risque
+309,Toyota,Citadine,12,11630,275413,6,True,True,48,3,0,0.0,1.65,3.6,Low Cost,Expert,Tiers Plus
+310,Infiniti,Voiture de luxe,12,36426,189233,16,True,True,35,16,1,0.062,2.6,2.8,Medium Cost,Modéré,Tiers Plus
+311,Bentley,Citadine,10,99381,231990,20,True,True,62,32,0,0.0,3.05,3.4,High Cost,Expert,Tout Risque
+312,Nissan,Voiture de luxe,3,56315,31378,12,False,False,43,15,0,0.0,2.55,4.0,Medium Cost,Expert,Tout Risque
+313,Chery,Berline executive,3,7234,31405,11,False,False,71,44,1,0.023,1.9,2.8,Low Cost,Modéré,Tiers
+314,Ferrari,Voiture populaire,10,25715,175847,16,True,True,52,25,2,0.08,2.8,2.6,Medium Cost,Modéré,Tiers Plus
+315,Chery,Citadine,12,4277,149673,7,True,False,22,3,0,0.0,1.45,4.0,Low Cost,Expert,Tiers Plus
+316,BMW,Voiture de luxe,3,126485,31673,12,False,False,53,5,0,0.0,3.35,3.8,High Cost,Expert,Tout Risque
+317,Audi,SUV,13,41295,277195,13,True,True,41,3,0,0.0,2.5,3.6,Medium Cost,Expert,Tout Risque
+318,Toyota,Voiture de luxe,7,18503,52153,12,True,False,45,13,0,0.0,2.4,4.0,Medium Cost,Expert,Tout Risque
+319,Land Rover,Sportive,5,161659,95733,22,False,True,26,3,0,0.0,3.6,3.6,High Cost,Expert,Tout Risque
+320,Peugeot,Voiture de luxe,3,36848,64309,9,True,True,67,32,1,0.031,2.85,2.4,Medium Cost,Modéré,Tiers Plus
+321,Renault,SUV,5,44992,123990,10,True,True,32,6,0,0.0,2.65,3.6,Medium Cost,Expert,Tout Risque
+322,Ferrari,SUV,9,162531,93906,22,False,False,35,4,1,0.25,3.3,2.4,High Cost,Modéré,Tout Risque
+323,Kia,Citadine,9,7191,80550,5,False,False,29,8,0,0.0,1.35,4.0,Low Cost,Expert,Tiers Plus
+324,Chery,Berline compact,0,17357,0,6,False,True,74,6,1,0.167,2.05,1.6,Medium Cost,À risque,Tiers
+325,Volvo,Berline executive,0,114680,0,12,True,False,56,21,1,0.048,3.6,3.0,High Cost,Modéré,Tout Risque
+326,Bentley,Citadine,1,282566,14980,17,False,True,27,4,0,0.0,3.7,3.6,High Cost,Expert,Tout Risque
+327,BMW,Voiture populaire,5,57203,90865,9,False,False,68,38,1,0.026,2.45,2.8,Medium Cost,Modéré,Tiers Plus
+328,Infiniti,Voiture de luxe,7,84545,85222,13,False,False,68,48,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+329,Kia,Voiture de luxe,6,19171,103027,9,True,False,32,7,0,0.0,2.0,4.0,Low Cost,Expert,Tiers Plus
+330,Chery,Sportive,14,5634,343769,9,False,True,58,39,3,0.077,1.4,2.6,Low Cost,Modéré,Tiers
+331,Audi,Voiture populaire,9,17716,126069,13,True,False,61,32,0,0.0,2.35,3.8,Medium Cost,Expert,Tout Risque
+332,Infiniti,Voiture de luxe,2,96141,19812,12,True,False,36,4,2,0.5,3.7,1.6,High Cost,À risque,Tiers Plus
+333,Volkswagen,Berline executive,7,23657,52246,10,True,False,38,7,1,0.143,2.3,2.4,Medium Cost,Modéré,Tiers Plus
+334,Ferrari,Berline compact,14,83180,228901,19,True,True,37,5,1,0.2,2.95,2.0,Medium Cost,À risque,Tiers
+335,Volvo,Break familial,6,36359,77842,10,False,False,57,37,0,0.0,2.45,3.8,Medium Cost,Expert,Tout Risque
+336,Bentley,Berline compact,0,411836,0,19,True,True,65,42,0,0.0,4.1,3.4,High Cost,Expert,Tout Risque
+337,Chevrolet,SUV,13,9800,277986,7,True,True,63,15,3,0.2,1.55,1.8,Low Cost,À risque,Tiers
+338,Porsche,Berline compact,12,105320,309711,16,True,True,51,3,2,0.667,2.95,1.0,Medium Cost,À risque,Tiers
+339,Ferrari,Sportive,9,126321,88085,24,False,False,50,3,1,0.333,3.4,1.6,High Cost,À risque,Tiers Plus
+340,Land Rover,Berline executive,1,177064,16517,20,False,True,46,8,1,0.125,3.9,2.0,High Cost,À risque,Tiers Plus
+341,BMW,Voiture populaire,1,62543,10525,8,False,False,64,43,0,0.0,3.1,3.8,High Cost,Expert,Tout Risque
+342,Jaguar,SUV,4,338042,68207,21,False,True,47,25,0,0.0,3.6,3.6,High Cost,Expert,Tout Risque
+343,Toyota,Voiture populaire,11,8611,136000,9,False,False,51,17,1,0.059,1.5,3.0,Low Cost,Modéré,Tiers
+344,BMW,Citadine,8,33804,103421,8,True,False,28,10,1,0.1,2.55,3.2,Medium Cost,Expert,Tout Risque
+345,Volkswagen,Voiture populaire,3,28896,35271,7,True,False,45,14,0,0.0,2.5,4.0,Medium Cost,Expert,Tout Risque
+346,BMW,Citadine,8,33693,174907,8,False,True,40,2,0,0.0,2.15,3.6,Medium Cost,Expert,Tout Risque
+347,Ford,Sportive,8,27217,132690,13,True,True,70,45,1,0.022,2.6,2.4,Medium Cost,Modéré,Tiers Plus
+348,BMW,Voiture populaire,3,69553,73363,14,False,True,30,1,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+349,Volvo,Berline compact,5,36130,110243,14,True,True,51,13,2,0.154,2.9,1.8,Medium Cost,À risque,Tiers
+350,Maserati,Sportive,7,240778,108823,17,False,True,37,16,0,0.0,3.4,3.6,High Cost,Expert,Tout Risque
+351,Toyota,Berline executive,7,33221,74100,9,False,False,20,1,0,0.0,2.25,3.6,Medium Cost,Expert,Tout Risque
+352,Audi,Berline executive,11,26556,114967,16,True,False,72,18,2,0.111,2.6,2.0,Medium Cost,À risque,Tiers
+353,Hyundai,Berline executive,13,4795,102230,8,True,False,50,24,2,0.083,1.7,3.2,Low Cost,Expert,Tiers Plus
+354,Volkswagen,SUV,4,48728,38620,9,True,False,25,1,0,0.0,2.75,4.0,Medium Cost,Expert,Tout Risque
+355,Hyundai,Berline compact,13,8270,191752,7,False,False,65,29,0,0.0,1.15,3.8,Low Cost,Expert,Tiers Plus
+356,Jaguar,Voiture de luxe,10,120345,259452,15,True,True,22,3,0,0.0,3.6,3.6,High Cost,Expert,Tout Risque
+357,Volkswagen,Voiture de luxe,11,25537,169171,11,False,True,21,2,1,0.5,1.95,0.8,Low Cost,À risque,Tiers
+358,Land Rover,Voiture populaire,7,83828,87889,18,False,False,29,5,0,0.0,2.85,4.0,Medium Cost,Expert,Tout Risque
+359,Dacia,Berline executive,14,4108,219103,8,False,True,39,7,2,0.286,1.3,2.0,Low Cost,À risque,Tiers
+360,Renault,Berline executive,5,21035,105501,13,False,True,24,3,0,0.0,2.15,3.6,Medium Cost,Expert,Tout Risque
+361,Peugeot,Berline compact,5,28410,117205,7,True,True,19,1,0,0.0,2.5,3.2,Medium Cost,Expert,Tout Risque
+362,Volkswagen,Voiture populaire,6,7333,92193,5,True,False,29,5,0,0.0,1.95,4.0,Low Cost,Expert,Tiers Plus
+363,Ferrari,Berline compact,7,193490,118063,21,False,True,46,12,0,0.0,3.2,3.6,High Cost,Expert,Tout Risque
+364,Chery,Berline compact,7,5381,86080,6,True,False,30,12,0,0.0,1.75,4.0,Low Cost,Expert,Tiers Plus
+365,Fiat,Voiture de luxe,13,6688,189721,7,False,True,38,20,1,0.05,1.35,2.8,Low Cost,Modéré,Tiers
+366,BMW,SUV,13,25668,243900,16,False,True,41,4,0,0.0,2.2,3.6,Medium Cost,Expert,Tout Risque
+367,Lexus,Break familial,0,96730,0,14,False,False,56,12,1,0.083,3.25,3.0,High Cost,Modéré,Tout Risque
+368,Renault,Berline executive,13,13032,181533,11,False,False,36,11,2,0.182,1.6,2.4,Low Cost,Modéré,Tiers
+369,Ferrari,SUV,12,127832,193446,14,False,False,45,25,1,0.04,3.0,3.2,High Cost,Expert,Tout Risque
+370,Chery,Break familial,8,9849,83964,7,True,False,66,46,2,0.043,1.75,2.8,Low Cost,Modéré,Tiers
+371,Fiat,Sportive,1,30966,15373,7,False,True,54,18,1,0.056,2.5,2.6,Medium Cost,Modéré,Tiers Plus
+372,Maserati,Voiture populaire,7,80602,161098,12,False,True,68,14,1,0.071,2.7,2.4,Medium Cost,Modéré,Tiers Plus
+373,Ferrari,Berline compact,1,376918,16260,13,False,False,30,9,0,0.0,3.8,4.0,High Cost,Expert,Tout Risque
+374,Volvo,Berline compact,2,49466,49918,8,False,True,20,1,0,0.0,2.85,3.2,Medium Cost,Expert,Tout Risque
+375,Peugeot,Sportive,1,32419,20359,10,False,True,34,8,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+376,Audi,Citadine,2,31971,18748,14,False,False,38,16,0,0.0,2.9,4.0,Medium Cost,Expert,Tout Risque
+377,Peugeot,Voiture de luxe,8,25564,133512,10,True,False,35,3,1,0.333,2.55,1.6,Medium Cost,À risque,Tiers
+378,Peugeot,Citadine,6,18023,123062,6,False,True,61,33,0,0.0,1.65,3.4,Low Cost,Expert,Tiers Plus
+379,Maserati,Berline executive,2,128943,48581,24,True,True,28,9,0,0.0,4.1,3.6,High Cost,Expert,Tout Risque
+380,Fiat,SUV,5,14398,112335,7,False,True,45,4,1,0.25,1.75,2.0,Low Cost,À risque,Tiers
+381,Ferrari,Sportive,4,143016,98724,16,False,True,46,9,1,0.111,3.6,2.0,High Cost,À risque,Tiers Plus
+382,Hyundai,Citadine,11,4002,154885,5,False,True,66,48,1,0.021,1.05,2.4,Low Cost,Modéré,Tiers
+383,Chevrolet,Voiture de luxe,4,17908,64160,9,True,False,21,0,0,0.0,2.3,3.6,Medium Cost,Expert,Tout Risque
+384,Peugeot,SUV,4,51014,66967,11,True,True,21,1,0,0.0,2.75,3.2,Medium Cost,Expert,Tout Risque
+385,Peugeot,Voiture de luxe,5,31021,125538,10,False,True,23,2,0,0.0,2.45,3.6,Medium Cost,Expert,Tout Risque
+386,Kia,Sportive,4,9844,69883,10,True,True,59,36,0,0.0,2.3,3.4,Medium Cost,Expert,Tout Risque
+387,Maserati,Berline compact,5,73051,83897,12,False,False,64,16,0,0.0,3.1,3.8,High Cost,Expert,Tout Risque
+388,Dacia,Berline executive,5,14933,53152,5,True,False,39,20,2,0.1,2.15,3.2,Medium Cost,Expert,Tout Risque
+389,Chery,Voiture populaire,2,8821,36548,4,False,True,68,48,1,0.021,1.8,2.4,Low Cost,Modéré,Tiers
+390,Volvo,Citadine,14,21941,191765,14,False,False,18,0,0,0.0,1.75,3.6,Low Cost,Expert,Tiers Plus
+391,Fiat,Voiture de luxe,7,7777,99563,8,False,False,34,2,1,0.5,1.7,1.6,Low Cost,À risque,Tiers
+392,Bentley,Citadine,7,107265,125369,19,False,True,54,20,0,0.0,2.85,3.4,Medium Cost,Expert,Tout Risque
+393,Toyota,Break familial,4,16290,52338,7,True,False,44,20,1,0.05,2.35,3.2,Medium Cost,Expert,Tout Risque
+394,Chevrolet,Citadine,5,11818,81468,7,False,False,56,27,0,0.0,1.55,3.8,Low Cost,Expert,Tiers Plus
+395,Jaguar,Berline compact,7,193185,92341,23,False,False,68,18,1,0.056,3.2,2.8,High Cost,Modéré,Tout Risque
+396,Jaguar,Berline compact,11,90583,217809,17,True,True,53,10,0,0.0,2.95,3.4,Medium Cost,Expert,Tout Risque
+397,Maserati,Sportive,7,189281,92398,24,True,False,68,13,0,0.0,3.7,3.6,High Cost,Expert,Tout Risque
+398,Renault,Citadine,11,12669,263232,8,True,True,52,8,0,0.0,1.7,3.4,Low Cost,Expert,Tiers Plus
+399,Ford,SUV,12,21177,179654,11,False,False,22,4,2,0.5,1.6,1.6,Low Cost,À risque,Tiers
+400,Citroën,Citadine,12,4520,147392,9,True,False,20,1,0,0.0,1.8,3.6,Low Cost,Expert,Tiers Plus
+401,Toyota,Citadine,13,7126,223812,5,False,False,73,29,3,0.103,1.35,2.0,Low Cost,À risque,Tiers
+402,Kia,Berline executive,14,3440,205652,6,False,False,47,6,0,0.0,1.25,4.0,Low Cost,Expert,Tiers Plus
+403,Bentley,Sportive,3,396554,56097,18,False,False,22,3,1,0.333,3.7,1.6,High Cost,À risque,Tiers Plus
+404,Chery,Sportive,14,3937,264122,6,False,False,21,1,0,0.0,1.35,3.6,Low Cost,Expert,Tiers Plus
+405,Lamborghini,SUV,10,158094,88068,25,True,False,51,18,1,0.056,3.6,3.0,High Cost,Modéré,Tout Risque
+406,Hyundai,Voiture de luxe,1,11189,8771,7,True,False,19,1,0,0.0,2.55,3.6,Medium Cost,Expert,Tout Risque
+407,Ford,Voiture populaire,14,12636,172420,7,True,False,31,7,0,0.0,1.65,4.0,Low Cost,Expert,Tiers Plus
+408,Land Rover,SUV,10,105465,86309,20,False,False,47,20,0,0.0,3.05,4.0,High Cost,Expert,Tout Risque
+409,Porsche,Voiture de luxe,2,497366,25210,21,True,False,40,9,0,0.0,4.3,4.0,High Cost,Expert,Tout Risque
+410,Toyota,Sportive,7,24686,102625,9,True,False,63,23,0,0.0,2.3,3.8,Medium Cost,Expert,Tout Risque
+411,Porsche,Voiture de luxe,13,159953,263146,28,False,True,35,11,0,0.0,3.1,3.6,High Cost,Expert,Tout Risque
+412,Hyundai,Voiture de luxe,13,3692,319590,8,False,True,29,0,0,0.0,1.4,3.6,Low Cost,Expert,Tiers Plus
+413,Dacia,Berline compact,14,2501,227758,7,False,True,49,21,1,0.048,1.15,2.8,Low Cost,Modéré,Tiers
+414,Chevrolet,Voiture populaire,6,12154,81351,7,True,False,46,27,0,0.0,1.65,4.0,Low Cost,Expert,Tiers Plus
+415,Toyota,Voiture de luxe,0,82325,0,9,True,True,21,3,2,0.667,3.4,0.8,High Cost,À risque,Tiers Plus
+416,Land Rover,Sportive,2,148201,30745,23,False,False,40,0,1,1.0,3.9,1.6,High Cost,À risque,Tiers Plus
+417,BMW,Voiture populaire,8,19006,84530,14,True,False,60,12,0,0.0,2.35,3.8,Medium Cost,Expert,Tout Risque
+418,Nissan,Berline executive,7,32524,161927,9,False,True,26,4,0,0.0,2.05,3.6,Medium Cost,Expert,Tout Risque
+419,Kia,Citadine,2,12619,21053,7,True,False,56,27,2,0.074,2.25,3.0,Medium Cost,Modéré,Tiers Plus
+420,Volvo,Voiture de luxe,2,94983,20760,17,True,False,24,0,0,0.0,3.75,4.0,High Cost,Expert,Tout Risque
+421,Ferrari,SUV,4,271480,95464,15,False,True,28,5,1,0.2,3.5,2.0,High Cost,À risque,Tiers Plus
+422,Porsche,SUV,0,125813,0,20,False,True,26,7,2,0.286,3.9,2.0,High Cost,À risque,Tiers Plus
+423,Kia,Berline compact,3,6436,41051,6,True,False,45,7,0,0.0,2.05,4.0,Medium Cost,Expert,Tout Risque
+424,Chery,Sportive,0,12439,0,7,True,False,71,53,1,0.019,2.55,2.8,Medium Cost,Modéré,Tiers Plus
+425,Land Rover,Berline executive,11,153261,110153,26,True,False,19,1,0,0.0,3.4,3.6,High Cost,Expert,Tout Risque
+426,Volkswagen,Berline compact,13,17631,157098,5,True,False,69,23,1,0.043,1.75,2.8,Low Cost,Modéré,Tiers
+427,Volvo,Break familial,8,29083,204495,11,True,True,18,0,0,0.0,2.55,3.2,Medium Cost,Expert,Tout Risque
+428,Lamborghini,Berline compact,11,132409,97661,23,True,False,44,21,0,0.0,3.3,4.0,High Cost,Expert,Tout Risque
+429,Dacia,Berline executive,10,6520,108873,10,False,False,49,20,0,0.0,1.6,4.0,Low Cost,Expert,Tiers Plus
+430,Lamborghini,Berline compact,6,166956,121293,15,True,True,29,10,1,0.1,3.5,2.8,High Cost,Modéré,Tout Risque
+431,Volkswagen,Voiture de luxe,12,23980,257237,9,False,False,40,7,0,0.0,1.7,4.0,Low Cost,Expert,Tiers Plus
+432,Ferrari,Voiture de luxe,10,74604,176349,16,True,True,51,33,0,0.0,3.35,3.4,High Cost,Expert,Tout Risque
+433,Ford,Voiture populaire,14,14256,132755,8,False,False,26,6,1,0.167,1.5,2.4,Low Cost,Modéré,Tiers
+434,Land Rover,Berline executive,3,205883,61601,26,True,True,43,11,1,0.091,3.9,2.8,High Cost,Modéré,Tout Risque
+435,Ferrari,Berline compact,8,73243,171751,21,False,True,36,10,2,0.2,2.85,2.0,Medium Cost,À risque,Tiers
+436,Kia,Berline compact,7,10041,151420,6,False,True,18,0,0,0.0,1.35,3.2,Low Cost,Expert,Tiers Plus
+437,Chery,Berline executive,3,8056,38726,7,True,False,63,25,0,0.0,2.15,3.8,Medium Cost,Expert,Tout Risque
+438,Volvo,SUV,4,109053,43493,15,True,False,44,1,0,0.0,3.35,4.0,High Cost,Expert,Tout Risque
+439,Renault,SUV,12,15618,268108,9,True,False,30,2,0,0.0,1.9,4.0,Low Cost,Expert,Tiers Plus
+440,Porsche,Voiture populaire,12,25198,237312,24,True,True,50,16,3,0.188,2.6,2.0,Medium Cost,À risque,Tiers
+441,Chery,Berline executive,12,3610,243921,9,True,True,21,2,0,0.0,1.6,3.2,Low Cost,Expert,Tiers Plus
+442,Hyundai,Citadine,7,6809,157784,4,False,True,29,10,0,0.0,1.2,3.6,Low Cost,Expert,Tiers Plus
+443,Ferrari,Voiture de luxe,1,588995,10365,20,True,False,21,3,1,0.333,4.3,1.2,High Cost,À risque,Tiers Plus
+444,Jaguar,SUV,10,158782,129247,24,False,False,51,7,0,0.0,3.3,3.8,High Cost,Expert,Tout Risque
+445,Peugeot,Voiture de luxe,7,30504,97562,9,False,False,37,17,1,0.059,2.25,3.2,Medium Cost,Expert,Tout Risque
+446,Hyundai,Citadine,5,7408,84271,6,True,False,45,9,1,0.111,1.85,2.4,Low Cost,Modéré,Tiers
+447,Audi,Sportive,4,89698,66659,14,False,True,65,26,0,0.0,3.15,3.4,High Cost,Expert,Tout Risque
+448,Ford,Berline compact,10,5405,81966,9,False,False,53,8,0,0.0,1.8,3.8,Low Cost,Expert,Tiers Plus
+449,Bentley,Berline executive,6,67475,150206,16,False,True,46,6,0,0.0,2.95,3.6,Medium Cost,Expert,Tout Risque
+450,Ferrari,Berline executive,3,232195,19228,16,True,False,43,13,1,0.077,4.0,3.2,High Cost,Expert,Tout Risque
+451,Peugeot,Sportive,12,20604,130968,10,True,False,67,0,0,0.0,2.1,3.6,Medium Cost,Expert,Tout Risque
+452,BMW,Break familial,12,27160,308309,14,True,True,28,8,0,0.0,2.4,3.6,Medium Cost,Expert,Tout Risque
+453,Fiat,SUV,9,11108,124701,9,False,False,22,2,0,0.0,1.6,4.0,Low Cost,Expert,Tiers Plus
+454,Peugeot,Berline compact,4,16640,60845,7,False,False,24,6,2,0.333,2.05,1.6,Medium Cost,À risque,Tiers
+455,Renault,Berline compact,9,16512,144967,8,False,False,37,14,1,0.071,1.8,3.2,Low Cost,Expert,Tiers Plus
+456,Mercedes,SUV,12,36095,253122,12,False,True,63,27,1,0.037,2.15,2.6,Medium Cost,Modéré,Tiers Plus
+457,Hyundai,Voiture de luxe,10,7963,148280,7,False,True,64,23,2,0.087,1.65,2.6,Low Cost,Modéré,Tiers
+458,Renault,Berline executive,14,19323,251808,8,True,True,59,3,0,0.0,1.9,3.4,Low Cost,Expert,Tiers Plus
+459,Volkswagen,Sportive,8,31145,73497,12,False,False,48,29,1,0.034,2.35,3.2,Medium Cost,Expert,Tout Risque
+460,Lexus,Citadine,8,21726,60797,13,True,False,74,9,0,0.0,2.45,3.6,Medium Cost,Expert,Tout Risque
+461,Chevrolet,SUV,6,5377,58458,9,False,False,21,3,0,0.0,1.7,3.6,Low Cost,Expert,Tiers Plus
+462,Toyota,Citadine,2,36703,43913,5,False,True,40,17,2,0.118,2.4,2.0,Medium Cost,À risque,Tiers
+463,Infiniti,Break familial,4,38271,72004,13,False,False,65,46,2,0.043,2.7,3.0,Medium Cost,Modéré,Tiers Plus
+464,Hyundai,Voiture de luxe,6,12356,70872,9,False,False,72,30,1,0.033,1.8,2.8,Low Cost,Modéré,Tiers
+465,Porsche,Voiture populaire,10,43583,172282,20,True,True,49,9,0,0.0,2.8,3.6,Medium Cost,Expert,Tout Risque
+466,Nissan,Berline executive,0,63745,0,9,False,False,55,0,0,0.0,3.0,3.8,High Cost,Expert,Tout Risque
+467,Ferrari,Berline compact,2,123689,29460,19,True,False,32,6,0,0.0,4.1,4.0,High Cost,Expert,Tout Risque
+468,Volvo,Citadine,0,86028,0,9,True,True,74,16,0,0.0,3.4,3.2,High Cost,Expert,Tout Risque
+469,Chevrolet,Berline executive,8,12326,72230,8,False,False,66,11,1,0.091,1.7,2.8,Low Cost,Modéré,Tiers
+470,Chevrolet,Berline compact,12,5677,209180,5,False,False,53,31,0,0.0,1.15,3.8,Low Cost,Expert,Tiers Plus
+471,Chery,Voiture de luxe,3,8208,25408,10,False,False,50,13,2,0.154,2.1,2.4,Medium Cost,Modéré,Tiers Plus
+472,Volvo,Sportive,6,70738,69731,13,False,False,66,39,0,0.0,2.95,3.6,Medium Cost,Expert,Tout Risque
+473,Dacia,Berline executive,0,25215,0,10,False,True,29,10,1,0.1,2.45,2.8,Medium Cost,Modéré,Tiers Plus
+474,Audi,SUV,8,54307,67841,17,True,False,68,36,0,0.0,2.9,3.6,Medium Cost,Expert,Tout Risque
+475,Citroën,Break familial,13,13877,193207,7,True,False,69,15,0,0.0,1.75,3.6,Low Cost,Expert,Tiers Plus
+476,Chery,Voiture de luxe,0,17119,0,11,True,True,29,0,1,1.0,2.6,1.2,Medium Cost,À risque,Tiers
+477,Fiat,Voiture populaire,4,4686,91169,7,True,True,50,18,1,0.056,1.85,2.8,Low Cost,Modéré,Tiers
+478,BMW,Berline executive,10,47666,146790,18,False,True,30,3,1,0.333,2.5,1.2,Medium Cost,À risque,Tiers
+479,Audi,Break familial,14,29729,149892,13,False,False,37,17,2,0.118,2.2,2.4,Medium Cost,Modéré,Tiers Plus
+480,Bentley,Citadine,8,70571,206115,21,True,True,27,0,0,0.0,3.05,3.6,High Cost,Expert,Tout Risque
+481,Lexus,Berline executive,9,39750,77443,15,False,False,58,26,1,0.038,2.6,3.0,Medium Cost,Modéré,Tiers Plus
+482,Ford,Berline compact,6,26679,52566,5,False,False,19,1,0,0.0,2.1,3.6,Medium Cost,Expert,Tout Risque
+483,Lexus,Berline executive,5,37988,93925,18,False,False,55,19,0,0.0,2.7,3.8,Medium Cost,Expert,Tout Risque
+484,Renault,Break familial,5,28309,72906,7,False,False,47,20,0,0.0,2.3,4.0,Medium Cost,Expert,Tout Risque
+485,Peugeot,SUV,2,39301,36958,10,False,True,49,15,1,0.067,2.65,2.8,Medium Cost,Modéré,Tiers Plus
+486,Maserati,Sportive,10,57262,113386,26,False,False,42,9,1,0.111,2.9,2.4,Medium Cost,Modéré,Tiers Plus
+487,Toyota,SUV,10,19342,228384,13,False,True,53,33,0,0.0,1.85,3.4,Low Cost,Expert,Tiers Plus
+488,Infiniti,Voiture de luxe,12,29370,102823,15,False,False,53,18,3,0.167,2.4,2.2,Medium Cost,À risque,Tiers
+489,Ferrari,Berline compact,3,270702,68126,21,False,True,23,5,0,0.0,3.5,3.6,High Cost,Expert,Tout Risque
+490,Volkswagen,Voiture populaire,1,36977,13827,8,False,False,42,14,0,0.0,2.55,4.0,Medium Cost,Expert,Tout Risque
+491,Jaguar,SUV,12,164506,241832,25,False,True,45,16,1,0.062,3.0,2.8,High Cost,Modéré,Tout Risque
+492,Renault,SUV,8,9729,135234,10,False,True,66,22,0,0.0,1.9,3.2,Low Cost,Expert,Tiers Plus
+493,Kia,Break familial,3,9431,42494,3,True,True,22,2,0,0.0,2.0,3.6,Low Cost,Expert,Tiers Plus
+494,Land Rover,Break familial,7,155664,127808,13,True,True,50,10,0,0.0,3.5,3.6,High Cost,Expert,Tout Risque
+495,Kia,Voiture de luxe,13,6103,273937,9,False,False,73,45,0,0.0,1.4,3.6,Low Cost,Expert,Tiers Plus
+496,Kia,Berline compact,5,11922,114572,5,True,True,68,45,0,0.0,1.95,3.2,Low Cost,Expert,Tiers Plus
+497,Audi,Sportive,8,39012,131796,12,False,True,45,0,1,1.0,2.55,1.2,Medium Cost,À risque,Tiers
+498,Ferrari,SUV,8,177997,78318,15,False,False,55,35,1,0.029,3.4,3.0,High Cost,Modéré,Tout Risque
+499,Jaguar,Citadine,10,56228,252353,23,True,True,39,10,0,0.0,2.8,3.6,Medium Cost,Expert,Tout Risque
+500,Lexus,Citadine,12,20360,132334,12,True,False,41,3,0,0.0,2.1,4.0,Medium Cost,Expert,Tout Risque
+501,Chery,Citadine,0,13325,0,4,False,False,55,37,0,0.0,1.9,3.8,Low Cost,Expert,Tiers Plus
+502,Chery,SUV,12,9293,178150,6,True,True,20,0,1,1.0,1.55,0.8,Low Cost,À risque,Tiers
+503,Volkswagen,Voiture populaire,2,38942,15905,8,False,False,44,23,1,0.043,2.55,3.2,Medium Cost,Expert,Tout Risque
+504,BMW,Sportive,8,62155,84431,13,True,False,63,31,2,0.065,3.15,3.0,High Cost,Modéré,Tout Risque
+505,Citroën,Break familial,4,20547,41133,6,True,False,33,0,0,0.0,2.35,4.0,Medium Cost,Expert,Tout Risque
+506,Chery,Sportive,12,8417,224553,7,False,True,39,8,1,0.125,1.35,2.0,Low Cost,À risque,Tiers
+507,Dacia,Berline executive,9,6755,221512,10,False,True,47,24,0,0.0,1.5,3.6,Low Cost,Expert,Tiers Plus
+508,Chery,Voiture de luxe,8,8606,84833,10,False,False,65,22,0,0.0,1.7,3.8,Low Cost,Expert,Tiers Plus
+509,Hyundai,Voiture de luxe,6,18775,84143,6,True,True,35,0,0,0.0,1.95,3.6,Low Cost,Expert,Tiers Plus
+510,Chevrolet,Sportive,13,5663,207856,8,False,True,27,2,0,0.0,1.4,3.6,Low Cost,Expert,Tiers Plus
+511,Dacia,SUV,8,4952,132341,8,False,True,64,18,0,0.0,1.6,3.4,Low Cost,Expert,Tiers Plus
+512,BMW,SUV,13,30220,244746,14,False,False,50,18,1,0.056,2.2,3.2,Medium Cost,Expert,Tout Risque
+513,Infiniti,Citadine,7,25488,84437,9,False,False,30,5,0,0.0,2.25,4.0,Medium Cost,Expert,Tout Risque
+514,Maserati,Break familial,12,102235,244680,24,True,True,70,28,0,0.0,2.95,3.2,Medium Cost,Expert,Tout Risque
+515,BMW,SUV,7,67550,86036,15,True,False,24,1,0,0.0,3.05,4.0,High Cost,Expert,Tout Risque
+516,Land Rover,SUV,4,276235,67272,24,True,False,20,2,1,0.5,3.9,1.2,High Cost,À risque,Tiers Plus
+517,Toyota,Break familial,10,17301,222635,8,True,True,71,27,1,0.037,2.0,2.4,Low Cost,Modéré,Tiers
+518,Mercedes,Berline compact,7,39009,136613,8,False,False,68,40,1,0.025,2.35,2.8,Medium Cost,Modéré,Tiers Plus
+519,Audi,Sportive,12,53919,194415,11,True,True,20,2,0,0.0,2.55,3.2,Medium Cost,Expert,Tout Risque
+520,Land Rover,Voiture populaire,13,26625,133498,13,False,False,39,5,0,0.0,2.4,4.0,Medium Cost,Expert,Tout Risque
+521,Hyundai,Voiture populaire,8,5728,183335,6,True,True,66,44,0,0.0,1.55,3.2,Low Cost,Expert,Tiers Plus
+522,Infiniti,Berline compact,12,28594,184775,12,True,False,46,2,0,0.0,2.35,4.0,Medium Cost,Expert,Tout Risque
+523,Volvo,Sportive,5,67826,113754,14,True,True,69,10,1,0.1,3.35,2.4,High Cost,Modéré,Tout Risque
+524,Maserati,Sportive,10,170402,160397,16,True,False,26,1,0,0.0,3.6,4.0,High Cost,Expert,Tout Risque
+525,Lamborghini,Citadine,14,85387,204174,15,False,True,54,31,1,0.032,2.55,2.6,Medium Cost,Modéré,Tiers Plus
+526,Volvo,Voiture de luxe,0,115260,0,12,False,True,45,8,0,0.0,3.4,3.6,High Cost,Expert,Tout Risque
+527,Lexus,Sportive,5,86222,114998,12,False,True,38,3,1,0.333,3.0,1.2,Medium Cost,À risque,Tiers
+528,Nissan,SUV,4,30479,86354,9,True,True,28,5,0,0.0,2.65,3.6,Medium Cost,Expert,Tout Risque
+529,Infiniti,Voiture populaire,7,41934,65875,10,True,False,47,11,1,0.091,2.65,3.2,Medium Cost,Expert,Tout Risque
+530,Toyota,Voiture populaire,10,10339,162550,5,True,True,67,11,0,0.0,1.85,3.2,Low Cost,Expert,Tiers Plus
+531,Mercedes,Citadine,6,43401,103135,13,False,False,64,2,1,0.5,2.3,1.4,Medium Cost,À risque,Tiers
+532,Chery,Berline compact,13,5536,135552,6,False,False,63,12,1,0.083,1.25,3.0,Low Cost,Modéré,Tiers
+533,Nissan,Sportive,6,46755,70085,12,False,False,41,19,1,0.053,2.35,3.2,Medium Cost,Expert,Tout Risque
+534,Hyundai,Berline compact,3,9483,55260,6,False,True,54,21,0,0.0,1.75,3.4,Low Cost,Expert,Tiers Plus
+535,Chery,Voiture de luxe,4,22988,98646,10,True,True,23,0,1,1.0,2.2,1.2,Medium Cost,À risque,Tiers
+536,Dacia,Citadine,10,6360,150047,7,False,False,19,1,0,0.0,1.25,3.6,Low Cost,Expert,Tiers Plus
+537,Land Rover,Voiture de luxe,5,389654,112410,21,False,True,60,30,2,0.067,3.6,2.6,High Cost,Modéré,Tout Risque
+538,Peugeot,Sportive,12,12509,291555,13,False,True,32,12,0,0.0,1.75,3.6,Low Cost,Expert,Tiers Plus
+539,Citroën,Break familial,2,47218,28538,7,True,True,71,10,0,0.0,2.9,3.2,Medium Cost,Expert,Tout Risque
+540,Lamborghini,Voiture de luxe,11,41243,240373,17,True,True,31,7,1,0.143,2.9,2.0,Medium Cost,À risque,Tiers
+541,Renault,Voiture populaire,3,10782,43401,7,True,True,20,0,1,1.0,2.25,0.8,Medium Cost,À risque,Tiers
+542,BMW,Citadine,9,31304,168184,11,True,True,36,10,1,0.1,2.45,2.8,Medium Cost,Modéré,Tiers Plus
+543,Nissan,Sportive,12,24734,224049,12,True,True,28,1,0,0.0,2.0,3.6,Low Cost,Expert,Tiers Plus
+544,Ferrari,Citadine,4,234404,56266,16,True,False,21,1,1,1.0,3.7,1.2,High Cost,À risque,Tiers Plus
+545,Peugeot,Berline executive,3,51532,75837,11,False,True,44,22,2,0.091,2.45,2.8,Medium Cost,Modéré,Tiers Plus
+546,Volkswagen,Berline compact,7,8996,97585,9,True,False,42,8,0,0.0,2.1,4.0,Medium Cost,Expert,Tout Risque
+547,Volkswagen,SUV,5,19118,79372,10,True,True,29,5,0,0.0,2.5,3.6,Medium Cost,Expert,Tout Risque
+548,Jaguar,Voiture de luxe,14,160540,272089,16,False,True,72,42,0,0.0,3.1,3.2,High Cost,Expert,Tout Risque
+549,Toyota,Voiture de luxe,7,22933,143225,10,False,False,30,1,0,0.0,2.0,4.0,Low Cost,Expert,Tiers Plus
+550,Audi,Berline compact,5,59013,53889,10,False,False,57,21,1,0.048,2.65,3.0,Medium Cost,Modéré,Tiers Plus
+551,Chery,Sportive,12,12417,228960,7,True,True,60,6,0,0.0,1.65,3.4,Low Cost,Expert,Tiers Plus
+552,Volkswagen,Berline compact,10,15355,246331,7,False,True,41,8,2,0.25,1.65,2.0,Low Cost,À risque,Tiers
+553,Lexus,Voiture de luxe,3,108980,49784,12,False,True,74,7,2,0.286,3.1,1.6,High Cost,À risque,Tiers Plus
+554,Nissan,Break familial,4,22873,58994,8,False,True,70,11,2,0.182,2.1,1.6,Medium Cost,À risque,Tiers
+555,Ford,Voiture populaire,9,12488,117478,7,False,False,24,3,0,0.0,1.65,4.0,Low Cost,Expert,Tiers Plus
+556,Hyundai,Break familial,10,2705,109287,4,True,False,32,4,0,0.0,1.7,4.0,Low Cost,Expert,Tiers Plus
+557,Nissan,Citadine,4,16145,92446,8,True,True,57,10,0,0.0,2.2,3.4,Medium Cost,Expert,Tout Risque
+558,Lamborghini,Break familial,7,60141,116455,19,False,True,56,27,0,0.0,2.95,3.4,Medium Cost,Expert,Tout Risque
+559,Ford,SUV,12,9406,211556,10,True,True,21,2,0,0.0,1.9,3.2,Low Cost,Expert,Tiers Plus
+560,Renault,Voiture populaire,5,25815,121879,6,False,True,28,4,0,0.0,2.1,3.6,Medium Cost,Expert,Tout Risque
+561,Maserati,Break familial,9,94391,180594,19,False,True,65,22,0,0.0,2.85,3.4,Medium Cost,Expert,Tout Risque
+562,Lexus,Berline executive,6,44725,100355,17,False,False,51,8,0,0.0,2.5,3.8,Medium Cost,Expert,Tout Risque
+563,BMW,Berline executive,8,27690,120973,12,False,False,32,14,0,0.0,2.45,4.0,Medium Cost,Expert,Tout Risque
+564,Toyota,Sportive,12,11605,310480,8,False,True,35,12,1,0.083,1.7,2.8,Low Cost,Modéré,Tiers
+565,Lamborghini,Sportive,14,141660,290009,21,False,True,74,34,1,0.029,3.1,2.4,High Cost,Modéré,Tout Risque
+566,Toyota,Berline executive,6,26136,134294,9,False,True,57,12,2,0.167,2.15,1.8,Medium Cost,À risque,Tiers
+567,Infiniti,Break familial,0,111261,0,10,True,True,43,13,1,0.077,3.5,2.8,High Cost,Modéré,Tout Risque
+568,Citroën,Voiture de luxe,3,52446,76928,7,False,True,55,37,2,0.054,2.5,2.6,Medium Cost,Modéré,Tiers Plus
+569,Renault,Berline executive,4,45841,35863,12,True,False,39,5,2,0.4,2.75,1.6,Medium Cost,À risque,Tiers
+570,Infiniti,Break familial,7,56980,96032,10,False,False,29,0,0,0.0,2.35,4.0,Medium Cost,Expert,Tout Risque
+571,Citroën,Sportive,12,12099,154180,9,False,False,38,19,0,0.0,1.7,4.0,Low Cost,Expert,Tiers Plus
+572,Chery,Berline executive,5,15977,115100,11,True,True,66,19,0,0.0,2.1,3.2,Medium Cost,Expert,Tout Risque
+573,Bentley,Sportive,0,312634,0,14,True,True,34,7,2,0.286,4.3,2.0,High Cost,À risque,Tiers Plus
+574,Volvo,Citadine,12,15501,304031,10,True,True,30,6,0,0.0,2.0,3.6,Low Cost,Expert,Tiers Plus
+575,Ferrari,Citadine,11,61930,254395,18,False,True,35,16,1,0.062,2.55,2.8,Medium Cost,Modéré,Tiers Plus
+576,Jaguar,Break familial,12,103477,278800,24,True,True,35,12,1,0.083,2.95,2.8,Medium Cost,Modéré,Tiers Plus
+577,Dacia,Break familial,13,6644,118075,5,False,False,26,3,0,0.0,1.25,4.0,Low Cost,Expert,Tiers Plus
+578,Fiat,Sportive,14,8923,216731,9,False,True,69,8,1,0.125,1.4,1.6,Low Cost,À risque,Tiers
+579,Dacia,Voiture de luxe,0,17964,0,8,True,True,49,14,0,0.0,2.6,3.6,Medium Cost,Expert,Tout Risque
+580,Volvo,SUV,12,22225,184069,12,False,True,18,0,0,0.0,1.9,3.2,Low Cost,Expert,Tiers Plus
+581,Volvo,Voiture de luxe,9,24393,168346,14,True,True,34,0,0,0.0,2.55,3.6,Medium Cost,Expert,Tout Risque
+582,Kia,Berline compact,12,4478,291335,4,True,True,62,7,1,0.143,1.4,1.8,Low Cost,À risque,Tiers
+583,Porsche,SUV,2,200979,21337,20,False,False,57,18,1,0.056,3.9,3.0,High Cost,Modéré,Tout Risque
+584,Lamborghini,Voiture de luxe,10,135660,156263,20,True,False,54,3,0,0.0,3.6,3.8,High Cost,Expert,Tout Risque
+585,Nissan,Sportive,0,26668,0,8,True,True,49,16,1,0.062,3.15,2.8,High Cost,Modéré,Tout Risque
+586,Volkswagen,Voiture populaire,6,12956,115366,7,True,True,52,27,0,0.0,1.95,3.4,Low Cost,Expert,Tiers Plus
+587,Nissan,Voiture de luxe,1,79452,18357,11,False,False,61,26,0,0.0,3.1,3.8,High Cost,Expert,Tout Risque
+588,Fiat,Citadine,7,6178,147997,7,True,True,51,2,0,0.0,1.65,3.4,Low Cost,Expert,Tiers Plus
+589,Mercedes,Voiture de luxe,13,44753,191375,11,False,True,57,9,0,0.0,2.25,3.4,Medium Cost,Expert,Tout Risque
+590,Volvo,Citadine,7,44399,166662,9,True,True,66,14,0,0.0,2.45,3.2,Medium Cost,Expert,Tout Risque
+591,Maserati,Sportive,8,122130,175698,25,False,True,48,17,2,0.118,3.3,2.0,High Cost,À risque,Tiers Plus
+592,Hyundai,SUV,6,7519,105245,6,True,True,47,2,0,0.0,1.85,3.6,Low Cost,Expert,Tiers Plus
+593,Ford,Citadine,8,6550,194861,8,True,True,50,14,2,0.143,1.9,2.0,Low Cost,À risque,Tiers
+594,Ferrari,Voiture de luxe,13,99858,174286,18,True,False,23,0,0,0.0,3.15,4.0,High Cost,Expert,Tout Risque
+595,Chery,Break familial,11,2931,184683,4,False,False,52,21,1,0.048,1.1,3.0,Low Cost,Modéré,Tiers
+596,Nissan,Berline compact,2,15528,25097,8,True,False,72,10,1,0.1,2.7,2.8,Medium Cost,Modéré,Tiers Plus
+597,Fiat,Voiture populaire,4,9771,60739,7,False,True,73,44,1,0.023,1.65,2.4,Low Cost,Modéré,Tiers
+598,Hyundai,Berline executive,4,19287,36663,7,False,False,45,11,0,0.0,1.85,4.0,Low Cost,Expert,Tiers Plus
+599,Dacia,SUV,9,9934,164354,9,False,False,47,8,0,0.0,1.5,4.0,Low Cost,Expert,Tiers Plus
+600,Peugeot,Berline executive,9,18018,100673,10,False,False,72,21,0,0.0,1.9,3.6,Low Cost,Expert,Tiers Plus
+601,Chery,Voiture de luxe,14,12573,150614,7,True,False,32,0,0,0.0,1.65,4.0,Low Cost,Expert,Tiers Plus
+602,Lamborghini,Break familial,2,123471,36419,19,True,True,34,16,1,0.062,4.0,2.8,High Cost,Modéré,Tout Risque
+603,Citroën,Berline compact,12,10237,180195,5,False,True,62,5,0,0.0,1.45,3.4,Low Cost,Expert,Tiers Plus
+604,Bentley,Voiture de luxe,13,98999,181938,19,False,False,66,30,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+605,Kia,Voiture populaire,2,15561,18091,4,True,False,42,1,0,0.0,2.2,4.0,Medium Cost,Expert,Tout Risque
+606,BMW,Berline executive,4,86331,70966,16,False,True,67,17,0,0.0,3.05,3.2,High Cost,Expert,Tout Risque
+607,Chevrolet,Voiture populaire,8,2807,89803,6,True,False,36,10,0,0.0,1.65,4.0,Low Cost,Expert,Tiers Plus
+608,BMW,Voiture de luxe,2,98630,29843,14,True,True,65,43,2,0.047,3.75,2.6,High Cost,Modéré,Tout Risque
+609,Hyundai,Berline executive,12,6597,184174,6,True,False,53,12,1,0.083,1.55,3.0,Low Cost,Modéré,Tiers
+610,Nissan,Citadine,13,10041,116351,8,False,False,33,11,2,0.182,1.5,2.4,Low Cost,Modéré,Tiers
+611,Nissan,Voiture populaire,3,24426,57090,8,True,True,19,0,0,0.0,2.3,3.2,Medium Cost,Expert,Tout Risque
+612,Land Rover,Voiture de luxe,7,276417,140203,26,True,True,62,1,1,1.0,3.7,1.0,High Cost,À risque,Tiers Plus
+613,Citroën,SUV,7,16593,82128,11,False,False,47,9,0,0.0,1.9,4.0,Low Cost,Expert,Tiers Plus
+614,Chevrolet,Voiture populaire,1,12870,14140,6,True,False,62,22,2,0.091,2.25,3.0,Medium Cost,Modéré,Tiers Plus
+615,Citroën,Voiture de luxe,5,51287,73412,10,False,False,49,9,1,0.111,2.55,2.4,Medium Cost,Modéré,Tiers Plus
+616,Lamborghini,Voiture populaire,7,101398,81554,21,False,False,65,2,1,0.5,2.85,1.4,Medium Cost,À risque,Tiers
+617,Peugeot,Sportive,10,22003,227531,10,True,False,22,2,1,0.5,2.2,1.6,Medium Cost,À risque,Tiers
+618,Kia,Berline compact,3,13863,55761,5,False,True,59,2,1,0.5,1.75,1.0,Low Cost,À risque,Tiers
+619,Nissan,Berline executive,11,22085,178659,9,False,False,40,9,1,0.111,1.6,2.4,Low Cost,Modéré,Tiers
+620,BMW,Berline executive,14,30267,266534,15,False,True,45,1,0,0.0,2.2,3.6,Medium Cost,Expert,Tout Risque
+621,Volkswagen,Berline executive,14,13086,270078,8,True,False,72,40,0,0.0,1.9,3.6,Low Cost,Expert,Tiers Plus
+622,Ford,Berline compact,2,24002,22377,7,False,False,38,20,2,0.1,2.35,3.2,Medium Cost,Expert,Tout Risque
+623,Volkswagen,Sportive,6,27703,47084,8,True,False,71,10,0,0.0,2.65,3.6,Medium Cost,Expert,Tout Risque
+624,Nissan,SUV,2,54590,17110,9,False,False,60,41,1,0.024,2.75,3.0,Medium Cost,Modéré,Tiers Plus
+625,Kia,Break familial,12,2611,249534,4,True,True,44,26,1,0.038,1.4,2.8,Low Cost,Modéré,Tiers
+626,Bentley,Sportive,7,247644,110329,21,True,False,34,16,0,0.0,3.7,4.0,High Cost,Expert,Tout Risque
+627,Lamborghini,SUV,4,175766,26767,18,True,False,29,4,0,0.0,4.0,4.0,High Cost,Expert,Tout Risque
+628,Land Rover,Sportive,13,107968,147485,25,True,False,20,2,0,0.0,3.25,3.6,High Cost,Expert,Tout Risque
+629,Peugeot,SUV,13,19142,145919,11,True,False,69,28,0,0.0,2.0,3.6,Low Cost,Expert,Tiers Plus
+630,Lamborghini,Voiture de luxe,5,336135,54153,15,True,False,47,12,0,0.0,4.0,4.0,High Cost,Expert,Tout Risque
+631,Porsche,Sportive,1,280969,10777,27,False,False,64,35,0,0.0,4.0,3.8,High Cost,Expert,Tout Risque
+632,Lexus,Citadine,2,80856,37871,13,False,True,32,8,0,0.0,3.05,3.6,High Cost,Expert,Tout Risque
+633,Kia,Break familial,3,8358,45801,7,False,True,28,4,0,0.0,1.75,3.6,Low Cost,Expert,Tiers Plus
+634,Jaguar,Citadine,3,147795,24048,21,False,False,48,6,0,0.0,3.5,4.0,High Cost,Expert,Tout Risque
+635,Lamborghini,Voiture de luxe,9,118104,211732,16,True,True,48,18,3,0.167,3.35,2.0,High Cost,À risque,Tiers Plus
+636,Kia,SUV,1,25003,19212,7,True,True,41,16,1,0.062,2.7,2.8,Medium Cost,Modéré,Tiers Plus
+637,BMW,Berline executive,13,34854,102538,12,False,False,21,2,0,0.0,2.25,3.6,Medium Cost,Expert,Tout Risque
+638,Ferrari,Berline compact,1,377539,17043,12,False,True,45,0,0,0.0,3.75,3.6,High Cost,Expert,Tout Risque
+639,Mercedes,Voiture populaire,4,28695,53336,11,False,False,43,10,2,0.2,2.55,2.4,Medium Cost,Modéré,Tiers Plus
+640,Hyundai,Voiture populaire,10,5515,137763,5,True,False,66,1,0,0.0,1.65,3.6,Low Cost,Expert,Tiers Plus
+641,Volkswagen,Berline executive,1,27495,20904,11,False,True,49,28,0,0.0,2.75,3.6,Medium Cost,Expert,Tout Risque
+642,Volvo,Sportive,9,28029,99993,11,False,False,54,15,0,0.0,2.55,3.8,Medium Cost,Expert,Tout Risque
+643,Kia,Sportive,8,6062,95931,6,False,False,42,1,0,0.0,1.65,4.0,Low Cost,Expert,Tiers Plus
+644,Hyundai,SUV,8,4040,156672,6,True,True,51,19,0,0.0,1.75,3.4,Low Cost,Expert,Tiers Plus
+645,Dacia,Berline executive,1,16182,19116,9,True,True,48,24,3,0.125,2.5,2.0,Medium Cost,À risque,Tiers
+646,Bentley,Break familial,12,89303,284060,16,True,True,56,23,0,0.0,2.95,3.4,Medium Cost,Expert,Tout Risque
+647,Ford,Voiture de luxe,13,23404,196020,9,False,True,29,5,0,0.0,1.7,3.6,Low Cost,Expert,Tiers Plus
+648,Lamborghini,Voiture de luxe,3,408940,77692,20,True,True,53,24,0,0.0,4.0,3.4,High Cost,Expert,Tout Risque
+649,Jaguar,Voiture de luxe,12,85148,265867,16,False,True,49,12,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+650,Bentley,Break familial,10,91093,154408,14,False,False,48,13,1,0.077,2.85,3.2,Medium Cost,Expert,Tout Risque
+651,Nissan,Citadine,0,25995,0,9,True,True,49,14,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+652,Citroën,Voiture populaire,8,13227,156224,8,True,True,62,26,0,0.0,1.9,3.4,Low Cost,Expert,Tiers Plus
+653,Toyota,Berline executive,7,10009,66980,9,True,False,52,16,1,0.062,2.3,3.0,Medium Cost,Modéré,Tiers Plus
+654,Kia,SUV,13,9978,108231,11,False,False,22,0,0,0.0,1.4,4.0,Low Cost,Expert,Tiers Plus
+655,Porsche,Voiture de luxe,14,133713,288210,20,False,True,44,24,0,0.0,3.1,3.6,High Cost,Expert,Tout Risque
+656,Toyota,Berline executive,0,76303,0,11,False,True,41,10,0,0.0,3.0,3.6,High Cost,Expert,Tout Risque
+657,Land Rover,SUV,9,94223,133107,18,True,True,70,46,0,0.0,3.35,3.2,High Cost,Expert,Tout Risque
+658,Ford,Voiture populaire,1,35247,16334,9,True,False,50,2,0,0.0,2.85,4.0,Medium Cost,Expert,Tout Risque
+659,Kia,Berline compact,4,14358,83767,6,False,True,37,8,1,0.125,1.65,2.0,Low Cost,À risque,Tiers
+660,Volvo,Voiture de luxe,2,122213,39999,17,False,True,30,12,0,0.0,3.6,3.6,High Cost,Expert,Tout Risque
+661,Infiniti,Voiture de luxe,5,101127,88451,16,False,True,60,18,0,0.0,3.05,3.4,High Cost,Expert,Tout Risque
+662,Mercedes,Berline compact,7,31603,94412,9,True,False,30,11,1,0.091,2.65,3.2,Medium Cost,Expert,Tout Risque
+663,Volkswagen,Berline compact,7,17308,45791,8,True,False,72,13,0,0.0,2.2,3.6,Medium Cost,Expert,Tout Risque
+664,BMW,Citadine,9,21487,214567,13,False,True,36,5,0,0.0,1.95,3.6,Low Cost,Expert,Tiers Plus
+665,Mercedes,Berline compact,5,70735,57562,10,True,False,69,46,0,0.0,3.2,3.6,High Cost,Expert,Tout Risque
+666,Lexus,Sportive,10,49547,221653,14,False,False,29,10,2,0.2,2.5,2.4,Medium Cost,Modéré,Tiers Plus
+667,Audi,Sportive,4,111961,57004,10,False,True,71,53,0,0.0,3.1,3.2,High Cost,Expert,Tout Risque
+668,Hyundai,Citadine,5,8035,89856,4,True,False,71,40,0,0.0,1.8,3.6,Low Cost,Expert,Tiers Plus
+669,Fiat,SUV,6,17174,70287,6,True,False,46,18,0,0.0,1.95,4.0,Low Cost,Expert,Tiers Plus
+670,Chery,Sportive,13,4239,207259,8,False,True,63,29,2,0.069,1.4,2.6,Low Cost,Modéré,Tiers
+671,Infiniti,Voiture populaire,12,10503,135071,10,False,False,64,37,0,0.0,1.8,3.8,Low Cost,Expert,Tiers Plus
+672,Lexus,Citadine,8,16010,202288,13,False,True,66,40,0,0.0,1.95,3.2,Low Cost,Expert,Tiers Plus
+673,Audi,Voiture populaire,8,34477,117644,13,True,False,50,0,0,0.0,2.6,4.0,Medium Cost,Expert,Tout Risque
+674,Fiat,Sportive,11,3736,120783,8,False,False,18,0,0,0.0,1.5,3.6,Low Cost,Expert,Tiers Plus
+675,Hyundai,Sportive,1,17778,24462,7,True,True,53,26,1,0.038,2.55,2.6,Medium Cost,Modéré,Tiers Plus
+676,Renault,Berline executive,8,10760,150046,10,False,True,64,30,1,0.033,1.8,2.6,Low Cost,Modéré,Tiers
+677,Porsche,Berline compact,0,259169,0,21,True,True,58,3,0,0.0,4.1,3.4,High Cost,Expert,Tout Risque
+678,Lamborghini,Citadine,5,173622,68825,15,False,False,70,6,1,0.167,3.4,2.0,High Cost,À risque,Tiers Plus
+679,Porsche,Berline compact,14,69566,300785,24,False,False,61,7,1,0.143,2.65,2.2,Medium Cost,À risque,Tiers
+680,Volkswagen,SUV,2,49537,40390,12,True,True,50,9,1,0.111,2.95,2.0,Medium Cost,À risque,Tiers
+681,Ferrari,Voiture de luxe,5,82027,64169,19,True,False,46,0,0,0.0,3.75,4.0,High Cost,Expert,Tout Risque
+682,Jaguar,Berline compact,4,67102,77113,15,True,True,61,17,1,0.059,3.55,2.6,High Cost,Modéré,Tout Risque
+683,Chevrolet,Berline executive,10,10083,144983,6,True,False,48,25,0,0.0,1.85,4.0,Low Cost,Expert,Tiers Plus
+684,Mercedes,Berline compact,10,15338,126566,12,False,False,19,1,1,1.0,2.1,1.2,Medium Cost,À risque,Tiers
+685,Nissan,Sportive,9,15875,210715,7,True,True,33,14,1,0.071,2.15,2.8,Medium Cost,Modéré,Tiers Plus
+686,Nissan,SUV,11,6946,94713,7,False,False,39,4,1,0.25,1.65,2.4,Low Cost,Modéré,Tiers
+687,Mercedes,Berline executive,9,34418,156603,13,True,True,32,6,0,0.0,2.7,3.6,Medium Cost,Expert,Tout Risque
+688,Bentley,Sportive,14,99326,220017,23,False,True,23,3,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+689,Lamborghini,Voiture de luxe,12,69289,258685,23,True,False,64,3,0,0.0,3.15,3.8,High Cost,Expert,Tout Risque
+690,Renault,Sportive,2,69780,18195,13,False,False,31,12,0,0.0,3.15,4.0,High Cost,Expert,Tout Risque
+691,Volkswagen,Berline executive,6,26920,39140,8,True,False,54,0,0,0.0,2.55,3.8,Medium Cost,Expert,Tout Risque
+692,Lamborghini,Berline executive,13,156674,252867,14,True,True,42,16,1,0.062,3.3,2.8,High Cost,Modéré,Tout Risque
+693,Kia,Sportive,13,3742,262895,5,True,True,23,4,2,0.5,1.65,1.2,Low Cost,À risque,Tiers
+694,Chery,Sportive,1,18800,25136,8,False,True,74,27,1,0.037,2.3,2.4,Medium Cost,Modéré,Tiers Plus
+695,Audi,Break familial,10,29149,148486,11,True,False,21,1,1,1.0,2.65,1.2,Medium Cost,À risque,Tiers
+696,Chery,SUV,2,11620,36413,9,True,False,37,17,1,0.059,2.4,3.2,Medium Cost,Expert,Tout Risque
+697,Citroën,Voiture populaire,1,28177,21052,9,False,True,29,1,0,0.0,2.55,3.6,Medium Cost,Expert,Tout Risque
+698,Fiat,Voiture de luxe,6,9800,140334,9,False,True,63,13,2,0.154,1.7,1.8,Low Cost,À risque,Tiers
+699,Audi,Voiture populaire,11,19103,218662,8,True,True,72,21,0,0.0,2.0,3.2,Low Cost,Expert,Tiers Plus
+700,Renault,Sportive,5,26233,81686,12,True,True,50,18,1,0.056,2.75,2.8,Medium Cost,Modéré,Tiers Plus
+701,Infiniti,Break familial,3,99672,73191,8,False,True,52,33,1,0.03,2.9,2.6,Medium Cost,Modéré,Tiers Plus
+702,Dacia,Berline executive,7,4645,88892,9,True,False,45,15,1,0.067,1.9,3.2,Low Cost,Expert,Tiers Plus
+703,Maserati,Berline compact,12,105858,187153,23,False,True,39,20,0,0.0,2.65,3.6,Medium Cost,Expert,Tout Risque
+704,Peugeot,Voiture de luxe,4,33390,103593,8,True,True,40,10,1,0.1,2.75,2.8,Medium Cost,Modéré,Tiers Plus
+705,Kia,Berline executive,13,6843,205664,5,False,False,40,12,0,0.0,1.25,4.0,Low Cost,Expert,Tiers Plus
+706,Chevrolet,Voiture de luxe,7,11881,160350,8,True,True,65,19,1,0.053,1.9,2.6,Low Cost,Modéré,Tiers
+707,Hyundai,Citadine,10,5847,155540,7,True,False,65,44,0,0.0,1.55,3.8,Low Cost,Expert,Tiers Plus
+708,Toyota,Break familial,6,23383,83608,8,True,False,58,1,0,0.0,2.1,3.8,Medium Cost,Expert,Tout Risque
+709,Porsche,Sportive,1,235649,18986,24,True,True,23,4,0,0.0,4.3,3.6,High Cost,Expert,Tout Risque
+710,Kia,Berline compact,1,7985,14012,5,True,False,36,17,1,0.059,2.35,3.2,Medium Cost,Expert,Tout Risque
+711,Toyota,Voiture de luxe,3,64050,56665,13,False,True,53,24,0,0.0,2.85,3.4,Medium Cost,Expert,Tout Risque
+712,Peugeot,SUV,11,11815,170063,8,True,True,46,18,2,0.111,1.9,2.0,Low Cost,À risque,Tiers
+713,Lexus,SUV,8,26959,154716,11,True,False,51,15,0,0.0,2.65,3.8,Medium Cost,Expert,Tout Risque
+714,Renault,Break familial,6,23119,68354,9,False,False,23,0,0,0.0,1.9,4.0,Low Cost,Expert,Tiers Plus
+715,Jaguar,Citadine,6,67557,106335,20,True,False,41,19,0,0.0,3.15,4.0,High Cost,Expert,Tout Risque
+716,Nissan,Voiture populaire,14,7442,124152,5,True,False,43,3,0,0.0,1.75,4.0,Low Cost,Expert,Tiers Plus
+717,Jaguar,Voiture populaire,14,76655,164468,18,True,False,32,1,1,1.0,2.85,1.6,Medium Cost,À risque,Tiers
+718,Ford,Berline compact,12,8213,269771,6,False,False,58,7,1,0.143,1.45,2.2,Low Cost,À risque,Tiers
+719,Toyota,Berline compact,14,7258,234821,5,False,True,28,2,1,0.5,1.45,1.2,Low Cost,À risque,Tiers
+720,Dacia,Voiture populaire,9,3701,149325,6,True,False,73,8,1,0.125,1.65,2.0,Low Cost,À risque,Tiers
+721,Renault,Citadine,1,42972,18639,9,True,False,31,9,1,0.111,2.85,2.4,Medium Cost,Modéré,Tiers Plus
+722,Volvo,SUV,6,36077,45159,15,False,False,19,0,0,0.0,2.6,3.6,Medium Cost,Expert,Tout Risque
+723,Maserati,Voiture de luxe,6,166826,129505,21,True,True,52,17,0,0.0,3.7,3.4,High Cost,Expert,Tout Risque
+724,Citroën,Voiture populaire,3,21234,68827,7,False,True,36,14,2,0.143,1.95,2.0,Low Cost,À risque,Tiers
+725,Volvo,Break familial,7,55321,133905,11,True,False,72,13,0,0.0,2.65,3.6,Medium Cost,Expert,Tout Risque
+726,Nissan,Voiture populaire,5,9711,51560,5,False,False,64,39,2,0.051,1.95,3.0,Low Cost,Modéré,Tiers
+727,Bentley,Break familial,1,243646,17803,15,True,True,34,12,2,0.167,4.1,2.0,High Cost,À risque,Tiers Plus
+728,Hyundai,Voiture de luxe,10,12105,136985,8,True,False,42,22,1,0.045,2.0,3.2,Low Cost,Expert,Tiers Plus
+729,Porsche,Citadine,7,68505,117427,14,False,True,45,2,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+730,Kia,Citadine,12,2157,187771,4,True,True,71,38,1,0.026,1.3,2.4,Low Cost,Modéré,Tiers
+731,Chery,Sportive,7,6609,102207,9,False,False,18,0,0,0.0,1.7,3.6,Low Cost,Expert,Tiers Plus
+732,Chery,Berline executive,7,6078,88068,9,True,False,57,6,1,0.167,1.9,2.2,Low Cost,À risque,Tiers
+733,Bentley,Voiture populaire,10,35135,76622,18,True,False,28,9,0,0.0,3.0,4.0,High Cost,Expert,Tout Risque
+734,Lamborghini,Voiture de luxe,1,266886,18821,18,False,True,34,2,0,0.0,4.0,3.6,High Cost,Expert,Tout Risque
+735,Citroën,Voiture populaire,2,25542,23040,8,False,False,65,30,0,0.0,2.55,3.8,Medium Cost,Expert,Tout Risque
+736,Volvo,Berline executive,11,45750,128788,12,True,False,32,14,3,0.214,2.55,2.4,Medium Cost,Modéré,Tiers Plus
+737,Infiniti,Berline compact,14,20805,340899,14,False,True,20,1,1,1.0,1.85,0.8,Low Cost,À risque,Tiers
+738,Citroën,Voiture populaire,8,6794,124699,9,True,True,47,19,1,0.053,2.0,2.8,Low Cost,Modéré,Tiers
+739,Bentley,Citadine,0,217717,0,23,True,True,46,1,0,0.0,4.0,3.6,High Cost,Expert,Tout Risque
+740,Peugeot,Citadine,6,14848,101128,9,False,False,31,7,0,0.0,1.7,4.0,Low Cost,Expert,Tiers Plus
+741,Nissan,Berline compact,1,41208,14880,5,True,True,46,19,0,0.0,2.9,3.6,Medium Cost,Expert,Tout Risque
+742,Lexus,Voiture de luxe,4,103741,80042,12,True,False,60,16,0,0.0,3.3,3.8,High Cost,Expert,Tout Risque
+743,Peugeot,Voiture de luxe,6,33666,93846,9,False,False,56,24,0,0.0,2.25,3.8,Medium Cost,Expert,Tout Risque
+744,Hyundai,Berline executive,3,19571,42059,7,True,True,26,4,1,0.25,2.15,2.0,Medium Cost,À risque,Tiers
+745,Chery,Break familial,1,10375,9994,4,True,False,55,32,1,0.031,2.3,3.0,Medium Cost,Modéré,Tiers Plus
+746,Hyundai,Sportive,0,22643,0,8,False,False,60,31,1,0.032,2.3,3.0,Medium Cost,Modéré,Tiers Plus
+747,Ford,Voiture populaire,9,13837,137945,8,False,True,33,1,0,0.0,1.7,3.6,Low Cost,Expert,Tiers Plus
+748,Toyota,Break familial,9,11504,103939,6,False,False,66,36,1,0.028,1.75,2.8,Low Cost,Modéré,Tiers
+749,Bentley,Break familial,12,99531,191130,18,False,False,47,25,1,0.04,2.65,3.2,Medium Cost,Expert,Tout Risque
+750,Infiniti,Sportive,3,104968,77598,12,True,True,23,5,1,0.2,3.4,2.0,High Cost,À risque,Tiers Plus
+751,Chevrolet,Citadine,3,16651,77716,6,False,True,46,20,1,0.05,1.65,2.8,Low Cost,Modéré,Tiers
+752,Peugeot,Berline executive,8,8281,60819,11,True,False,37,5,2,0.4,2.3,1.6,Medium Cost,À risque,Tiers
+753,Dacia,Voiture de luxe,5,17939,84469,8,False,True,72,34,0,0.0,1.9,3.2,Low Cost,Expert,Tiers Plus
+754,Renault,Break familial,12,15355,250014,9,False,False,59,33,2,0.061,1.5,3.0,Low Cost,Modéré,Tiers
+755,Fiat,Berline compact,13,4332,191395,4,False,True,31,6,0,0.0,1.1,3.6,Low Cost,Expert,Tiers Plus
+756,Fiat,Break familial,13,4538,252221,5,False,False,51,0,1,1.0,1.15,1.4,Low Cost,À risque,Tiers
+757,BMW,Voiture populaire,12,30564,185087,8,True,True,44,20,2,0.1,2.25,2.8,Medium Cost,Modéré,Tiers Plus
+758,Jaguar,Voiture de luxe,11,118837,212089,20,True,True,18,0,1,1.0,3.15,0.8,High Cost,À risque,Tiers Plus
+759,Audi,Berline compact,10,18878,96242,14,True,False,24,3,0,0.0,2.45,4.0,Medium Cost,Expert,Tout Risque
+760,Citroën,Berline executive,13,9364,262621,10,False,False,34,4,1,0.25,1.6,2.4,Low Cost,Modéré,Tiers
+761,Ford,Sportive,5,21675,114368,10,False,True,70,5,1,0.2,2.2,1.6,Medium Cost,À risque,Tiers
+762,Hyundai,Break familial,5,7380,94810,4,True,True,32,11,3,0.273,1.9,2.0,Low Cost,À risque,Tiers
+763,Chevrolet,Voiture populaire,0,23513,0,5,True,False,19,0,1,1.0,2.25,1.2,Medium Cost,À risque,Tiers
+764,BMW,Berline executive,6,48196,128657,15,False,True,32,2,0,0.0,2.5,3.6,Medium Cost,Expert,Tout Risque
+765,Lexus,Berline executive,1,134185,12736,18,True,False,48,17,2,0.118,3.9,2.4,High Cost,Modéré,Tout Risque
+766,Volkswagen,Sportive,8,17689,144139,11,False,True,24,1,0,0.0,2.0,3.6,Low Cost,Expert,Tiers Plus
+767,Hyundai,Berline compact,3,7914,61869,6,False,True,27,2,0,0.0,1.75,3.6,Low Cost,Expert,Tiers Plus
+768,Renault,Berline executive,9,15280,186954,10,True,True,44,16,0,0.0,2.1,3.6,Medium Cost,Expert,Tout Risque
+769,Maserati,Break familial,10,82867,129371,15,False,False,30,8,1,0.125,2.95,2.4,Medium Cost,Modéré,Tiers Plus
+770,Volvo,Citadine,5,23341,45597,10,False,False,54,23,0,0.0,2.3,3.8,Medium Cost,Expert,Tout Risque
+771,Chery,Citadine,7,2514,78927,3,False,False,74,23,0,0.0,1.4,3.6,Low Cost,Expert,Tiers Plus
+772,Lexus,Break familial,0,63521,0,13,True,False,28,4,0,0.0,3.55,4.0,High Cost,Expert,Tout Risque
+773,Kia,Berline compact,6,10498,104330,4,True,True,35,9,0,0.0,1.7,3.6,Low Cost,Expert,Tiers Plus
+774,Fiat,Break familial,4,11044,84769,3,True,True,66,28,0,0.0,1.9,3.2,Low Cost,Expert,Tiers Plus
+775,Nissan,Berline executive,1,36130,13669,9,True,False,44,14,0,0.0,3.05,4.0,High Cost,Expert,Tout Risque
+776,Hyundai,Citadine,6,7702,137561,6,True,True,43,25,0,0.0,1.65,3.6,Low Cost,Expert,Tiers Plus
+777,Jaguar,Sportive,0,312857,0,20,True,True,59,18,1,0.056,4.3,2.6,High Cost,Modéré,Tout Risque
+778,Lamborghini,Berline executive,0,429048,0,23,True,True,66,25,0,0.0,4.2,3.2,High Cost,Expert,Tout Risque
+779,BMW,Citadine,3,66054,50642,13,True,False,33,7,1,0.143,3.15,2.4,High Cost,Modéré,Tout Risque
+780,Bentley,Voiture de luxe,13,48751,251569,23,False,True,33,9,0,0.0,2.6,3.6,Medium Cost,Expert,Tout Risque
+781,Nissan,Voiture de luxe,6,31964,75031,8,True,False,43,13,0,0.0,2.65,4.0,Medium Cost,Expert,Tout Risque
+782,Renault,Berline compact,9,18458,69081,7,False,False,43,10,1,0.1,1.85,3.2,Low Cost,Expert,Tiers Plus
+783,BMW,Berline compact,11,39476,216713,11,True,True,50,12,1,0.083,2.35,2.8,Medium Cost,Modéré,Tiers Plus
+784,Jaguar,SUV,13,35915,125456,26,False,False,40,14,0,0.0,2.6,4.0,Medium Cost,Expert,Tout Risque
+785,Lexus,Sportive,0,84908,0,14,True,True,63,2,0,0.0,3.75,3.4,High Cost,Expert,Tout Risque
+786,Citroën,Voiture de luxe,7,38230,141225,10,True,False,63,5,0,0.0,2.55,3.8,Medium Cost,Expert,Tout Risque
+787,Renault,Break familial,3,34683,24732,7,True,False,70,50,0,0.0,2.7,3.6,Medium Cost,Expert,Tout Risque
+788,Lamborghini,Berline executive,2,379504,27856,24,False,False,22,2,0,0.0,3.9,4.0,High Cost,Expert,Tout Risque
+789,Toyota,Berline executive,2,47831,21703,11,False,False,46,5,0,0.0,2.75,4.0,Medium Cost,Expert,Tout Risque
+790,Chery,Citadine,4,11001,91904,3,False,True,25,1,0,0.0,1.5,3.6,Low Cost,Expert,Tiers Plus
+791,Dacia,SUV,2,20554,19006,7,True,False,63,33,0,0.0,2.45,3.8,Medium Cost,Expert,Tout Risque
+792,Volvo,Berline executive,9,43281,136949,13,True,True,18,0,0,0.0,2.8,3.2,Medium Cost,Expert,Tout Risque
+793,Kia,Break familial,3,16870,32876,7,True,False,21,1,0,0.0,2.05,3.6,Medium Cost,Expert,Tout Risque
+794,Lexus,Citadine,1,44566,10436,13,True,False,68,10,1,0.1,3.2,2.8,High Cost,Modéré,Tout Risque
+795,Toyota,Berline compact,14,12536,237801,6,True,True,28,4,1,0.25,1.75,2.0,Low Cost,À risque,Tiers
+796,Infiniti,Berline executive,4,66239,94648,13,False,True,31,5,1,0.2,2.95,2.0,Medium Cost,À risque,Tiers
+797,Maserati,Berline executive,5,312277,103490,16,True,True,41,22,1,0.045,3.8,2.8,High Cost,Modéré,Tout Risque
+798,Lamborghini,Sportive,0,578494,0,20,False,True,39,11,2,0.182,4.0,2.0,High Cost,À risque,Tiers Plus
+799,Mercedes,Citadine,13,23593,183872,8,True,True,55,23,0,0.0,2.0,3.4,Low Cost,Expert,Tiers Plus
+800,Peugeot,Break familial,7,13490,125413,9,True,False,56,23,0,0.0,2.1,3.8,Medium Cost,Expert,Tout Risque
+801,Dacia,Berline executive,1,13423,14898,6,True,True,63,41,0,0.0,2.45,3.4,Medium Cost,Expert,Tout Risque
+802,Ford,Berline compact,9,10831,176355,6,False,True,57,22,0,0.0,1.65,3.4,Low Cost,Expert,Tiers Plus
+803,Dacia,Berline compact,6,6914,115528,7,True,True,64,32,0,0.0,1.75,3.4,Low Cost,Expert,Tiers Plus
+804,Volvo,Berline executive,3,69590,39217,16,True,False,41,7,0,0.0,3.35,4.0,High Cost,Expert,Tout Risque
+805,Maserati,Voiture de luxe,11,174494,106931,16,True,False,43,3,0,0.0,3.5,4.0,High Cost,Expert,Tout Risque
+806,Volkswagen,Berline executive,12,17007,268924,11,True,True,54,29,0,0.0,1.9,3.4,Low Cost,Expert,Tiers Plus
+807,Bentley,Voiture de luxe,6,82803,51248,26,False,False,25,1,1,1.0,3.25,1.6,High Cost,À risque,Tiers Plus
+808,Chery,Berline executive,4,12916,63900,11,True,True,43,7,0,0.0,2.2,3.6,Medium Cost,Expert,Tout Risque
+809,Nissan,SUV,9,18866,207191,10,False,True,35,12,2,0.167,1.8,2.0,Low Cost,À risque,Tiers
+810,Chery,Citadine,11,3914,164522,7,False,True,43,23,0,0.0,1.05,3.6,Low Cost,Expert,Tiers Plus
+811,Chery,Berline executive,6,10852,125883,8,True,True,54,12,1,0.083,1.9,2.6,Low Cost,Modéré,Tiers
+812,Mercedes,Berline compact,9,17044,203677,8,False,True,67,14,0,0.0,2.0,3.2,Low Cost,Expert,Tiers Plus
+813,Peugeot,Berline executive,14,11565,308518,12,False,True,65,35,1,0.029,1.6,2.6,Low Cost,Modéré,Tiers
+814,Jaguar,Voiture populaire,0,81293,0,24,False,False,46,20,0,0.0,3.45,4.0,High Cost,Expert,Tout Risque
+815,Dacia,SUV,12,11123,231767,11,True,True,47,28,3,0.107,1.6,2.0,Low Cost,À risque,Tiers
+816,Maserati,Voiture populaire,7,31881,68110,20,False,False,43,4,0,0.0,2.7,4.0,Medium Cost,Expert,Tout Risque
+817,Lamborghini,Voiture populaire,0,182848,0,23,True,True,69,27,2,0.074,4.0,2.4,High Cost,Modéré,Tout Risque
+818,Nissan,Sportive,4,37361,102894,8,False,True,62,13,0,0.0,2.45,3.4,Medium Cost,Expert,Tout Risque
+819,Audi,Sportive,5,111493,48363,10,False,False,27,8,0,0.0,3.1,4.0,High Cost,Expert,Tout Risque
+820,Lexus,Voiture de luxe,14,31375,112748,13,True,False,21,2,0,0.0,2.7,3.6,Medium Cost,Expert,Tout Risque
+821,Lamborghini,Break familial,7,166611,75180,13,True,False,20,0,1,1.0,3.6,1.2,High Cost,À risque,Tiers Plus
+822,Hyundai,Citadine,1,10824,22890,3,False,True,58,13,0,0.0,1.9,3.4,Low Cost,Expert,Tiers Plus
+823,Ford,SUV,8,13695,124801,10,True,True,33,11,0,0.0,2.2,3.6,Medium Cost,Expert,Tout Risque
+824,Ford,Berline compact,1,21455,19691,6,False,True,44,23,1,0.043,2.35,2.8,Medium Cost,Modéré,Tiers Plus
+825,Bentley,Voiture populaire,9,87835,94190,17,True,False,21,0,0,0.0,3.15,3.6,High Cost,Expert,Tout Risque
+826,Porsche,Sportive,3,413930,27570,23,True,False,64,30,1,0.033,4.1,3.0,High Cost,Modéré,Tout Risque
+827,Jaguar,Berline compact,2,350762,40347,18,False,True,43,15,1,0.067,3.7,2.8,High Cost,Modéré,Tout Risque
+828,Fiat,Voiture populaire,12,7003,292468,6,False,True,47,11,0,0.0,1.05,3.6,Low Cost,Expert,Tiers Plus
+829,Renault,Voiture de luxe,2,48078,22455,8,False,False,66,11,1,0.091,2.85,2.8,Medium Cost,Modéré,Tiers Plus
+830,Volkswagen,Break familial,7,11959,159057,8,True,True,40,21,1,0.048,2.0,2.8,Low Cost,Modéré,Tiers
+831,Nissan,Sportive,14,13472,334214,11,True,True,67,36,2,0.056,2.0,2.4,Low Cost,Modéré,Tiers
+832,Toyota,Citadine,13,7327,277950,8,False,True,69,18,0,0.0,1.4,3.2,Low Cost,Expert,Tiers Plus
+833,Volkswagen,Sportive,6,45289,84687,13,True,True,22,1,0,0.0,2.6,3.6,Medium Cost,Expert,Tout Risque
+834,Dacia,Break familial,8,4820,96716,4,True,False,44,18,1,0.056,1.7,3.2,Low Cost,Expert,Tiers Plus
+835,Hyundai,Sportive,0,11781,0,10,True,False,26,0,0,0.0,2.6,4.0,Medium Cost,Expert,Tout Risque
+836,Lamborghini,Voiture de luxe,8,132361,75041,22,False,False,36,3,0,0.0,3.5,4.0,High Cost,Expert,Tout Risque
+837,Land Rover,SUV,12,103691,231656,28,True,False,61,9,0,0.0,3.05,3.8,High Cost,Expert,Tout Risque
+838,Chery,Berline executive,8,3779,122165,11,False,False,63,22,0,0.0,1.6,3.8,Low Cost,Expert,Tiers Plus
+839,Chery,Sportive,5,13070,68784,10,True,False,74,28,2,0.071,2.3,2.8,Medium Cost,Modéré,Tiers Plus
+840,BMW,Sportive,0,140210,0,13,False,True,58,39,0,0.0,3.7,3.4,High Cost,Expert,Tout Risque
+841,Citroën,Citadine,14,6917,256102,9,True,True,69,43,0,0.0,1.7,3.2,Low Cost,Expert,Tiers Plus
+842,Hyundai,Berline executive,4,17512,78666,7,False,True,40,8,0,0.0,1.85,3.6,Low Cost,Expert,Tiers Plus
+843,Lexus,Citadine,1,42597,19249,13,False,False,59,19,1,0.053,2.9,3.0,Medium Cost,Modéré,Tiers Plus
+844,Lexus,Sportive,10,48093,102586,15,True,False,56,17,0,0.0,2.9,3.8,Medium Cost,Expert,Tout Risque
+845,Volkswagen,Voiture populaire,10,5218,168405,8,False,True,21,1,0,0.0,1.6,3.2,Low Cost,Expert,Tiers Plus
+846,Volvo,Berline compact,13,20834,179238,8,True,False,41,13,0,0.0,2.1,4.0,Medium Cost,Expert,Tout Risque
+847,Chery,Berline compact,9,3131,232950,6,True,True,47,23,2,0.087,1.65,2.8,Low Cost,Modéré,Tiers
+848,Chevrolet,Citadine,6,5267,111685,6,False,True,45,23,0,0.0,1.35,3.6,Low Cost,Expert,Tiers Plus
+849,Land Rover,Voiture de luxe,2,462998,41835,16,True,True,18,0,0,0.0,4.2,3.2,High Cost,Expert,Tout Risque
+850,Porsche,SUV,12,57473,240648,26,False,True,56,21,0,0.0,2.5,3.4,Medium Cost,Expert,Tout Risque
+851,Hyundai,Voiture de luxe,13,12307,128547,9,False,False,35,11,0,0.0,1.5,4.0,Low Cost,Expert,Tiers Plus
+852,Citroën,Sportive,14,12918,196205,9,True,False,26,8,0,0.0,2.0,4.0,Low Cost,Expert,Tiers Plus
+853,Kia,Voiture de luxe,14,8531,296732,6,True,True,47,3,1,0.333,1.65,1.2,Low Cost,À risque,Tiers
+854,Infiniti,Voiture populaire,8,25857,197345,9,True,True,39,15,1,0.067,2.45,2.8,Medium Cost,Modéré,Tiers Plus
+855,Lamborghini,SUV,5,263286,54069,22,False,False,48,11,2,0.182,3.6,2.4,High Cost,Modéré,Tout Risque
+856,Citroën,Voiture de luxe,11,15816,96670,12,False,False,27,9,1,0.111,1.8,2.4,Low Cost,Modéré,Tiers
+857,Fiat,Berline compact,6,8556,100394,6,False,False,56,33,0,0.0,1.45,3.8,Low Cost,Expert,Tiers Plus
+858,Chevrolet,Voiture de luxe,5,6879,77440,8,True,False,67,36,0,0.0,2.3,3.6,Medium Cost,Expert,Tout Risque
+859,Ford,Break familial,2,17866,38450,7,True,False,29,0,0,0.0,2.55,4.0,Medium Cost,Expert,Tout Risque
+860,Citroën,Berline executive,7,28079,88518,8,True,False,49,9,0,0.0,2.45,4.0,Medium Cost,Expert,Tout Risque
+861,Lamborghini,SUV,12,88221,130838,19,False,False,21,0,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+862,Mercedes,Voiture populaire,5,39153,91519,11,True,True,30,3,1,0.333,2.75,1.2,Medium Cost,À risque,Tiers
+863,Volkswagen,Sportive,12,20194,154794,9,False,False,19,0,0,0.0,1.7,3.6,Low Cost,Expert,Tiers Plus
+864,Bentley,Voiture de luxe,1,486171,17952,26,True,True,64,42,2,0.048,4.3,2.6,High Cost,Modéré,Tout Risque
+865,BMW,Break familial,2,90184,41706,12,False,False,56,12,0,0.0,3.1,3.8,High Cost,Expert,Tout Risque
+866,Ferrari,Berline executive,4,121583,83311,27,True,True,57,15,1,0.067,3.8,2.6,High Cost,Modéré,Tout Risque
+867,Hyundai,SUV,2,21844,39386,10,False,True,24,4,0,0.0,2.1,3.6,Medium Cost,Expert,Tout Risque
+868,Ferrari,Citadine,9,25297,203161,14,True,True,28,6,0,0.0,2.8,3.6,Medium Cost,Expert,Tout Risque
+869,Renault,Citadine,5,15179,80905,8,True,True,67,15,0,0.0,2.2,3.2,Medium Cost,Expert,Tout Risque
+870,BMW,Citadine,6,49784,105452,12,False,True,40,13,1,0.077,2.25,2.8,Medium Cost,Modéré,Tiers Plus
+871,Citroën,Berline executive,1,62456,18306,10,False,False,54,32,0,0.0,3.0,3.8,High Cost,Expert,Tout Risque
+872,Jaguar,Voiture populaire,14,74672,238303,13,True,True,70,36,0,0.0,2.85,3.2,Medium Cost,Expert,Tout Risque
+873,Toyota,Sportive,14,21287,245818,10,False,True,35,0,0,0.0,1.7,3.6,Low Cost,Expert,Tiers Plus
+874,Mercedes,Berline executive,5,67860,78730,14,False,True,58,15,0,0.0,3.05,3.4,High Cost,Expert,Tout Risque
+875,Citroën,Voiture populaire,6,20789,115368,9,False,True,44,25,1,0.04,1.7,2.8,Low Cost,Modéré,Tiers
+876,Nissan,Citadine,9,13643,153807,6,True,True,55,4,2,0.5,1.85,1.0,Low Cost,À risque,Tiers
+877,Peugeot,Break familial,1,47027,17205,7,True,False,46,21,1,0.048,2.9,3.2,Medium Cost,Expert,Tout Risque
+878,Jaguar,Voiture de luxe,2,515717,38482,16,True,True,50,10,1,0.1,4.2,2.8,High Cost,Modéré,Tout Risque
+879,Mercedes,Berline compact,4,90306,75579,13,True,True,44,3,1,0.333,3.25,1.2,High Cost,À risque,Tiers Plus
+880,Peugeot,SUV,1,33147,16936,11,False,False,18,0,1,1.0,2.75,1.2,Medium Cost,À risque,Tiers
+881,Audi,Voiture de luxe,5,44010,57450,12,False,False,27,4,1,0.25,2.85,2.4,Medium Cost,Modéré,Tiers Plus
+882,Citroën,Break familial,1,27952,15953,6,False,False,53,20,0,0.0,2.6,3.8,Medium Cost,Expert,Tout Risque
+883,Land Rover,Voiture de luxe,5,284484,124832,17,True,True,43,20,1,0.05,3.9,2.8,High Cost,Modéré,Tout Risque
+884,Volvo,Berline executive,5,77017,40638,15,False,False,33,0,0,0.0,3.05,4.0,High Cost,Expert,Tout Risque
+885,Land Rover,Voiture populaire,2,164413,48872,24,False,True,72,42,0,0.0,3.6,3.2,High Cost,Expert,Tout Risque
+886,Ford,SUV,5,40881,76889,10,False,False,28,7,0,0.0,2.45,4.0,Medium Cost,Expert,Tout Risque
+887,Citroën,SUV,4,38561,88239,13,True,True,38,19,1,0.053,2.7,2.8,Medium Cost,Modéré,Tiers Plus
+888,Volvo,Break familial,13,15966,145726,8,True,False,43,9,0,0.0,2.2,4.0,Medium Cost,Expert,Tout Risque
+889,Land Rover,Berline executive,3,102661,48776,19,True,True,40,8,1,0.125,3.65,2.0,High Cost,À risque,Tiers Plus
+890,Jaguar,Sportive,5,246905,44303,18,False,False,74,26,0,0.0,3.7,3.6,High Cost,Expert,Tout Risque
+891,Audi,Voiture de luxe,9,52197,173599,12,False,True,25,6,1,0.167,2.45,2.0,Medium Cost,À risque,Tiers
+892,Infiniti,Break familial,9,21162,148235,11,False,True,63,1,0,0.0,2.1,3.4,Medium Cost,Expert,Tout Risque
+893,Land Rover,Sportive,4,125757,42390,23,False,False,20,1,0,0.0,3.7,3.6,High Cost,Expert,Tout Risque
+894,Chery,Berline compact,5,14573,116613,4,False,True,40,1,0,0.0,1.6,3.6,Low Cost,Expert,Tiers Plus
+895,Mercedes,Berline compact,4,69795,79867,11,False,True,34,0,0,0.0,2.9,3.6,Medium Cost,Expert,Tout Risque
+896,Land Rover,Berline executive,12,135243,251490,17,True,True,41,21,1,0.048,3.3,2.8,High Cost,Modéré,Tout Risque
+897,Toyota,Break familial,12,15646,170186,6,False,False,45,3,2,0.667,1.45,1.6,Low Cost,À risque,Tiers
+898,Lamborghini,Berline executive,10,111366,121418,23,False,False,32,9,0,0.0,3.05,4.0,High Cost,Expert,Tout Risque
+899,Infiniti,SUV,10,16576,251361,15,False,True,51,22,2,0.091,2.15,2.6,Medium Cost,Modéré,Tiers Plus
+900,Mercedes,Citadine,6,25358,88448,9,True,False,65,14,0,0.0,2.55,3.8,Medium Cost,Expert,Tout Risque
+901,Renault,Voiture populaire,14,11381,173735,6,False,False,49,27,1,0.037,1.35,3.2,Low Cost,Expert,Tiers Plus
+902,Audi,Citadine,11,12453,178855,13,True,True,74,54,0,0.0,2.05,3.2,Medium Cost,Expert,Tout Risque
+903,Renault,Berline executive,9,14064,90339,10,False,False,62,36,0,0.0,1.9,3.8,Low Cost,Expert,Tiers Plus
+904,Chevrolet,Berline executive,3,10410,45124,8,True,True,33,8,0,0.0,2.2,3.6,Medium Cost,Expert,Tout Risque
+905,Mercedes,Berline executive,1,77529,16390,18,True,False,71,25,0,0.0,3.65,3.6,High Cost,Expert,Tout Risque
+906,Jaguar,Citadine,11,34743,180688,12,True,False,69,47,1,0.021,2.55,2.8,Medium Cost,Modéré,Tiers Plus
+907,Citroën,Break familial,10,14670,222278,6,True,True,64,19,0,0.0,1.95,3.4,Low Cost,Expert,Tiers Plus
+908,Mercedes,Voiture populaire,8,28492,157578,11,True,False,24,5,0,0.0,2.45,4.0,Medium Cost,Expert,Tout Risque
+909,Jaguar,Voiture de luxe,2,185544,20848,25,False,False,62,41,1,0.024,4.0,3.0,High Cost,Modéré,Tout Risque
+910,Mercedes,Voiture de luxe,0,100286,0,11,True,True,46,28,0,0.0,3.7,3.6,High Cost,Expert,Tout Risque
+911,Lexus,Break familial,8,17111,136686,9,False,True,46,3,1,0.333,2.1,1.2,Medium Cost,À risque,Tiers
+912,Ford,Break familial,8,17046,121173,7,True,True,68,49,1,0.02,2.05,2.4,Medium Cost,Modéré,Tiers Plus
+913,Jaguar,Break familial,5,231050,50882,15,True,False,42,24,0,0.0,3.8,4.0,High Cost,Expert,Tout Risque
+914,Volkswagen,Berline compact,3,45000,40319,8,True,False,61,33,1,0.03,2.65,3.0,Medium Cost,Modéré,Tiers Plus
+915,Volvo,SUV,5,37076,129309,14,True,True,50,2,0,0.0,3.0,3.6,Medium Cost,Expert,Tout Risque
+916,Fiat,SUV,11,3464,143064,10,False,False,19,1,0,0.0,1.4,3.6,Low Cost,Expert,Tiers Plus
+917,Bentley,Berline executive,3,413377,56981,28,False,True,72,22,0,0.0,3.6,3.2,High Cost,Expert,Tout Risque
+918,Ford,Sportive,12,19124,188681,12,False,True,19,1,0,0.0,1.7,3.2,Low Cost,Expert,Tiers Plus
+919,Chery,Voiture de luxe,13,10826,257369,7,True,True,60,24,1,0.042,1.65,2.6,Low Cost,Modéré,Tiers
+920,Peugeot,Berline compact,13,18849,193028,7,True,True,43,24,2,0.083,1.75,2.8,Low Cost,Modéré,Tiers
+921,Infiniti,Berline compact,4,84859,42776,8,True,False,66,35,1,0.029,3.2,2.8,High Cost,Modéré,Tout Risque
+922,Maserati,Citadine,6,50022,81336,15,False,False,63,43,2,0.047,2.6,3.0,Medium Cost,Modéré,Tiers Plus
+923,Ferrari,Citadine,10,82826,193961,22,True,True,47,7,1,0.143,3.05,2.0,High Cost,À risque,Tiers Plus
+924,Jaguar,Citadine,14,81259,357237,15,True,True,36,4,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+925,Audi,Sportive,7,53498,155942,13,False,True,36,17,0,0.0,2.5,3.6,Medium Cost,Expert,Tout Risque
+926,Lexus,SUV,6,78820,137742,12,False,True,50,15,2,0.133,2.7,2.0,Medium Cost,À risque,Tiers
+927,Renault,Citadine,9,10794,80179,6,False,False,22,0,0,0.0,1.65,4.0,Low Cost,Expert,Tiers Plus
+928,Land Rover,Voiture populaire,5,154437,114335,23,False,True,40,0,0,0.0,3.3,3.6,High Cost,Expert,Tout Risque
+929,Audi,Voiture populaire,1,96319,10671,12,True,False,43,15,0,0.0,3.4,4.0,High Cost,Expert,Tout Risque
+930,Kia,Voiture populaire,5,8475,87459,4,False,True,41,17,1,0.059,1.5,2.8,Low Cost,Modéré,Tiers
+931,Porsche,Break familial,7,113087,149974,12,False,True,46,25,2,0.08,2.9,2.8,Medium Cost,Modéré,Tiers Plus
+932,Toyota,Voiture de luxe,5,52060,97791,10,False,True,31,5,1,0.2,2.45,2.0,Medium Cost,À risque,Tiers
+933,Fiat,Sportive,6,8723,71661,9,True,False,72,8,0,0.0,2.1,3.6,Medium Cost,Expert,Tout Risque
+934,Ford,Break familial,1,45971,24237,6,True,True,51,2,0,0.0,2.9,3.4,Medium Cost,Expert,Tout Risque
+935,Land Rover,Voiture populaire,7,118875,106042,12,True,False,35,6,0,0.0,3.1,4.0,High Cost,Expert,Tout Risque
+936,Chevrolet,Voiture populaire,11,3321,239540,5,True,True,21,0,1,1.0,1.35,0.8,Low Cost,À risque,Tiers
+937,Citroën,Break familial,11,12273,192234,9,False,False,54,15,3,0.2,1.5,2.2,Low Cost,À risque,Tiers
+938,Citroën,Sportive,2,65549,40799,11,True,True,46,2,0,0.0,3.3,3.6,High Cost,Expert,Tout Risque
+939,Chery,Citadine,14,3755,142529,5,False,False,66,31,0,0.0,1.15,3.6,Low Cost,Expert,Tiers Plus
+940,Lamborghini,Berline executive,1,448574,17226,16,False,True,57,25,3,0.12,3.9,1.8,High Cost,À risque,Tiers Plus
+941,Kia,Citadine,9,1858,211328,3,True,True,70,2,0,0.0,1.5,3.2,Low Cost,Expert,Tiers Plus
+942,Land Rover,Berline compact,1,121139,13578,20,False,False,44,9,0,0.0,3.8,4.0,High Cost,Expert,Tout Risque
+943,BMW,SUV,6,80523,93397,14,True,False,57,2,1,0.5,3.05,1.4,High Cost,À risque,Tiers Plus
+944,Ford,Berline compact,11,9303,114702,9,True,False,28,4,0,0.0,1.9,4.0,Low Cost,Expert,Tiers Plus
+945,Nissan,Sportive,0,88423,0,13,False,False,48,10,0,0.0,3.15,4.0,High Cost,Expert,Tout Risque
+946,Maserati,Sportive,1,143286,22416,26,False,True,54,20,0,0.0,4.0,3.4,High Cost,Expert,Tout Risque
+947,Kia,Berline compact,3,18652,61512,7,True,True,55,19,1,0.053,2.05,2.6,Medium Cost,Modéré,Tiers Plus
+948,Kia,Voiture de luxe,1,36022,12933,5,False,False,18,0,0,0.0,2.5,3.6,Medium Cost,Expert,Tout Risque
+949,Chery,Voiture de luxe,12,13253,198677,5,False,True,29,4,0,0.0,1.35,3.6,Low Cost,Expert,Tiers Plus
+950,Land Rover,Berline compact,6,163295,74706,14,False,False,37,4,0,0.0,3.3,4.0,High Cost,Expert,Tout Risque
+951,Kia,Voiture de luxe,5,11729,121987,7,False,True,30,12,0,0.0,1.85,3.6,Low Cost,Expert,Tiers Plus
+952,Hyundai,SUV,8,4257,121526,8,False,True,40,17,1,0.059,1.6,2.8,Low Cost,Modéré,Tiers
+953,Maserati,Break familial,10,37437,248344,15,False,True,22,0,0,0.0,2.6,3.6,Medium Cost,Expert,Tout Risque
+954,Audi,Break familial,1,45085,11306,9,False,False,72,15,0,0.0,2.95,3.6,Medium Cost,Expert,Tout Risque
+955,Land Rover,Voiture de luxe,9,55504,201637,20,True,True,66,32,2,0.062,3.1,2.4,High Cost,Modéré,Tout Risque
+956,Dacia,Berline compact,0,20217,0,4,False,False,37,18,1,0.056,2.0,3.2,Low Cost,Expert,Tiers Plus
+957,Chery,Voiture populaire,7,9382,88515,3,False,False,35,8,0,0.0,1.3,4.0,Low Cost,Expert,Tiers Plus
+958,Peugeot,Berline executive,12,21587,272552,11,False,True,73,36,1,0.028,1.6,2.4,Low Cost,Modéré,Tiers
+959,Volvo,Break familial,8,19643,61178,12,False,False,33,9,0,0.0,2.2,4.0,Medium Cost,Expert,Tout Risque
+960,Peugeot,Voiture populaire,13,9913,103781,7,False,False,57,11,0,0.0,1.45,3.8,Low Cost,Expert,Tiers Plus
+961,Lamborghini,Sportive,4,264321,65423,14,True,False,44,19,1,0.053,4.0,3.2,High Cost,Expert,Tout Risque
+962,BMW,Berline executive,8,31129,86052,13,True,False,72,0,1,1.0,2.8,1.2,Medium Cost,À risque,Tiers
+963,Bentley,Citadine,12,89737,135331,21,True,False,71,6,0,0.0,2.95,3.6,Medium Cost,Expert,Tout Risque
+964,Audi,Citadine,9,29524,172319,10,True,True,59,31,0,0.0,2.45,3.4,Medium Cost,Expert,Tout Risque
+965,Lamborghini,SUV,7,161322,56052,21,True,False,44,24,0,0.0,3.7,4.0,High Cost,Expert,Tout Risque
+966,Ford,Berline executive,3,46080,61613,8,True,True,52,7,0,0.0,2.75,3.4,Medium Cost,Expert,Tout Risque
+967,BMW,Berline executive,9,29151,98160,15,False,False,28,0,0,0.0,2.5,4.0,Medium Cost,Expert,Tout Risque
+968,Maserati,Sportive,3,211303,68191,18,True,True,54,36,1,0.028,4.0,2.6,High Cost,Modéré,Tout Risque
+969,Ferrari,Break familial,1,116692,8836,15,True,False,21,1,1,1.0,3.85,1.2,High Cost,À risque,Tiers Plus
+970,Toyota,SUV,6,24919,145161,11,False,True,19,0,0,0.0,1.9,3.2,Low Cost,Expert,Tiers Plus
+971,Fiat,Berline compact,10,2360,233979,4,False,True,27,2,1,0.5,1.3,1.2,Low Cost,À risque,Tiers
+972,Maserati,Voiture de luxe,10,48813,141306,20,True,False,45,10,0,0.0,3.2,4.0,High Cost,Expert,Tout Risque
+973,Porsche,Break familial,4,224151,91790,14,True,True,38,19,0,0.0,3.7,3.6,High Cost,Expert,Tout Risque
+974,Nissan,Break familial,1,27103,22759,9,False,True,31,7,0,0.0,2.65,3.6,Medium Cost,Expert,Tout Risque
+975,Maserati,Berline executive,2,262409,29782,15,True,False,66,16,2,0.125,4.2,2.0,High Cost,À risque,Tiers Plus
+976,Fiat,Voiture populaire,1,8122,11900,6,False,False,62,1,0,0.0,1.95,3.8,Low Cost,Expert,Tiers Plus
+977,Land Rover,Berline compact,6,67418,120558,18,False,True,31,11,0,0.0,2.95,3.6,Medium Cost,Expert,Tout Risque
+978,Volvo,Citadine,13,13558,113696,10,False,False,54,23,0,0.0,1.8,3.8,Low Cost,Expert,Tiers Plus
+979,Volvo,Berline compact,7,45091,176748,10,True,True,41,0,1,1.0,2.55,1.2,Medium Cost,À risque,Tiers
+980,Kia,Voiture de luxe,11,7358,82547,10,False,False,51,10,1,0.1,1.5,3.0,Low Cost,Modéré,Tiers
+981,Audi,Break familial,2,63293,39370,10,False,False,35,7,0,0.0,3.1,4.0,High Cost,Expert,Tout Risque
+982,Ford,SUV,12,21972,267722,12,False,True,50,29,1,0.034,1.6,2.8,Low Cost,Modéré,Tiers
+983,Chevrolet,Voiture de luxe,14,10567,129911,8,False,False,45,6,0,0.0,1.5,4.0,Low Cost,Expert,Tiers Plus
+984,Maserati,Break familial,11,40108,160233,16,True,True,21,1,0,0.0,2.7,3.2,Medium Cost,Expert,Tout Risque
+985,Porsche,SUV,8,127369,167542,25,False,True,48,14,0,0.0,3.2,3.6,High Cost,Expert,Tout Risque
+986,Maserati,Berline compact,3,246438,47729,23,False,True,20,2,1,0.5,3.5,0.8,High Cost,À risque,Tiers Plus
+987,Ferrari,Berline executive,12,99038,101467,17,False,False,68,17,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+988,Land Rover,SUV,12,44369,282828,18,False,True,36,6,0,0.0,2.5,3.6,Medium Cost,Expert,Tout Risque
+989,Volvo,Voiture populaire,10,11281,76915,10,True,False,45,20,1,0.05,2.4,3.2,Medium Cost,Expert,Tout Risque
+990,Chevrolet,Citadine,13,4361,215612,4,True,True,39,2,0,0.0,1.3,3.6,Low Cost,Expert,Tiers Plus
+991,Citroën,Berline compact,1,30675,16434,7,False,False,61,28,2,0.071,2.6,3.0,Medium Cost,Modéré,Tiers Plus
+992,Chevrolet,Citadine,1,13024,25140,4,False,True,27,1,1,1.0,1.9,1.2,Low Cost,À risque,Tiers
+993,Ferrari,Citadine,7,54816,67891,17,False,False,57,18,1,0.056,2.7,3.0,Medium Cost,Modéré,Tiers Plus
+994,Kia,Break familial,0,17999,0,3,False,True,49,4,0,0.0,2.0,3.6,Low Cost,Expert,Tiers Plus
+995,Volvo,SUV,7,70878,120115,18,True,False,32,4,2,0.5,3.05,1.6,High Cost,À risque,Tiers Plus
+996,Nissan,Voiture de luxe,1,28898,24575,11,False,True,41,1,0,0.0,2.85,3.6,Medium Cost,Expert,Tout Risque
+997,Dacia,SUV,10,4097,107181,7,True,False,25,5,0,0.0,1.85,4.0,Low Cost,Expert,Tiers Plus
+998,Peugeot,Berline executive,11,12569,202488,12,True,True,64,45,1,0.022,1.9,2.6,Low Cost,Modéré,Tiers
+999,Volkswagen,Sportive,12,21908,207963,10,True,True,38,20,0,0.0,2.0,3.6,Low Cost,Expert,Tiers Plus
+1000,Chery,Berline compact,5,5438,71309,3,True,False,64,45,0,0.0,2.0,3.8,Low Cost,Expert,Tiers Plus
