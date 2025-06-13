@@ -1,0 +1,112 @@
+|--- Nombre_Accidents <= 0.50
+|   |--- Valeur_Vehicule_DT <= 25039.00
+|   |   |--- Kilometrage <= 70085.00
+|   |   |   |--- Place_Parking_int <= 0.50
+|   |   |   |   |--- Valeur_Vehicule_DT <= 20212.00
+|   |   |   |   |   |--- Marque_encoded <= 9.00
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |   |--- Marque_encoded >  9.00
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |--- Valeur_Vehicule_DT >  20212.00
+|   |   |   |   |   |--- class: Tout Risque
+|   |   |   |--- Place_Parking_int >  0.50
+|   |   |   |   |--- class: Tout Risque
+|   |   |--- Kilometrage >  70085.00
+|   |   |   |--- Valeur_Vehicule_DT <= 13371.50
+|   |   |   |   |--- Age_Conducteur <= 71.50
+|   |   |   |   |   |--- Marque_encoded <= 22.50
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |   |--- Marque_encoded >  22.50
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |--- Age_Conducteur >  71.50
+|   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |--- Valeur_Vehicule_DT >  13371.50
+|   |   |   |   |--- Place_Parking_int <= 0.50
+|   |   |   |   |   |--- Type_Vehicule_encoded <= 2.50
+|   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- Type_Vehicule_encoded >  2.50
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |--- Place_Parking_int >  0.50
+|   |   |   |   |   |--- Kilometrage <= 197458.50
+|   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |--- Kilometrage >  197458.50
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |--- Valeur_Vehicule_DT >  25039.00
+|   |   |--- Valeur_Vehicule_DT <= 30236.00
+|   |   |   |--- Kilometrage <= 143868.00
+|   |   |   |   |--- class: Tout Risque
+|   |   |   |--- Kilometrage >  143868.00
+|   |   |   |   |--- Marque_encoded <= 13.50
+|   |   |   |   |   |--- class: Tout Risque
+|   |   |   |   |--- Marque_encoded >  13.50
+|   |   |   |   |   |--- class: Tout Risque
+|   |   |--- Valeur_Vehicule_DT >  30236.00
+|   |   |   |--- class: Tout Risque
+|--- Nombre_Accidents >  0.50
+|   |--- Valeur_Vehicule_DT <= 36191.50
+|   |   |--- Kilometrage <= 34002.00
+|   |   |   |--- Annees_Experience <= 8.50
+|   |   |   |   |--- class: Tiers
+|   |   |   |--- Annees_Experience >  8.50
+|   |   |   |   |--- Type_Vehicule_encoded <= 1.50
+|   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |--- Type_Vehicule_encoded >  1.50
+|   |   |   |   |   |--- Age_Conducteur <= 54.50
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |   |--- Age_Conducteur >  54.50
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |--- Kilometrage >  34002.00
+|   |   |   |--- Valeur_Vehicule_DT <= 23322.50
+|   |   |   |   |--- Kilometrage <= 97681.00
+|   |   |   |   |   |--- Marque_encoded <= 21.00
+|   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |--- Marque_encoded >  21.00
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |--- Kilometrage >  97681.00
+|   |   |   |   |   |--- Valeur_Vehicule_DT <= 15760.50
+|   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |--- Valeur_Vehicule_DT >  15760.50
+|   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- Valeur_Vehicule_DT >  23322.50
+|   |   |   |   |--- Annees_Experience <= 6.50
+|   |   |   |   |   |--- class: Tiers
+|   |   |   |   |--- Annees_Experience >  6.50
+|   |   |   |   |   |--- Age_Conducteur <= 47.00
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |   |--- Age_Conducteur >  47.00
+|   |   |   |   |   |   |--- truncated branch of depth 2
+|   |--- Valeur_Vehicule_DT >  36191.50
+|   |   |--- Annees_Experience <= 9.50
+|   |   |   |--- Valeur_Vehicule_DT <= 69612.00
+|   |   |   |   |--- Kilometrage <= 82465.50
+|   |   |   |   |   |--- class: Tiers
+|   |   |   |   |--- Kilometrage >  82465.50
+|   |   |   |   |   |--- class: Tiers
+|   |   |   |--- Valeur_Vehicule_DT >  69612.00
+|   |   |   |   |--- Age_Vehicule <= 10.50
+|   |   |   |   |   |--- Chevaux_Fiscaux <= 20.50
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |   |--- Chevaux_Fiscaux >  20.50
+|   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- Age_Vehicule >  10.50
+|   |   |   |   |   |--- class: Tiers
+|   |   |--- Annees_Experience >  9.50
+|   |   |   |--- Valeur_Vehicule_DT <= 66555.50
+|   |   |   |   |--- Age_Vehicule <= 2.50
+|   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |--- Age_Vehicule >  2.50
+|   |   |   |   |   |--- Age_Vehicule <= 5.50
+|   |   |   |   |   |   |--- class: Tiers Plus
+|   |   |   |   |   |--- Age_Vehicule >  5.50
+|   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- Valeur_Vehicule_DT >  66555.50
+|   |   |   |   |--- Nombre_Accidents <= 1.50
+|   |   |   |   |   |--- Kilometrage <= 157753.00
+|   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- Kilometrage >  157753.00
+|   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- Nombre_Accidents >  1.50
+|   |   |   |   |   |--- Valeur_Vehicule_DT <= 105858.50
+|   |   |   |   |   |   |--- class: Tiers
+|   |   |   |   |   |--- Valeur_Vehicule_DT >  105858.50
+|   |   |   |   |   |   |--- truncated branch of depth 2
